@@ -1,0 +1,284 @@
+{
+  "generationux__BorderRadius": {
+    "br_0": {
+      "value": "({generationux.rem} * 0)*0.25",
+      "description": "br_0",
+      "type": "borderRadius"
+    },
+    "br_0_03125": {
+      "value": "({generationux.rem} * 0.03125)*0.25",
+      "description": "br_0_03125",
+      "type": "borderRadius"
+    },
+    "br_0_0625": {
+      "value": "({generationux.rem} * 0.0625)*0.25",
+      "type": "borderRadius",
+      "description": "br_0_0625"
+    },
+    "br_0_125": {
+      "value": "({generationux.rem} * 0.125)*0.25",
+      "description": "br_0_125",
+      "type": "borderRadius"
+    },
+    "br_0_25": {
+      "value": "({generationux.rem} * 0.25)*0.25",
+      "description": "br_0_25",
+      "type": "borderRadius"
+    },
+    "br_0_375": {
+      "value": "({generationux.rem} * 0.375)*0.25",
+      "description": "br_0_375",
+      "type": "borderRadius"
+    },
+    "br_0_5": {
+      "value": "({generationux.rem} * 0.5)*0.25",
+      "description": "br_0_5",
+      "type": "borderRadius"
+    },
+    "br_0_625": {
+      "value": "({generationux.rem} * 0.625)*0.25",
+      "description": "br_0_625",
+      "type": "borderRadius"
+    },
+    "br_0_75": {
+      "value": "({generationux.rem} * 0.75)*0.25",
+      "description": "br_0_75",
+      "type": "borderRadius"
+    },
+    "br_0_875": {
+      "value": "({generationux.rem} * 0.875)*0.25",
+      "description": "br_0_875",
+      "type": "borderRadius"
+    },
+    "br_1": {
+      "value": "({generationux.rem} * 1)*0.25",
+      "type": "borderRadius",
+      "description": "br_1"
+    },
+    "br_1_125": {
+      "value": "({generationux.rem} * 1.125)*0.25",
+      "type": "borderRadius",
+      "description": "br_1_125"
+    },
+    "br_1_25": {
+      "value": "({generationux.rem} * 1.25)*0.25",
+      "description": "br_1_25",
+      "type": "borderRadius"
+    },
+    "br_1_5": {
+      "value": "({generationux.rem} * 1.5)*0.25",
+      "description": "br_1_5",
+      "type": "borderRadius"
+    },
+    "br_1_75": {
+      "value": "({generationux.rem} * 1.75)*0.25",
+      "description": "br_1_75",
+      "type": "borderRadius"
+    },
+    "br_2": {
+      "value": "({generationux.rem} * 2)*0.25",
+      "description": "br_2",
+      "type": "borderRadius"
+    },
+    "br_2_25": {
+      "value": "({generationux.rem} * 2.25)*0.25",
+      "description": "br_2_25",
+      "type": "borderRadius"
+    },
+    "br_2_5": {
+      "value": "({generationux.rem} * 2.5)*0.25",
+      "description": "br_2_5",
+      "type": "borderRadius"
+    },
+    "br_2_625": {
+      "value": "({generationux.rem} * 2.625)*0.25",
+      "description": "br_2_625",
+      "type": "borderRadius"
+    },
+    "br_2_75": {
+      "value": "({generationux.rem} * 2.75)*0.25",
+      "description": "br_2_75",
+      "type": "borderRadius"
+    },
+    "br_3": {
+      "value": "({generationux.rem} * 3)*0.25",
+      "description": "br_3",
+      "type": "borderRadius"
+    },
+    "br_3_25": {
+      "value": "({generationux.rem} * 3.25)*0.25",
+      "description": "br_3_25",
+      "type": "borderRadius"
+    },
+    "br_3_5": {
+      "value": "({generationux.rem} * 3.5)*0.25",
+      "description": "br_3_5",
+      "type": "borderRadius"
+    },
+    "br_3_75": {
+      "value": "({generationux.rem} * 3.75)*0.25",
+      "description": "br_3_75",
+      "type": "borderRadius"
+    },
+    "br_4": {
+      "value": "({generationux.rem} * 4)*0.25",
+      "description": "br_4",
+      "type": "borderRadius"
+    },
+    "br_4_5": {
+      "value": "({generationux.rem} * 4.5)*0.25",
+      "description": "br_4_5",
+      "type": "borderRadius"
+    },
+    "br_5": {
+      "value": "({generationux.rem} * 5)*0.25",
+      "description": "br_5",
+      "type": "borderRadius"
+    },
+    "br_5_625": {
+      "value": "({generationux.rem} * 5.625)*0.25",
+      "description": "br_5_625",
+      "type": "borderRadius"
+    },
+    "br_6": {
+      "value": "({generationux.rem} * 6)*0.25",
+      "description": "br_6",
+      "type": "borderRadius"
+    },
+    "br_7": {
+      "value": "({generationux.rem} * 7)*0.25",
+      "description": "br_7",
+      "type": "borderRadius"
+    },
+    "br_7_5": {
+      "value": "({generationux.rem} * 7.5)*0.25",
+      "description": "br_7_5",
+      "type": "borderRadius"
+    },
+    "br_8": {
+      "value": "({generationux.rem} * 8)*0.25",
+      "description": "br_8",
+      "type": "borderRadius"
+    },
+    "br_9": {
+      "value": "({generationux.rem} * 9)*0.25",
+      "description": "br_9",
+      "type": "borderRadius"
+    },
+    "br_10": {
+      "value": "({generationux.rem} * 10)*0.25",
+      "description": "br_10",
+      "type": "borderRadius"
+    },
+    "br_10_5": {
+      "value": "({generationux.rem} * 10.5)*0.25",
+      "description": "br_10_5",
+      "type": "borderRadius"
+    },
+    "br_10_75": {
+      "value": "({generationux.rem} * 10.75)*0.25",
+      "description": "br_10_75",
+      "type": "borderRadius"
+    },
+    "br_11": {
+      "value": "({generationux.rem} * 11)*0.25",
+      "description": "br_11",
+      "type": "borderRadius"
+    },
+    "br_11_25": {
+      "value": "({generationux.rem} * 11.25)*0.25",
+      "description": "br_11_25",
+      "type": "borderRadius"
+    },
+    "br_12": {
+      "value": "({generationux.rem} * 12)*0.25",
+      "description": "br_12",
+      "type": "borderRadius"
+    },
+    "br_12_5": {
+      "value": "({generationux.rem} * 12.5)*0.25",
+      "description": "br_12_5",
+      "type": "borderRadius"
+    },
+    "br_13": {
+      "value": "({generationux.rem} * 13)*0.25",
+      "description": "br_13",
+      "type": "borderRadius"
+    },
+    "br_14": {
+      "value": "({generationux.rem} * 14)*0.25",
+      "description": "br_14",
+      "type": "borderRadius"
+    },
+    "br_15": {
+      "value": "({generationux.rem} * 15)*0.25",
+      "description": "br_15",
+      "type": "borderRadius"
+    },
+    "br_16": {
+      "value": "({generationux.rem} * 16)*0.25",
+      "description": "br_16",
+      "type": "borderRadius"
+    },
+    "br_17": {
+      "value": "({generationux.rem} * 17)*0.25",
+      "description": "br_17",
+      "type": "borderRadius"
+    },
+    "br_17_5": {
+      "value": "({generationux.rem} * 17.5)*0.25",
+      "description": "br_17_5",
+      "type": "borderRadius"
+    },
+    "br_18": {
+      "value": "({generationux.rem} * 18)*0.25",
+      "description": "br_18",
+      "type": "borderRadius"
+    },
+    "br_20": {
+      "value": "({generationux.rem} * 20)*0.25",
+      "description": "br_20",
+      "type": "borderRadius"
+    },
+    "br_22_5": {
+      "value": "({generationux.rem} * 22.5)*0.25",
+      "description": "br_22_5",
+      "type": "borderRadius"
+    },
+    "br_24": {
+      "value": "({generationux.rem} * 24)*0.25",
+      "description": "br_24",
+      "type": "borderRadius"
+    },
+    "br_25": {
+      "value": "({generationux.rem} * 25)*0.25",
+      "description": "br_25",
+      "type": "borderRadius"
+    },
+    "br_26_25": {
+      "value": "({generationux.rem} * 26.25)*0.25",
+      "type": "borderRadius",
+      "description": "br_26_25"
+    },
+    "br_27_5": {
+      "value": "({generationux.rem} * 27.5)*0.25",
+      "description": "br_27_5",
+      "type": "borderRadius"
+    },
+    "br_30": {
+      "value": "({generationux.rem} * 30)*0.25",
+      "description": "br_30",
+      "type": "borderRadius"
+    },
+    "br_45": {
+      "value": "({generationux.rem} * 45)*0.25",
+      "description": "br_45",
+      "type": "borderRadius"
+    },
+    "br_47_5": {
+      "value": "({generationux.rem} * 47.5)*0.25",
+      "description": "br_47_5",
+      "type": "borderRadius"
+    }
+  }
+}
