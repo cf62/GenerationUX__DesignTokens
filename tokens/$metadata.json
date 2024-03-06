@@ -1,22 +1,22 @@
 {
   "tokenSetOrder": [
     "🌐 PRIMITIVES 🌐",
-    "FEEL/↕↔Chonccy",
-    "FEEL/↕↔Comfy",
-    "FEEL/↕↔Compact",
-    "FEEL/↕↔Regular",
-    "FEEL/↕↔Thicc",
-    "FEEL/↕↔Tight",
-    "FEEL/∞Chonccy",
-    "FEEL/∞Comfy",
-    "FEEL/∞Compact",
-    "FEEL/∞Regular",
-    "FEEL/∞Thicc",
-    "FEEL/∞Tight",
-    "LOOK/🌙 DrivingAtNight_Blue-Cyan",
-    "LOOK/🌙 Summer_Blue-Pink",
     "LOOK/🔆 ContrastTest",
     "LOOK/🔆 DrivingAtNight_Cyan-Blue",
-    "LOOK/🔆 Summer_Pink-Blue"
+    "LOOK/🌙 DrivingAtNight_Blue-Cyan",
+    "LOOK/🔆 Summer_Pink-Blue",
+    "LOOK/🌙 Summer_Blue-Pink",
+    "FEEL/↕↔Tight",
+    "FEEL/∞Tight",
+    "FEEL/↕↔Compact",
+    "FEEL/∞Compact",
+    "FEEL/↕↔Regular",
+    "FEEL/∞Regular",
+    "FEEL/↕↔Comfy",
+    "FEEL/∞Comfy",
+    "FEEL/↕↔Chonccy",
+    "FEEL/∞Chonccy",
+    "FEEL/↕↔Thicc",
+    "FEEL/∞Thicc"
   ]
 }
