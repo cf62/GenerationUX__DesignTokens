@@ -1,1 +1,1 @@
-# gux
+# generationux design tokens
