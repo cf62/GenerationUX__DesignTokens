@@ -1,0 +1,284 @@
+{
+  "generationux__BorderWidth": {
+    "bw_0": {
+      "value": "({generationux.rem} * 0)*0.5",
+      "description": "bw_0",
+      "type": "borderWidth"
+    },
+    "bw_0_03125": {
+      "value": "({generationux.rem} * 0.03125)*0.5",
+      "description": "bw_0_03125",
+      "type": "borderWidth"
+    },
+    "bw_0_0625": {
+      "value": "({generationux.rem} * 0.0625)*0.5",
+      "type": "borderWidth",
+      "description": "bw_0_0625"
+    },
+    "bw_0_125": {
+      "value": "({generationux.rem} * 0.125)*0.5",
+      "description": "bw_0_125",
+      "type": "borderWidth"
+    },
+    "bw_0_25": {
+      "value": "({generationux.rem} * 0.25)*0.5",
+      "description": "bw_0_25",
+      "type": "borderWidth"
+    },
+    "bw_0_375": {
+      "value": "({generationux.rem} * 0.375)*0.5",
+      "description": "bw_0_375",
+      "type": "borderWidth"
+    },
+    "bw_0_5": {
+      "value": "({generationux.rem} * 0.5)*0.5",
+      "description": "bw_0_5",
+      "type": "borderWidth"
+    },
+    "bw_0_625": {
+      "value": "({generationux.rem} * 0.625)*0.5",
+      "description": "bw_0_625",
+      "type": "borderWidth"
+    },
+    "bw_0_75": {
+      "value": "({generationux.rem} * 0.75)*0.5",
+      "description": "bw_0_75",
+      "type": "borderWidth"
+    },
+    "bw_0_875": {
+      "value": "({generationux.rem} * 0.875)*0.5",
+      "description": "bw_0_875",
+      "type": "borderWidth"
+    },
+    "bw_1": {
+      "value": "({generationux.rem} * 1)*0.5",
+      "type": "borderWidth",
+      "description": "bw_1"
+    },
+    "bw_1_125": {
+      "value": "({generationux.rem} * 1.125)*0.5",
+      "type": "borderWidth",
+      "description": "bw_1_125"
+    },
+    "bw_1_25": {
+      "value": "({generationux.rem} * 1.25)*0.5",
+      "description": "bw_1_25",
+      "type": "borderWidth"
+    },
+    "bw_1_5": {
+      "value": "({generationux.rem} * 1.5)*0.5",
+      "description": "bw_1_5",
+      "type": "borderWidth"
+    },
+    "bw_1_75": {
+      "value": "({generationux.rem} * 1.75)*0.5",
+      "description": "bw_1_75",
+      "type": "borderWidth"
+    },
+    "bw_2": {
+      "value": "({generationux.rem} * 2)*0.5",
+      "description": "bw_2",
+      "type": "borderWidth"
+    },
+    "bw_2_25": {
+      "value": "({generationux.rem} * 2.25)*0.5",
+      "description": "bw_2_25",
+      "type": "borderWidth"
+    },
+    "bw_2_5": {
+      "value": "({generationux.rem} * 2.5)*0.5",
+      "description": "bw_2_5",
+      "type": "borderWidth"
+    },
+    "bw_2_625": {
+      "value": "({generationux.rem} * 2.625)*0.5",
+      "description": "bw_2_625",
+      "type": "borderWidth"
+    },
+    "bw_2_75": {
+      "value": "({generationux.rem} * 2.75)*0.5",
+      "description": "bw_2_75",
+      "type": "borderWidth"
+    },
+    "bw_3": {
+      "value": "({generationux.rem} * 3)*0.5",
+      "description": "bw_3",
+      "type": "borderWidth"
+    },
+    "bw_3_25": {
+      "value": "({generationux.rem} * 3.25)*0.5",
+      "description": "bw_3_25",
+      "type": "borderWidth"
+    },
+    "bw_3_5": {
+      "value": "({generationux.rem} * 3.5)*0.5",
+      "description": "bw_3_5",
+      "type": "borderWidth"
+    },
+    "bw_3_75": {
+      "value": "({generationux.rem} * 3.75)*0.5",
+      "description": "bw_3_75",
+      "type": "borderWidth"
+    },
+    "bw_4": {
+      "value": "({generationux.rem} * 4)*0.5",
+      "description": "bw_4",
+      "type": "borderWidth"
+    },
+    "bw_4_5": {
+      "value": "({generationux.rem} * 4.5)*0.5",
+      "description": "bw_4_5",
+      "type": "borderWidth"
+    },
+    "bw_5": {
+      "value": "({generationux.rem} * 5)*0.5",
+      "description": "bw_5",
+      "type": "borderWidth"
+    },
+    "bw_5_625": {
+      "value": "({generationux.rem} * 5.625)*0.5",
+      "description": "bw_5_625",
+      "type": "borderWidth"
+    },
+    "bw_6": {
+      "value": "({generationux.rem} * 6)*0.5",
+      "description": "bw_6",
+      "type": "borderWidth"
+    },
+    "bw_7": {
+      "value": "({generationux.rem} * 7)*0.5",
+      "description": "bw_7",
+      "type": "borderWidth"
+    },
+    "bw_7_5": {
+      "value": "({generationux.rem} * 7.5)*0.5",
+      "description": "bw_7_5",
+      "type": "borderWidth"
+    },
+    "bw_8": {
+      "value": "({generationux.rem} * 8)*0.5",
+      "description": "bw_8",
+      "type": "borderWidth"
+    },
+    "bw_9": {
+      "value": "({generationux.rem} * 9)*0.5",
+      "description": "bw_9",
+      "type": "borderWidth"
+    },
+    "bw_10": {
+      "value": "({generationux.rem} * 10)*0.5",
+      "description": "bw_10",
+      "type": "borderWidth"
+    },
+    "bw_10_5": {
+      "value": "({generationux.rem} * 10.5)*0.5",
+      "description": "bw_10_5",
+      "type": "borderWidth"
+    },
+    "bw_10_75": {
+      "value": "({generationux.rem} * 10.75)*0.5",
+      "description": "bw_10_75",
+      "type": "borderWidth"
+    },
+    "bw_11": {
+      "value": "({generationux.rem} * 11)*0.5",
+      "description": "bw_11",
+      "type": "borderWidth"
+    },
+    "bw_11_25": {
+      "value": "({generationux.rem} * 11.25)*0.5",
+      "description": "bw_11_25",
+      "type": "borderWidth"
+    },
+    "bw_12": {
+      "value": "({generationux.rem} * 12)*0.5",
+      "description": "bw_12",
+      "type": "borderWidth"
+    },
+    "bw_12_5": {
+      "value": "({generationux.rem} * 12.5)*0.5",
+      "description": "bw_12_5",
+      "type": "borderWidth"
+    },
+    "bw_13": {
+      "value": "({generationux.rem} * 13)*0.5",
+      "description": "bw_13",
+      "type": "borderWidth"
+    },
+    "bw_14": {
+      "value": "({generationux.rem} * 14)*0.5",
+      "description": "bw_14",
+      "type": "borderWidth"
+    },
+    "bw_15": {
+      "value": "({generationux.rem} * 15)*0.5",
+      "description": "bw_15",
+      "type": "borderWidth"
+    },
+    "bw_16": {
+      "value": "({generationux.rem} * 16)*0.5",
+      "description": "bw_16",
+      "type": "borderWidth"
+    },
+    "bw_17": {
+      "value": "({generationux.rem} * 17)*0.5",
+      "description": "bw_17",
+      "type": "borderWidth"
+    },
+    "bw_17_5": {
+      "value": "({generationux.rem} * 17.5)*0.5",
+      "description": "bw_17_5",
+      "type": "borderWidth"
+    },
+    "bw_18": {
+      "value": "({generationux.rem} * 18)*0.5",
+      "description": "bw_18",
+      "type": "borderWidth"
+    },
+    "bw_20": {
+      "value": "({generationux.rem} * 20)*0.5",
+      "description": "bw_20",
+      "type": "borderWidth"
+    },
+    "bw_22_5": {
+      "value": "({generationux.rem} * 22.5)*0.5",
+      "description": "bw_22_5",
+      "type": "borderWidth"
+    },
+    "bw_24": {
+      "value": "({generationux.rem} * 24)*0.5",
+      "description": "bw_24",
+      "type": "borderWidth"
+    },
+    "bw_25": {
+      "value": "({generationux.rem} * 25)*0.5",
+      "description": "bw_25",
+      "type": "borderWidth"
+    },
+    "bw_26_25": {
+      "value": "({generationux.rem} * 26.25)*0.5",
+      "type": "borderWidth",
+      "description": "bw_26_25"
+    },
+    "bw_27_5": {
+      "value": "({generationux.rem} * 27.5)*0.5",
+      "description": "bw_27_5",
+      "type": "borderWidth"
+    },
+    "bw_30": {
+      "value": "({generationux.rem} * 30)*0.5",
+      "description": "bw_30",
+      "type": "borderWidth"
+    },
+    "bw_45": {
+      "value": "({generationux.rem} * 45)*0.5",
+      "description": "bw_45",
+      "type": "borderWidth"
+    },
+    "bw_47_5": {
+      "value": "({generationux.rem} * 47.5)*0.5",
+      "description": "bw_47_5",
+      "type": "borderWidth"
+    }
+  }
+}
