@@ -1,0 +1,604 @@
+{
+  "generationux__Spacing": {
+    "spH_min1_5": {
+      "value": "-{generationux.rem} * 1.5)*0.25",
+      "type": "spacing",
+      "description": "spH_min1_5"
+    },
+    "spH_min1": {
+      "value": "-{generationux.rem} * 1)*0.25",
+      "type": "spacing",
+      "description": "spH_min1"
+    },
+    "spH_min0_5": {
+      "value": "-{generationux.rem} * 0.5)*0.25",
+      "type": "spacing",
+      "description": "spH_min0_5"
+    },
+    "spH_min0_25": {
+      "value": "-{generationux.rem} * 0.25)*0.25",
+      "type": "spacing",
+      "description": "spH_0_min25"
+    },
+    "spH_0": {
+      "value": "({generationux.rem} * 0)*0.25",
+      "description": "spH_0",
+      "type": "spacing"
+    },
+    "spH_0_03125": {
+      "value": "({generationux.rem} * 0.03125)*0.25",
+      "description": "spH_0_03125",
+      "type": "spacing"
+    },
+    "spH_0_0625": {
+      "value": "({generationux.rem} * 0.0625)*0.25",
+      "type": "spacing",
+      "description": "spH_0_0625"
+    },
+    "spH_0_125": {
+      "value": "({generationux.rem} * 0.125)*0.25",
+      "description": "spH_0_125",
+      "type": "spacing"
+    },
+    "spH_0_25": {
+      "value": "({generationux.rem} * 0.25)*0.25",
+      "description": "spH_0_25",
+      "type": "spacing"
+    },
+    "spH_0_375": {
+      "value": "({generationux.rem} * 0.375)*0.25",
+      "description": "spH_0_375",
+      "type": "spacing"
+    },
+    "spH_0_5": {
+      "value": "({generationux.rem} * 0.5)*0.25",
+      "description": "spH_0_5",
+      "type": "spacing"
+    },
+    "spH_0_625": {
+      "value": "({generationux.rem} * 0.625)*0.25",
+      "description": "spH_0_625",
+      "type": "spacing"
+    },
+    "spH_0_75": {
+      "value": "({generationux.rem} * 0.75)*0.25",
+      "description": "spH_0_75",
+      "type": "spacing"
+    },
+    "spH_0_875": {
+      "value": "({generationux.rem} * 0.875)*0.25",
+      "description": "spH_0_875",
+      "type": "spacing"
+    },
+    "spH_1": {
+      "value": "({generationux.rem} * 1)*0.25",
+      "type": "spacing",
+      "description": "spH_1"
+    },
+    "spH_1_125": {
+      "value": "({generationux.rem} * 1.125)*0.25",
+      "type": "spacing",
+      "description": "spH_1_125"
+    },
+    "spH_1_25": {
+      "value": "({generationux.rem} * 1.25)*0.25",
+      "description": "spH_1_25",
+      "type": "spacing"
+    },
+    "spH_1_5": {
+      "value": "({generationux.rem} * 1.5)*0.25",
+      "description": "spH_1_5",
+      "type": "spacing"
+    },
+    "spH_1_75": {
+      "value": "({generationux.rem} * 1.75)*0.25",
+      "description": "spH_1_75",
+      "type": "spacing"
+    },
+    "spH_2": {
+      "value": "({generationux.rem} * 2)*0.25",
+      "description": "spH_2",
+      "type": "spacing"
+    },
+    "spH_2_25": {
+      "value": "({generationux.rem} * 2.25)*0.25",
+      "description": "spH_2_25",
+      "type": "spacing"
+    },
+    "spH_2_5": {
+      "value": "({generationux.rem} * 2.5)*0.25",
+      "description": "spH_2_5",
+      "type": "spacing"
+    },
+    "spH_2_625": {
+      "value": "({generationux.rem} * 2.625)*0.25",
+      "description": "spH_2_625",
+      "type": "spacing"
+    },
+    "spH_2_75": {
+      "value": "({generationux.rem} * 2.75)*0.25",
+      "description": "spH_2_75",
+      "type": "spacing"
+    },
+    "spH_3": {
+      "value": "({generationux.rem} * 3)*0.25",
+      "description": "spH_3",
+      "type": "spacing"
+    },
+    "spH_3_25": {
+      "value": "({generationux.rem} * 3.25)*0.25",
+      "description": "spH_3_25",
+      "type": "spacing"
+    },
+    "spH_3_5": {
+      "value": "({generationux.rem} * 3.5)*0.25",
+      "description": "spH_3_5",
+      "type": "spacing"
+    },
+    "spH_3_75": {
+      "value": "({generationux.rem} * 3.75)*0.25",
+      "description": "spH_3_75",
+      "type": "spacing"
+    },
+    "spH_4": {
+      "value": "({generationux.rem} * 4)*0.25",
+      "description": "spH_4",
+      "type": "spacing"
+    },
+    "spH_4_5": {
+      "value": "({generationux.rem} * 4.5)*0.25",
+      "description": "spH_4_5",
+      "type": "spacing"
+    },
+    "spH_5": {
+      "value": "({generationux.rem} * 5)*0.25",
+      "description": "spH_5",
+      "type": "spacing"
+    },
+    "spH_5_625": {
+      "value": "({generationux.rem} * 5.625)*0.25",
+      "description": "spH_5_625",
+      "type": "spacing"
+    },
+    "spH_6": {
+      "value": "({generationux.rem} * 6)*0.25",
+      "description": "spH_6",
+      "type": "spacing"
+    },
+    "spH_7": {
+      "value": "({generationux.rem} * 7)*0.25",
+      "description": "spH_7",
+      "type": "spacing"
+    },
+    "spH_7_5": {
+      "value": "({generationux.rem} * 7.5)*0.25",
+      "description": "spH_7_5",
+      "type": "spacing"
+    },
+    "spH_8": {
+      "value": "({generationux.rem} * 8)*0.25",
+      "description": "spH_8",
+      "type": "spacing"
+    },
+    "spH_9": {
+      "value": "({generationux.rem} * 9)*0.25",
+      "description": "spH_9",
+      "type": "spacing"
+    },
+    "spH_10": {
+      "value": "({generationux.rem} * 10)*0.25",
+      "description": "spH_10",
+      "type": "spacing"
+    },
+    "spH_10_5": {
+      "value": "({generationux.rem} * 10.5)*0.25",
+      "description": "spH_10_5",
+      "type": "spacing"
+    },
+    "spH_10_75": {
+      "value": "({generationux.rem} * 10.75)*0.25",
+      "description": "spH_10_75",
+      "type": "spacing"
+    },
+    "spH_11": {
+      "value": "({generationux.rem} * 11)*0.25",
+      "description": "spH_11",
+      "type": "spacing"
+    },
+    "spH_11_25": {
+      "value": "({generationux.rem} * 11.25)*0.25",
+      "description": "spH_11_25",
+      "type": "spacing"
+    },
+    "spH_12": {
+      "value": "({generationux.rem} * 12)*0.25",
+      "description": "spH_12",
+      "type": "spacing"
+    },
+    "spH_12_5": {
+      "value": "({generationux.rem} * 12.5)*0.25",
+      "description": "spH_12_5",
+      "type": "spacing"
+    },
+    "spH_13": {
+      "value": "({generationux.rem} * 13)*0.25",
+      "description": "spH_13",
+      "type": "spacing"
+    },
+    "spH_14": {
+      "value": "({generationux.rem} * 14)*0.25",
+      "description": "spH_14",
+      "type": "spacing"
+    },
+    "spH_15": {
+      "value": "({generationux.rem} * 15)*0.25",
+      "description": "spH_15",
+      "type": "spacing"
+    },
+    "spH_17": {
+      "value": "({generationux.rem} * 17)*0.25",
+      "description": "spH_17",
+      "type": "spacing"
+    },
+    "spH_17_5": {
+      "value": "({generationux.rem} * 17.5)*0.25",
+      "description": "spH_17_5",
+      "type": "spacing"
+    },
+    "spH_16": {
+      "value": "({generationux.rem} * 16)*0.25",
+      "description": "spH_16",
+      "type": "spacing"
+    },
+    "spH_18": {
+      "value": "({generationux.rem} * 18)*0.25",
+      "description": "spH_18",
+      "type": "spacing"
+    },
+    "spH_20": {
+      "value": "({generationux.rem} * 20)*0.25",
+      "description": "spH_20",
+      "type": "spacing"
+    },
+    "spH_22_5": {
+      "value": "({generationux.rem} * 22.5)*0.25",
+      "description": "spH_22_5",
+      "type": "spacing"
+    },
+    "spH_24": {
+      "value": "({generationux.rem} * 24)*0.25",
+      "description": "spH_24",
+      "type": "spacing"
+    },
+    "spH_25": {
+      "value": "({generationux.rem} * 25)*0.25",
+      "description": "spH_25",
+      "type": "spacing"
+    },
+    "spH_26_25": {
+      "value": "({generationux.rem} * 26.25)*0.25",
+      "type": "spacing",
+      "description": "spH_26_25"
+    },
+    "spH_27_5": {
+      "value": "({generationux.rem} * 27.5)*0.25",
+      "description": "spH_27_5",
+      "type": "spacing"
+    },
+    "spH_30": {
+      "value": "({generationux.rem} * 30)*0.25",
+      "description": "spH_30",
+      "type": "spacing"
+    },
+    "spH_45": {
+      "value": "({generationux.rem} * 45)*0.25",
+      "description": "spH_45",
+      "type": "spacing"
+    },
+    "spH_47_5": {
+      "value": "({generationux.rem} * 47.5)*0.25",
+      "description": "spH_47_5",
+      "type": "spacing"
+    },
+    "spW_min1_5": {
+      "value": "-{generationux.rem} * 1.5)*0.25",
+      "type": "spacing",
+      "description": "spW_min1_5"
+    },
+    "spW_min1": {
+      "value": "-{generationux.rem} * 1)*0.25",
+      "type": "spacing",
+      "description": "spW_min1"
+    },
+    "spW_min0_5": {
+      "value": "-{generationux.rem} * 0.5)*0.25",
+      "type": "spacing",
+      "description": "spW_min0_5"
+    },
+    "spW_min0_25": {
+      "value": "-{generationux.rem} * 0.25)*0.25",
+      "type": "spacing",
+      "description": "spW_min0_25"
+    },
+    "spW_0": {
+      "value": "({generationux.rem} * 0)*0.25",
+      "description": "spW_0",
+      "type": "spacing"
+    },
+    "spW_0_03125": {
+      "value": "({generationux.rem} * 0.03125)*0.25",
+      "description": "spW_0_03125",
+      "type": "spacing"
+    },
+    "spW_0_0625": {
+      "value": "({generationux.rem} * 0.065)*0.25",
+      "description": "spW_0_0625",
+      "type": "spacing"
+    },
+    "spW_0_125": {
+      "value": "({generationux.rem} * 0.125)*0.25",
+      "description": "spW_0_125",
+      "type": "spacing"
+    },
+    "spW_0_25": {
+      "value": "({generationux.rem} * 0.25)*0.25",
+      "description": "spW_0_25",
+      "type": "spacing"
+    },
+    "spW_0_375": {
+      "value": "({generationux.rem} * 0.375)*0.25",
+      "description": "spW_0_375",
+      "type": "spacing"
+    },
+    "spW_0_5": {
+      "value": "({generationux.rem} * 0.5)*0.25",
+      "description": "spW_0_5",
+      "type": "spacing"
+    },
+    "spW_0_625": {
+      "value": "({generationux.rem} * 0.625)*0.25",
+      "description": "spW_0_625",
+      "type": "spacing"
+    },
+    "spW_0_75": {
+      "value": "({generationux.rem} * 0.75)*0.25",
+      "description": "spW_0_75",
+      "type": "spacing"
+    },
+    "spW_0_875": {
+      "value": "({generationux.rem} * 0.875)*0.25",
+      "description": "spW_0_875",
+      "type": "spacing"
+    },
+    "spW_1": {
+      "value": "({generationux.rem} * 1)*0.25",
+      "type": "spacing",
+      "description": "spW_1"
+    },
+    "spW_1_125": {
+      "value": "({generationux.rem} * 1.125)*0.25",
+      "description": "spW_1_125",
+      "type": "spacing"
+    },
+    "spW_1_25": {
+      "value": "({generationux.rem} * 1.25)*0.25",
+      "description": "spW_1_25",
+      "type": "spacing"
+    },
+    "spW_1_5": {
+      "value": "({generationux.rem} * 1.5)*0.25",
+      "description": "spW_1_5",
+      "type": "spacing"
+    },
+    "spW_1_75": {
+      "value": "({generationux.rem} * 1.75)*0.25",
+      "description": "spW_1_75",
+      "type": "spacing"
+    },
+    "spW_2": {
+      "value": "({generationux.rem} * 2)*0.25",
+      "description": "spW_2",
+      "type": "spacing"
+    },
+    "spW_2_25": {
+      "value": "({generationux.rem} * 2.25)*0.25",
+      "description": "spW_2_25",
+      "type": "spacing"
+    },
+    "spW_2_5": {
+      "value": "({generationux.rem} * 2.5)*0.25",
+      "description": "spW_2_5",
+      "type": "spacing"
+    },
+    "spW_2_625": {
+      "value": "({generationux.rem} * 2.625)*0.25",
+      "description": "spW_2_625",
+      "type": "spacing"
+    },
+    "spW_2_75": {
+      "value": "({generationux.rem} * 2.75)*0.25",
+      "description": "spW_2_75",
+      "type": "spacing"
+    },
+    "spW_3": {
+      "value": "({generationux.rem} * 3)*0.25",
+      "description": "spW_3",
+      "type": "spacing"
+    },
+    "spW_3_25": {
+      "value": "({generationux.rem} * 3.25)*0.25",
+      "description": "spW_3_25",
+      "type": "spacing"
+    },
+    "spW_3_5": {
+      "value": "({generationux.rem} * 3.5)*0.25",
+      "description": "spW_3_5",
+      "type": "spacing"
+    },
+    "spW_3_75": {
+      "value": "({generationux.rem} * 3.75)*0.25",
+      "description": "spW_3_75",
+      "type": "spacing"
+    },
+    "spW_4": {
+      "value": "({generationux.rem} * 4)*0.25",
+      "description": "spW_4",
+      "type": "spacing"
+    },
+    "spW_4_5": {
+      "value": "({generationux.rem} * 4.5)*0.25",
+      "type": "spacing",
+      "description": "spW_4_5"
+    },
+    "spW_5": {
+      "value": "({generationux.rem} * 5)*0.25",
+      "description": "spW_5",
+      "type": "spacing"
+    },
+    "spW_5_625": {
+      "value": "({generationux.rem} * 5.625)*0.25",
+      "description": "spW_5_625",
+      "type": "spacing"
+    },
+    "spW_6": {
+      "value": "({generationux.rem} * 6)*0.25",
+      "description": "spW_6",
+      "type": "spacing"
+    },
+    "spW_7": {
+      "value": "({generationux.rem} * 7)*0.25",
+      "description": "spW_7",
+      "type": "spacing"
+    },
+    "spW_7_5": {
+      "value": "({generationux.rem} * 7.5)*0.25",
+      "description": "spW_7_5",
+      "type": "spacing"
+    },
+    "spW_8": {
+      "value": "({generationux.rem} * 8)*0.25",
+      "description": "spW_8",
+      "type": "spacing"
+    },
+    "spW_9": {
+      "value": "({generationux.rem} * 9)*0.25",
+      "description": "spW_9",
+      "type": "spacing"
+    },
+    "spW_10": {
+      "value": "({generationux.rem} * 10)*0.25",
+      "description": "spW_10",
+      "type": "spacing"
+    },
+    "spW_10_5": {
+      "value": "({generationux.rem} * 10.5)*0.25",
+      "description": "spW_10_5",
+      "type": "spacing"
+    },
+    "spW_10_75": {
+      "value": "({generationux.rem} * 10.75)*0.25",
+      "type": "spacing",
+      "description": "spW_10_75"
+    },
+    "spW_11": {
+      "value": "({generationux.rem} * 11)*0.25",
+      "description": "spW_11",
+      "type": "spacing"
+    },
+    "spW_11_25": {
+      "value": "({generationux.rem} * 11.25)*0.25",
+      "description": "spW_11_25",
+      "type": "spacing"
+    },
+    "spW_12": {
+      "value": "({generationux.rem} * 12)*0.25",
+      "description": "spW_12",
+      "type": "spacing"
+    },
+    "spW_12_5": {
+      "value": "({generationux.rem} * 12.5)*0.25",
+      "description": "spW_12_5",
+      "type": "spacing"
+    },
+    "spW_13": {
+      "value": "({generationux.rem} * 13)*0.25",
+      "description": "spW_13",
+      "type": "spacing"
+    },
+    "spW_14": {
+      "value": "({generationux.rem} * 14)*0.25",
+      "description": "spW_14",
+      "type": "spacing"
+    },
+    "spW_15": {
+      "value": "({generationux.rem} * 15)*0.25",
+      "description": "spW_15",
+      "type": "spacing"
+    },
+    "spW_16": {
+      "value": "({generationux.rem} * 16)*0.25",
+      "description": "spW_16",
+      "type": "spacing"
+    },
+    "spW_17": {
+      "value": "({generationux.rem} * 17)*0.25",
+      "description": "spW_17",
+      "type": "spacing"
+    },
+    "spW_17_5": {
+      "value": "({generationux.rem} * 17.5)*0.25",
+      "description": "spW_17_5",
+      "type": "spacing"
+    },
+    "spW_18": {
+      "value": "({generationux.rem} * 18)*0.25",
+      "description": "spW_18",
+      "type": "spacing"
+    },
+    "spW_20": {
+      "value": "({generationux.rem} * 20)*0.25",
+      "description": "spW_20",
+      "type": "spacing"
+    },
+    "spW_22_5": {
+      "value": "({generationux.rem} * 22.5)*0.25",
+      "description": "spW_22_5",
+      "type": "spacing"
+    },
+    "spW_24": {
+      "value": "({generationux.rem} * 24)*0.25",
+      "description": "spW_24",
+      "type": "spacing"
+    },
+    "spW_25": {
+      "value": "({generationux.rem} * 25)*0.25",
+      "description": "spW_25",
+      "type": "spacing"
+    },
+    "spW_26_25": {
+      "value": "({generationux.rem} * 26.25)*0.25",
+      "type": "spacing",
+      "description": "spW_26_25"
+    },
+    "spW_27_5": {
+      "value": "({generationux.rem} * 27.5)*0.25",
+      "description": "spW_27_5",
+      "type": "spacing"
+    },
+    "spW_30": {
+      "value": "({generationux.rem} * 30)*0.25",
+      "description": "spW_30",
+      "type": "spacing"
+    },
+    "spW_45": {
+      "value": "({generationux.rem} * 45)*0.25",
+      "description": "spW_45",
+      "type": "spacing"
+    },
+    "spW_47_5": {
+      "value": "({generationux.rem} * 47.5)*0.25",
+      "description": "spW_47_5",
+      "type": "spacing"
+    }
+  }
+}
