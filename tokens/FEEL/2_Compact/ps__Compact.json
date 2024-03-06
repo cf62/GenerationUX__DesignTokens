@@ -1,0 +1,284 @@
+{
+  "generationux__ParagraphSpacing": {
+    "ps_0": {
+      "value": "({generationux.rem} * 0)*0.5",
+      "description": "ps_0",
+      "type": "paragraphSpacing"
+    },
+    "ps_0_03125": {
+      "value": "({generationux.rem} * 0.03125)*0.5",
+      "description": "ps_0_03125",
+      "type": "paragraphSpacing"
+    },
+    "ps_0_0625": {
+      "value": "({generationux.rem} * 0.0625)*0.5",
+      "type": "paragraphSpacing",
+      "description": "ps_0_0625"
+    },
+    "ps_0_125": {
+      "value": "({generationux.rem} * 0.125)*0.5",
+      "description": "ps_0_125",
+      "type": "paragraphSpacing"
+    },
+    "ps_0_25": {
+      "value": "({generationux.rem} * 0.25)*0.5",
+      "description": "ps_0_25",
+      "type": "paragraphSpacing"
+    },
+    "ps_0_375": {
+      "value": "({generationux.rem} * 0.375)*0.5",
+      "description": "ps_0_375",
+      "type": "paragraphSpacing"
+    },
+    "ps_0_5": {
+      "value": "({generationux.rem} * 0.5)*0.5",
+      "description": "ps_0_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_0_625": {
+      "value": "({generationux.rem} * 0.625)*0.5",
+      "description": "ps_0_625",
+      "type": "paragraphSpacing"
+    },
+    "ps_0_75": {
+      "value": "({generationux.rem} * 0.75)*0.5",
+      "description": "ps_0_75",
+      "type": "paragraphSpacing"
+    },
+    "ps_0_875": {
+      "value": "({generationux.rem} * 0.875)*0.5",
+      "description": "ps_0_875",
+      "type": "paragraphSpacing"
+    },
+    "ps_1": {
+      "value": "({generationux.rem} * 1)*0.5",
+      "type": "paragraphSpacing",
+      "description": "ps_1"
+    },
+    "ps_1_125": {
+      "value": "({generationux.rem} * 1.125)*0.5",
+      "type": "paragraphSpacing",
+      "description": "ps_1_125"
+    },
+    "ps_1_25": {
+      "value": "({generationux.rem} * 1.25)*0.5",
+      "description": "ps_1_25",
+      "type": "paragraphSpacing"
+    },
+    "ps_1_5": {
+      "value": "({generationux.rem} * 1.5)*0.5",
+      "description": "ps_1_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_1_75": {
+      "value": "({generationux.rem} * 1.75)*0.5",
+      "description": "ps_1_75",
+      "type": "paragraphSpacing"
+    },
+    "ps_2": {
+      "value": "({generationux.rem} * 2)*0.5",
+      "description": "ps_2",
+      "type": "paragraphSpacing"
+    },
+    "ps_2_25": {
+      "value": "({generationux.rem} * 2.25)*0.5",
+      "description": "ps_2_25",
+      "type": "paragraphSpacing"
+    },
+    "ps_2_5": {
+      "value": "({generationux.rem} * 2.5)*0.5",
+      "description": "ps_2_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_2_625": {
+      "value": "({generationux.rem} * 2.625)*0.5",
+      "description": "ps_2_625",
+      "type": "paragraphSpacing"
+    },
+    "ps_2_75": {
+      "value": "({generationux.rem} * 2.75)*0.5",
+      "description": "ps_2_75",
+      "type": "paragraphSpacing"
+    },
+    "ps_3": {
+      "value": "({generationux.rem} * 3)*0.5",
+      "description": "ps_3",
+      "type": "paragraphSpacing"
+    },
+    "ps_3_25": {
+      "value": "({generationux.rem} * 3.25)*0.5",
+      "description": "ps_3_25",
+      "type": "paragraphSpacing"
+    },
+    "ps_3_5": {
+      "value": "({generationux.rem} * 3.5)*0.5",
+      "description": "ps_3_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_3_75": {
+      "value": "({generationux.rem} * 3.75)*0.5",
+      "description": "ps_3_75",
+      "type": "paragraphSpacing"
+    },
+    "ps_4": {
+      "value": "({generationux.rem} * 4)*0.5",
+      "description": "ps_4",
+      "type": "paragraphSpacing"
+    },
+    "ps_4_5": {
+      "value": "({generationux.rem} * 4.5)*0.5",
+      "description": "ps_4_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_5": {
+      "value": "({generationux.rem} * 5)*0.5",
+      "description": "ps_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_5_625": {
+      "value": "({generationux.rem} * 5.625)*0.5",
+      "description": "ps_5_625",
+      "type": "paragraphSpacing"
+    },
+    "ps_6": {
+      "value": "({generationux.rem} * 6)*0.5",
+      "description": "ps_6",
+      "type": "paragraphSpacing"
+    },
+    "ps_7": {
+      "value": "({generationux.rem} * 7)*0.5",
+      "description": "ps_7",
+      "type": "paragraphSpacing"
+    },
+    "ps_7_5": {
+      "value": "({generationux.rem} * 7.5)*0.5",
+      "description": "ps_7_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_8": {
+      "value": "({generationux.rem} * 8)*0.5",
+      "description": "ps_8",
+      "type": "paragraphSpacing"
+    },
+    "ps_9": {
+      "value": "({generationux.rem} * 9)*0.5",
+      "description": "ps_9",
+      "type": "paragraphSpacing"
+    },
+    "ps_10": {
+      "value": "({generationux.rem} * 10)*0.5",
+      "description": "ps_10",
+      "type": "paragraphSpacing"
+    },
+    "ps_10_5": {
+      "value": "({generationux.rem} * 10.5)*0.5",
+      "description": "ps_10_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_10_75": {
+      "value": "({generationux.rem} * 10.75)*0.5",
+      "description": "ps_10_75",
+      "type": "paragraphSpacing"
+    },
+    "ps_11": {
+      "value": "({generationux.rem} * 11)*0.5",
+      "description": "ps_11",
+      "type": "paragraphSpacing"
+    },
+    "ps_11_25": {
+      "value": "({generationux.rem} * 11.25)*0.5",
+      "description": "ps_11_25",
+      "type": "paragraphSpacing"
+    },
+    "ps_12": {
+      "value": "({generationux.rem} * 12)*0.5",
+      "description": "ps_12",
+      "type": "paragraphSpacing"
+    },
+    "ps_12_5": {
+      "value": "({generationux.rem} * 12.5)*0.5",
+      "description": "ps_12_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_13": {
+      "value": "({generationux.rem} * 13)*0.5",
+      "description": "ps_13",
+      "type": "paragraphSpacing"
+    },
+    "ps_14": {
+      "value": "({generationux.rem} * 14)*0.5",
+      "description": "ps_14",
+      "type": "paragraphSpacing"
+    },
+    "ps_15": {
+      "value": "({generationux.rem} * 15)*0.5",
+      "description": "ps_15",
+      "type": "paragraphSpacing"
+    },
+    "ps_17": {
+      "value": "({generationux.rem} * 17)*0.5",
+      "description": "ps_17",
+      "type": "paragraphSpacing"
+    },
+    "ps_17_5": {
+      "value": "({generationux.rem} * 17.5)*0.5",
+      "description": "ps_17_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_16": {
+      "value": "({generationux.rem} * 16)*0.5",
+      "description": "ps_16",
+      "type": "paragraphSpacing"
+    },
+    "ps_18": {
+      "value": "({generationux.rem} * 18)*0.5",
+      "description": "ps_18",
+      "type": "paragraphSpacing"
+    },
+    "ps_20": {
+      "value": "({generationux.rem} * 20)*0.5",
+      "description": "ps_20",
+      "type": "paragraphSpacing"
+    },
+    "ps_22_5": {
+      "value": "({generationux.rem} * 22.5)*0.5",
+      "description": "ps_22_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_24": {
+      "value": "({generationux.rem} * 24)*0.5",
+      "description": "ps_24",
+      "type": "paragraphSpacing"
+    },
+    "ps_25": {
+      "value": "({generationux.rem} * 25)*0.5",
+      "description": "ps_25",
+      "type": "paragraphSpacing"
+    },
+    "ps_26_25": {
+      "value": "({generationux.rem} * 26.25)*0.5",
+      "type": "paragraphSpacing",
+      "description": "ps_26_25"
+    },
+    "ps_27_5": {
+      "value": "({generationux.rem} * 27.5)*0.5",
+      "description": "ps_27_5",
+      "type": "paragraphSpacing"
+    },
+    "ps_30": {
+      "value": "({generationux.rem} * 30)*0.5",
+      "description": "ps_30",
+      "type": "paragraphSpacing"
+    },
+    "ps_45": {
+      "value": "({generationux.rem} * 45)*0.5",
+      "description": "ps_45",
+      "type": "paragraphSpacing"
+    },
+    "ps_47_5": {
+      "value": "({generationux.rem} * 47.5)*0.5",
+      "description": "ps_47_5",
+      "type": "paragraphSpacing"
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "generationux__FontSize": {
+    "fs_0": {
+      "value": "({generationux.rem} * 0)*0.5",
+      "description": "fs_0",
+      "type": "fontSizes"
+    },
+    "fs_0_03125": {
+      "value": "({generationux.rem} * 0.03125)*0.5",
+      "description": "fs_0_03125",
+      "type": "fontSizes"
+    },
+    "fs_0_0625": {
+      "value": "({generationux.rem} * 0.0625)*0.5",
+      "type": "fontSizes",
+      "description": "fs_0_0625"
+    },
+    "fs_0_125": {
+      "value": "({generationux.rem} * 0.125)*0.5",
+      "description": "fs_0_125",
+      "type": "fontSizes"
+    },
+    "fs_0_25": {
+      "value": "({generationux.rem} * 0.25)*0.5",
+      "description": "fs_0_25",
+      "type": "fontSizes"
+    },
+    "fs_0_375": {
+      "value": "({generationux.rem} * 0.375)*0.5",
+      "description": "fs_0_375",
+      "type": "fontSizes"
+    },
+    "fs_0_5": {
+      "value": "({generationux.rem} * 0.5)*0.5",
+      "description": "fs_0_5",
+      "type": "fontSizes"
+    },
+    "fs_0_625": {
+      "value": "({generationux.rem} * 0.625)*0.5",
+      "description": "fs_0_625",
+      "type": "fontSizes"
+    },
+    "fs_0_75": {
+      "value": "({generationux.rem} * 0.75)*0.5",
+      "description": "fs_0_75",
+      "type": "fontSizes"
+    },
+    "fs_0_875": {
+      "value": "({generationux.rem} * 0.875)*0.5",
+      "description": "fs_0_875",
+      "type": "fontSizes"
+    },
+    "fs_1": {
+      "value": "({generationux.rem} * 1)*0.5",
+      "type": "fontSizes",
+      "description": "fs_1"
+    },
+    "fs_1_125": {
+      "value": "({generationux.rem} * 1.125)*0.5",
+      "type": "fontSizes",
+      "description": "fs_1_125"
+    },
+    "fs_1_25": {
+      "value": "({generationux.rem} * 1.25)*0.5",
+      "description": "fs_1_25",
+      "type": "fontSizes"
+    },
+    "fs_1_5": {
+      "value": "({generationux.rem} * 1.5)*0.5",
+      "description": "fs_1_5",
+      "type": "fontSizes"
+    },
+    "fs_1_75": {
+      "value": "({generationux.rem} * 1.75)*0.5",
+      "description": "fs_1_75",
+      "type": "fontSizes"
+    },
+    "fs_2": {
+      "value": "({generationux.rem} * 2)*0.5",
+      "description": "fs_2",
+      "type": "fontSizes"
+    },
+    "fs_2_25": {
+      "value": "({generationux.rem} * 2.25)*0.5",
+      "description": "fs_2_25",
+      "type": "fontSizes"
+    },
+    "fs_2_5": {
+      "value": "({generationux.rem} * 2.5)*0.5",
+      "description": "fs_2_5",
+      "type": "fontSizes"
+    },
+    "fs_2_625": {
+      "value": "({generationux.rem} * 2.625)*0.5",
+      "description": "fs_2_625",
+      "type": "fontSizes"
+    },
+    "fs_2_75": {
+      "value": "({generationux.rem} * 2.75)*0.5",
+      "description": "fs_2_75",
+      "type": "fontSizes"
+    },
+    "fs_3": {
+      "value": "({generationux.rem} * 3)*0.5",
+      "description": "fs_3",
+      "type": "fontSizes"
+    },
+    "fs_3_25": {
+      "value": "({generationux.rem} * 3.25)*0.5",
+      "description": "fs_3_25",
+      "type": "fontSizes"
+    },
+    "fs_3_5": {
+      "value": "({generationux.rem} * 3.5)*0.5",
+      "description": "fs_3_5",
+      "type": "fontSizes"
+    },
+    "fs_3_75": {
+      "value": "({generationux.rem} * 3.75)*0.5",
+      "description": "fs_3_75",
+      "type": "fontSizes"
+    },
+    "fs_4": {
+      "value": "({generationux.rem} * 4)*0.5",
+      "description": "fs_4",
+      "type": "fontSizes"
+    },
+    "fs_4_5": {
+      "value": "({generationux.rem} * 4.5)*0.5",
+      "description": "fs_4_5",
+      "type": "fontSizes"
+    },
+    "fs_5": {
+      "value": "({generationux.rem} * 5)*0.5",
+      "description": "fs_5",
+      "type": "fontSizes"
+    },
+    "fs_5_625": {
+      "value": "({generationux.rem} * 5.625)*0.5",
+      "description": "fs_5_625",
+      "type": "fontSizes"
+    },
+    "fs_6": {
+      "value": "({generationux.rem} * 6)*0.5",
+      "description": "fs_6",
+      "type": "fontSizes"
+    },
+    "fs_7": {
+      "value": "({generationux.rem} * 7)*0.5",
+      "description": "fs_7",
+      "type": "fontSizes"
+    },
+    "fs_7_5": {
+      "value": "({generationux.rem} * 7.5)*0.5",
+      "description": "fs_7_5",
+      "type": "fontSizes"
+    },
+    "fs_8": {
+      "value": "({generationux.rem} * 8)*0.5",
+      "description": "fs_8",
+      "type": "fontSizes"
+    },
+    "fs_9": {
+      "value": "({generationux.rem} * 9)*0.5",
+      "description": "fs_9",
+      "type": "fontSizes"
+    },
+    "fs_10": {
+      "value": "({generationux.rem} * 10)*0.5",
+      "description": "fs_10",
+      "type": "fontSizes"
+    },
+    "fs_10_5": {
+      "value": "({generationux.rem} * 10.5)*0.5",
+      "description": "fs_10_5",
+      "type": "fontSizes"
+    },
+    "fs_10_75": {
+      "value": "({generationux.rem} * 10.75)*0.5",
+      "description": "fs_10_75",
+      "type": "fontSizes"
+    },
+    "fs_11": {
+      "value": "({generationux.rem} * 11)*0.5",
+      "description": "fs_11",
+      "type": "fontSizes"
+    },
+    "fs_11_25": {
+      "value": "({generationux.rem} * 11.25)*0.5",
+      "description": "fs_11_25",
+      "type": "fontSizes"
+    },
+    "fs_12": {
+      "value": "({generationux.rem} * 12)*0.5",
+      "description": "fs_12",
+      "type": "fontSizes"
+    },
+    "fs_12_5": {
+      "value": "({generationux.rem} * 12.5)*0.5",
+      "description": "fs_12_5",
+      "type": "fontSizes"
+    },
+    "fs_13": {
+      "value": "({generationux.rem} * 13)*0.5",
+      "description": "fs_13",
+      "type": "fontSizes"
+    },
+    "fs_14": {
+      "value": "({generationux.rem} * 14)*0.5",
+      "description": "fs_14",
+      "type": "fontSizes"
+    },
+    "fs_16": {
+      "value": "({generationux.rem} * 16)*0.5",
+      "description": "fs_16",
+      "type": "fontSizes"
+    },
+    "fs_15": {
+      "value": "({generationux.rem} * 15)*0.5",
+      "description": "fs_15",
+      "type": "fontSizes"
+    },
+    "fs_17": {
+      "value": "({generationux.rem} * 17)*0.5",
+      "description": "fs_17",
+      "type": "fontSizes"
+    },
+    "fs_17_5": {
+      "value": "({generationux.rem} * 17.5)*0.5",
+      "description": "fs_17_5",
+      "type": "fontSizes"
+    },
+    "fs_18": {
+      "value": "({generationux.rem} * 18)*0.5",
+      "description": "fs_18",
+      "type": "fontSizes"
+    },
+    "fs_20": {
+      "value": "({generationux.rem} * 20)*0.5",
+      "description": "fs_20",
+      "type": "fontSizes"
+    },
+    "fs_22_5": {
+      "value": "({generationux.rem} * 22.5)*0.5",
+      "description": "fs_22_5",
+      "type": "fontSizes"
+    },
+    "fs_24": {
+      "value": "({generationux.rem} * 24)*0.5",
+      "description": "fs_24",
+      "type": "fontSizes"
+    },
+    "fs_25": {
+      "value": "({generationux.rem} * 25)*0.5",
+      "description": "fs_25",
+      "type": "fontSizes"
+    },
+    "fs_26_25": {
+      "value": "({generationux.rem} * 26.25)*0.5",
+      "type": "fontSizes",
+      "description": "fs_26_25"
+    },
+    "fs_27_5": {
+      "value": "({generationux.rem} * 27.5)*0.5",
+      "description": "fs_27_5",
+      "type": "fontSizes"
+    },
+    "fs_30": {
+      "value": "({generationux.rem} * 30)*0.5",
+      "description": "fs_30",
+      "type": "fontSizes"
+    },
+    "fs_45": {
+      "value": "({generationux.rem} * 45)*0.5",
+      "description": "fs_45",
+      "type": "fontSizes"
+    },
+    "fs_47_5": {
+      "value": "({generationux.rem} * 47.5)*0.5",
+      "description": "fs_47_5",
+      "type": "fontSizes"
+    }
+  }
+}

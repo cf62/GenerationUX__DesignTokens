@@ -1,0 +1,148 @@
+{
+  "generationux__BorderStyle": {
+    "by_candy_min45": {
+      "value": {
+        "color": "{generationux__Colors.candy_min45}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_candy_min45"
+    },
+    "by_candy_45": {
+      "value": {
+        "color": "{generationux__Colors.candy_45}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_candy_45"
+    },
+    "by_candy_min60": {
+      "value": {
+        "color": "{generationux__Colors.candy_min60}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_candy_min60"
+    },
+    "by_candy_60": {
+      "value": {
+        "color": "{generationux__Colors.candy_60}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_candy_60"
+    },
+    "by_candy_min75": {
+      "value": {
+        "color": "{generationux__Colors.candy_min75}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_candy_min75"
+    },
+    "by_candy_75": {
+      "value": {
+        "color": "{generationux__Colors.candy_75}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_candy_75"
+    },
+    "by_candy_0": {
+      "value": {
+        "color": "{generationux__Colors.candy_0}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_candy_0"
+    },
+    "by_candy_90": {
+      "value": {
+        "color": "{generationux__Colors.candy_90}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_candy_90"
+    },
+    "by_stripe_min45": {
+      "value": {
+        "color": "{generationux__Colors.stripe_min45}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_stripe_min45"
+    },
+    "by_stripe_45": {
+      "value": {
+        "color": "{generationux__Colors.stripe_45}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_stripe_45"
+    },
+    "by_stripe_min60": {
+      "value": {
+        "color": "{generationux__Colors.stripe_min60}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_stripe_min60"
+    },
+    "by_stripe_60": {
+      "value": {
+        "color": "{generationux__Colors.stripe_60}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_stripe_60"
+    },
+    "by_stripe_min75": {
+      "value": {
+        "color": "{generationux__Colors.stripe_min75}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_stripe_min75"
+    },
+    "by_stripe_75": {
+      "value": {
+        "color": "{generationux__Colors.stripe_75}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_stripe_75"
+    },
+    "by_stripe_0": {
+      "value": {
+        "color": "{generationux__Colors.stripe_0}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_stripe_0"
+    },
+    "by_stripe_90": {
+      "value": {
+        "color": "{generationux__Colors.stripe_90}",
+        "style": "",
+        "width": "({generationux__BorderWidth.bw_0_0625})*0.5"
+      },
+      "type": "border",
+      "description": "by_stripe_90"
+    }
+  }
+}
