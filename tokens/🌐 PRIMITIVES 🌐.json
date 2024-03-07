@@ -3301,7 +3301,7 @@
     "bs_0_03125": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.03125)*1",
+        "y": "(-{generationux.rem} * 0.03125)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3313,7 +3313,7 @@
     "bs_0_0625": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.0625)*1",
+        "y": "(-{generationux.rem} * 0.0625)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3325,7 +3325,7 @@
     "bs_0_125": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.125)*1",
+        "y": "(-{generationux.rem} * 0.125)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3337,7 +3337,7 @@
     "bs_0_25": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.25)*1",
+        "y": "(-{generationux.rem} * 0.25)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3349,7 +3349,7 @@
     "bs_0_375": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.375)*1",
+        "y": "(-{generationux.rem} * 0.375)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3361,7 +3361,7 @@
     "bs_0_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.5)*1",
+        "y": "(-{generationux.rem} * 0.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3373,7 +3373,7 @@
     "bs_0_625": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.625)*1",
+        "y": "(-{generationux.rem} * 0.625)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3385,7 +3385,7 @@
     "bs_0_75": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.75)*1",
+        "y": "(-{generationux.rem} * 0.75)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3397,7 +3397,7 @@
     "bs_0_875": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 0.875)*1",
+        "y": "(-{generationux.rem} * 0.875)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3409,7 +3409,7 @@
     "bs_1": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 1)*1",
+        "y": "(-{generationux.rem} * 1)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3421,7 +3421,7 @@
     "bs_1_125": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 1.125)*1",
+        "y": "(-{generationux.rem} * 1.125)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3433,7 +3433,7 @@
     "bs_1_25": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 1.25)*1",
+        "y": "(-{generationux.rem} * 1.25)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3445,7 +3445,7 @@
     "bs_1_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 1.5)*1",
+        "y": "(-{generationux.rem} * 1.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3457,7 +3457,7 @@
     "bs_1_75": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 1.75)*1",
+        "y": "(-{generationux.rem} * 1.75)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3469,7 +3469,7 @@
     "bs_2": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 2)*1",
+        "y": "(-{generationux.rem} * 2)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3481,7 +3481,7 @@
     "bs_2_25": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 2.25)*1",
+        "y": "(-{generationux.rem} * 2.25)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3493,7 +3493,7 @@
     "bs_2_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 2.5)*1",
+        "y": "(-{generationux.rem} * 2.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3505,7 +3505,7 @@
     "bs_2_625": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 2.625)*1",
+        "y": "(-{generationux.rem} * 2.625)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3517,7 +3517,7 @@
     "bs_2_75": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 2.75)*1",
+        "y": "(-{generationux.rem} * 2.75)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3529,7 +3529,7 @@
     "bs_3": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 3)*1",
+        "y": "(-{generationux.rem} * 3)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3541,7 +3541,7 @@
     "bs_3_25": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 3.25)*1",
+        "y": "(-{generationux.rem} * 3.25)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3553,7 +3553,7 @@
     "bs_3_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 3.5)*1",
+        "y": "(-{generationux.rem} * 3.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3565,7 +3565,7 @@
     "bs_3_75": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 3.75)*1",
+        "y": "(-{generationux.rem} * 3.75)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3577,7 +3577,7 @@
     "bs_4": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 4)*1",
+        "y": "(-{generationux.rem} * 4)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3589,7 +3589,7 @@
     "bs_4_3125": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 4.3125)*1",
+        "y": "(-{generationux.rem} * 4.3125)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3601,7 +3601,7 @@
     "bs_4_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 4.5)*1",
+        "y": "(-{generationux.rem} * 4.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3613,7 +3613,7 @@
     "bs_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 5)*1",
+        "y": "(-{generationux.rem} * 5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3625,7 +3625,7 @@
     "bs_5_625": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 5.625)*1",
+        "y": "(-{generationux.rem} * 5.625)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3637,7 +3637,7 @@
     "bs_6": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 6)*1",
+        "y": "(-{generationux.rem} * 6)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3649,7 +3649,7 @@
     "bs_7": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 7)*1",
+        "y": "(-{generationux.rem} * 7)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3661,7 +3661,7 @@
     "bs_7_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 7.5)*1",
+        "y": "(-{generationux.rem} * 7.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3673,7 +3673,7 @@
     "bs_8": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 8)*1",
+        "y": "(-{generationux.rem} * 8)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3685,7 +3685,7 @@
     "bs_9": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 9)*1",
+        "y": "(-{generationux.rem} * 9)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3697,7 +3697,7 @@
     "bs_10": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 10)*1",
+        "y": "(-{generationux.rem} * 10)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3709,7 +3709,7 @@
     "bs_10_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 10.5)*1",
+        "y": "(-{generationux.rem} * 10.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3721,7 +3721,7 @@
     "bs_11": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 11)*1",
+        "y": "(-{generationux.rem} * 11)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3733,7 +3733,7 @@
     "bs_11_25": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 11.25)*1",
+        "y": "(-{generationux.rem} * 11.25)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3745,7 +3745,7 @@
     "bs_12": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 12)*1",
+        "y": "(-{generationux.rem} * 12)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3757,7 +3757,7 @@
     "bs_12_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 12.5)*1",
+        "y": "(-{generationux.rem} * 12.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3769,7 +3769,7 @@
     "bs_13": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 13)*1",
+        "y": "(-{generationux.rem} * 13)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3781,7 +3781,7 @@
     "bs_14": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 14)*1",
+        "y": "(-{generationux.rem} * 14)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3793,7 +3793,7 @@
     "bs_15": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 15)*1",
+        "y": "(-{generationux.rem} * 15)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3805,7 +3805,7 @@
     "bs_16": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 16)*1",
+        "y": "(-{generationux.rem} * 16)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3817,7 +3817,7 @@
     "bs_17": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 17)*1",
+        "y": "(-{generationux.rem} * 17)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3829,7 +3829,7 @@
     "bs_17_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 17.5)*1",
+        "y": "(-{generationux.rem} * 17.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3841,7 +3841,7 @@
     "bs_18": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 18)*1",
+        "y": "(-{generationux.rem} * 18)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3853,7 +3853,7 @@
     "bs_20": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 20)*1",
+        "y": "(-{generationux.rem} * 20)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3865,7 +3865,7 @@
     "bs_22_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 22.5)*1",
+        "y": "(-{generationux.rem} * 22.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3877,7 +3877,7 @@
     "bs_24": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 24)*1",
+        "y": "(-{generationux.rem} * 24)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3889,7 +3889,7 @@
     "bs_25": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 25)*1",
+        "y": "(-{generationux.rem} * 25)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3901,7 +3901,7 @@
     "bs_26_25": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 26.25)*1",
+        "y": "(-{generationux.rem} * 26.25)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3913,7 +3913,7 @@
     "bs_27_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 27.5)*1",
+        "y": "(-{generationux.rem} * 27.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3925,7 +3925,7 @@
     "bs_30": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 30)*1",
+        "y": "(-{generationux.rem} * 30)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3937,7 +3937,7 @@
     "bs_45": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 45)*1",
+        "y": "(-{generationux.rem} * 45)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -3949,7 +3949,7 @@
     "bs_47_5": {
       "value": {
         "x": "({generationux.rem} * 0)*1",
-        "y": "({generationux.rem} * 47.5)*1",
+        "y": "(-{generationux.rem} * 47.5)*1",
         "blur": "{generationux.rem} * 0",
         "spread": "{generationux.rem} * 0",
         "color": "{generationux__Colors.900}",
@@ -5946,6 +5946,30 @@
     }
   },
   "generationux__BoxShadow—SharpTopLeft": {
+    "bs_0_03125-0_03125": {
+      "value": {
+        "x": "(-{generationux.rem} * 0.03125)*1",
+        "y": "(-{generationux.rem} * 0.03125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_0_03125-0_03125",
+      "type": "boxShadow"
+    },
+    "bs_0_0625-0_0625": {
+      "value": {
+        "x": "(-{generationux.rem} * 0.0625)*1",
+        "y": "(-{generationux.rem} * 0.0625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_0_0625-0_0625",
+      "type": "boxShadow"
+    },
     "bs_0_125-0_125": {
       "value": {
         "x": "(-{generationux.rem} * 0.125)*1",
@@ -6042,6 +6066,18 @@
       "description": "bs_1-1",
       "type": "boxShadow"
     },
+    "bs_1-1_125": {
+      "value": {
+        "x": "(-{generationux.rem} * 1.125)*1",
+        "y": "(-{generationux.rem} * 1.125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_1-1_125",
+      "type": "boxShadow"
+    },
     "bs_1_25-1_25": {
       "value": {
         "x": "(-{generationux.rem} * 1.25)*1",
@@ -6114,6 +6150,18 @@
       "description": "bs_2_5-2_5",
       "type": "boxShadow"
     },
+    "bs_2_625-2_625": {
+      "value": {
+        "x": "(-{generationux.rem} * 2.625)*1",
+        "y": "(-{generationux.rem} * 2.625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_2_625-2_625",
+      "type": "boxShadow"
+    },
     "bs_2_75-2_75": {
       "value": {
         "x": "(-{generationux.rem} * 2.75)*1",
@@ -6138,6 +6186,18 @@
       "description": "bs_3-3",
       "type": "boxShadow"
     },
+    "bs_3_25-3_25": {
+      "value": {
+        "x": "(-{generationux.rem} * 3.25)*1",
+        "y": "(-{generationux.rem} * 3.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_3_25-3_25",
+      "type": "boxShadow"
+    },
     "bs_3_5-3_5": {
       "value": {
         "x": "(-{generationux.rem} * 3.5)*1",
@@ -6148,6 +6208,18 @@
         "type": "dropShadow"
       },
       "description": "bs_3_5-3_5",
+      "type": "boxShadow"
+    },
+    "bs_3_75-3_75": {
+      "value": {
+        "x": "(-{generationux.rem} * 3.75)*1",
+        "y": "(-{generationux.rem} * 3.75)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_3_75-3_75",
       "type": "boxShadow"
     },
     "bs_4-4": {
@@ -6162,6 +6234,30 @@
       "description": "bs_4-4",
       "type": "boxShadow"
     },
+    "bs_4_3125-4_3125": {
+      "value": {
+        "x": "(-{generationux.rem} * 4.3125)*1",
+        "y": "(-{generationux.rem} * 4.3125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_4_3125-4_3125",
+      "type": "boxShadow"
+    },
+    "bs_4_5-4_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 4.5)*1",
+        "y": "(-{generationux.rem} * 4.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_4_5-4_5",
+      "type": "boxShadow"
+    },
     "bs_5-5": {
       "value": {
         "x": "(-{generationux.rem} * 5)*1",
@@ -6172,6 +6268,18 @@
         "type": "dropShadow"
       },
       "description": "bs_5-5",
+      "type": "boxShadow"
+    },
+    "bs_5_625-5_625": {
+      "value": {
+        "x": "(-{generationux.rem} * 5.625)*1",
+        "y": "(-{generationux.rem} * 5.625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_5_625-5_625",
       "type": "boxShadow"
     },
     "bs_6-6": {
@@ -6196,6 +6304,18 @@
         "type": "dropShadow"
       },
       "description": "bs_7-7",
+      "type": "boxShadow"
+    },
+    "bs_7_5-7_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 7.5)*1",
+        "y": "(-{generationux.rem} * 7.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_7_5-7_5",
       "type": "boxShadow"
     },
     "bs_8-8": {
@@ -6234,6 +6354,18 @@
       "description": "bs_10-10",
       "type": "boxShadow"
     },
+    "bs_10_5-10_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 10.5)*1",
+        "y": "(-{generationux.rem} * 10.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_10_5-10_5",
+      "type": "boxShadow"
+    },
     "bs_11-11": {
       "value": {
         "x": "(-{generationux.rem} * 11)*1",
@@ -6246,6 +6378,18 @@
       "description": "bs_11-11",
       "type": "boxShadow"
     },
+    "bs_11_25-11_25": {
+      "value": {
+        "x": "(-{generationux.rem} * 11.25)*1",
+        "y": "(-{generationux.rem} * 11.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_11_25-11_25",
+      "type": "boxShadow"
+    },
     "bs_12-12": {
       "value": {
         "x": "(-{generationux.rem} * 12)*1",
@@ -6256,6 +6400,18 @@
         "type": "dropShadow"
       },
       "description": "bs_12-12",
+      "type": "boxShadow"
+    },
+    "bs_12_5-12_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 12.5)*1",
+        "y": "(-{generationux.rem} * 12.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_12_5-12_5",
       "type": "boxShadow"
     },
     "bs_13-13": {
@@ -6306,6 +6462,30 @@
       "description": "bs_16-16",
       "type": "boxShadow"
     },
+    "bs_17-17": {
+      "value": {
+        "x": "(-{generationux.rem} * 17)*1",
+        "y": "(-{generationux.rem} * 17)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_17-17",
+      "type": "boxShadow"
+    },
+    "bs_17_5-17_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 17.5)*1",
+        "y": "(-{generationux.rem} * 17.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_17_5-17_5",
+      "type": "boxShadow"
+    },
     "bs_18-18": {
       "value": {
         "x": "(-{generationux.rem} * 18)*1",
@@ -6330,6 +6510,18 @@
       "description": "bs_20-20",
       "type": "boxShadow"
     },
+    "bs_22_5-22_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 22.5)*1",
+        "y": "(-{generationux.rem} * 22.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_22_5-22_5",
+      "type": "boxShadow"
+    },
     "bs_24-24": {
       "value": {
         "x": "(-{generationux.rem} * 24)*1",
@@ -6340,10 +6532,106 @@
         "type": "dropShadow"
       },
       "description": "bs_24-24",
+      "type": "boxShadow"
+    },
+    "bs_25-25": {
+      "value": {
+        "x": "(-{generationux.rem} * 25)*1",
+        "y": "(-{generationux.rem} * 25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_25-25",
+      "type": "boxShadow"
+    },
+    "bs_26_25-26_25": {
+      "value": {
+        "x": "(-{generationux.rem} * 26.25)*1",
+        "y": "(-{generationux.rem} * 26.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_26_25-26_25",
+      "type": "boxShadow"
+    },
+    "bs_27_5-27_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 27.5)*1",
+        "y": "(-{generationux.rem} * 27.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_27_5-27_5",
+      "type": "boxShadow"
+    },
+    "bs_30-30": {
+      "value": {
+        "x": "(-{generationux.rem} * 30)*1",
+        "y": "(-{generationux.rem} * 30)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_30-30",
+      "type": "boxShadow"
+    },
+    "bs_45-45": {
+      "value": {
+        "x": "(-{generationux.rem} * 45)*1",
+        "y": "(-{generationux.rem} * 45)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_45-45",
+      "type": "boxShadow"
+    },
+    "bs_47_5-47_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 47.5)*1",
+        "y": "(-{generationux.rem} * 47.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_47_5-47_5",
       "type": "boxShadow"
     }
   },
   "generationux__BoxShadow—SharpTopRight": {
+    "bs_0_03125-0_03125": {
+      "value": {
+        "x": "({generationux.rem} * 0.03125)*1",
+        "y": "(-{generationux.rem} * 0.03125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_0_03125-0_03125",
+      "type": "boxShadow"
+    },
+    "bs_0_0625-0_0625": {
+      "value": {
+        "x": "({generationux.rem} * 0.0625)*1",
+        "y": "(-{generationux.rem} * 0.0625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_0_0625-0_0625",
+      "type": "boxShadow"
+    },
     "bs_0_125-0_125": {
       "value": {
         "x": "({generationux.rem} * 0.125)*1",
@@ -6440,6 +6728,18 @@
       "description": "bs_1-1",
       "type": "boxShadow"
     },
+    "bs_1-1_125": {
+      "value": {
+        "x": "({generationux.rem} * 1.125)*1",
+        "y": "(-{generationux.rem} * 1.125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_1-1_125",
+      "type": "boxShadow"
+    },
     "bs_1_25-1_25": {
       "value": {
         "x": "({generationux.rem} * 1.25)*1",
@@ -6512,6 +6812,18 @@
       "description": "bs_2_5-2_5",
       "type": "boxShadow"
     },
+    "bs_2_625-2_625": {
+      "value": {
+        "x": "({generationux.rem} * 2.625)*1",
+        "y": "(-{generationux.rem} * 2.625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_2_625-2_625",
+      "type": "boxShadow"
+    },
     "bs_2_75-2_75": {
       "value": {
         "x": "({generationux.rem} * 2.75)*1",
@@ -6536,6 +6848,18 @@
       "description": "bs_3-3",
       "type": "boxShadow"
     },
+    "bs_3_25-3_25": {
+      "value": {
+        "x": "({generationux.rem} * 3.25)*1",
+        "y": "(-{generationux.rem} * 3.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_3_25-3_25",
+      "type": "boxShadow"
+    },
     "bs_3_5-3_5": {
       "value": {
         "x": "({generationux.rem} * 3.5)*1",
@@ -6546,6 +6870,18 @@
         "type": "dropShadow"
       },
       "description": "bs_3_5-3_5",
+      "type": "boxShadow"
+    },
+    "bs_3_75-3_75": {
+      "value": {
+        "x": "({generationux.rem} * 3.75)*1",
+        "y": "(-{generationux.rem} * 3.75)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_3_75-3_75",
       "type": "boxShadow"
     },
     "bs_4-4": {
@@ -6560,6 +6896,30 @@
       "description": "bs_4-4",
       "type": "boxShadow"
     },
+    "bs_4_3125-4_3125": {
+      "value": {
+        "x": "({generationux.rem} * 4.3125)*1",
+        "y": "(-{generationux.rem} * 4.3125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_4_3125-4_3125",
+      "type": "boxShadow"
+    },
+    "bs_4_5-4_5": {
+      "value": {
+        "x": "({generationux.rem} * 4.5)*1",
+        "y": "(-{generationux.rem} * 4.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_4_5-4_5",
+      "type": "boxShadow"
+    },
     "bs_5-5": {
       "value": {
         "x": "({generationux.rem} * 5)*1",
@@ -6570,6 +6930,18 @@
         "type": "dropShadow"
       },
       "description": "bs_5-5",
+      "type": "boxShadow"
+    },
+    "bs_5_625-5_625": {
+      "value": {
+        "x": "({generationux.rem} * 5.625)*1",
+        "y": "(-{generationux.rem} * 5.625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_5_625-5_625",
       "type": "boxShadow"
     },
     "bs_6-6": {
@@ -6594,6 +6966,18 @@
         "type": "dropShadow"
       },
       "description": "bs_7-7",
+      "type": "boxShadow"
+    },
+    "bs_7_5-7_5": {
+      "value": {
+        "x": "({generationux.rem} * 7.5)*1",
+        "y": "(-{generationux.rem} * 7.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_7_5-7_5",
       "type": "boxShadow"
     },
     "bs_8-8": {
@@ -6632,6 +7016,18 @@
       "description": "bs_10-10",
       "type": "boxShadow"
     },
+    "bs_10_5-10_5": {
+      "value": {
+        "x": "({generationux.rem} * 10.5)*1",
+        "y": "(-{generationux.rem} * 10.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_10_5-10_5",
+      "type": "boxShadow"
+    },
     "bs_11-11": {
       "value": {
         "x": "({generationux.rem} * 11)*1",
@@ -6644,6 +7040,18 @@
       "description": "bs_11-11",
       "type": "boxShadow"
     },
+    "bs_11_25-11_25": {
+      "value": {
+        "x": "({generationux.rem} * 11.25)*1",
+        "y": "(-{generationux.rem} * 11.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_11_25-11_25",
+      "type": "boxShadow"
+    },
     "bs_12-12": {
       "value": {
         "x": "({generationux.rem} * 12)*1",
@@ -6654,6 +7062,18 @@
         "type": "dropShadow"
       },
       "description": "bs_12-12",
+      "type": "boxShadow"
+    },
+    "bs_12_5-12_5": {
+      "value": {
+        "x": "({generationux.rem} * 12.5)*1",
+        "y": "(-{generationux.rem} * 12.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_12_5-12_5",
       "type": "boxShadow"
     },
     "bs_13-13": {
@@ -6704,6 +7124,30 @@
       "description": "bs_16-16",
       "type": "boxShadow"
     },
+    "bs_17-17": {
+      "value": {
+        "x": "({generationux.rem} * 17)*1",
+        "y": "(-{generationux.rem} * 17)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_17-17",
+      "type": "boxShadow"
+    },
+    "bs_17_5-17_5": {
+      "value": {
+        "x": "({generationux.rem} * 17.5)*1",
+        "y": "(-{generationux.rem} * 17.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_17_5-17_5",
+      "type": "boxShadow"
+    },
     "bs_18-18": {
       "value": {
         "x": "({generationux.rem} * 18)*1",
@@ -6728,6 +7172,18 @@
       "description": "bs_20-20",
       "type": "boxShadow"
     },
+    "bs_22_5-22_5": {
+      "value": {
+        "x": "({generationux.rem} * 22.5)*1",
+        "y": "(-{generationux.rem} * 22.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_22_5-22_5",
+      "type": "boxShadow"
+    },
     "bs_24-24": {
       "value": {
         "x": "({generationux.rem} * 24)*1",
@@ -6739,10 +7195,106 @@
       },
       "description": "bs_24-24",
       "type": "boxShadow"
+    },
+    "bs_25-25": {
+      "value": {
+        "x": "({generationux.rem} * 25)*1",
+        "y": "(-{generationux.rem} * 25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_25-25",
+      "type": "boxShadow"
+    },
+    "bs_26_25-26_25": {
+      "value": {
+        "x": "({generationux.rem} * 26.25)*1",
+        "y": "(-{generationux.rem} * 26.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_26_25-26_25",
+      "type": "boxShadow"
+    },
+    "bs_27_5-27_5": {
+      "value": {
+        "x": "({generationux.rem} * 27.5)*1",
+        "y": "(-{generationux.rem} * 27.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_27_5-27_5",
+      "type": "boxShadow"
+    },
+    "bs_30-30": {
+      "value": {
+        "x": "({generationux.rem} * 30)*1",
+        "y": "(-{generationux.rem} * 30)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_30-30",
+      "type": "boxShadow"
+    },
+    "bs_45-45": {
+      "value": {
+        "x": "({generationux.rem} * 45)*1",
+        "y": "(-{generationux.rem} * 45)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_45-45",
+      "type": "boxShadow"
+    },
+    "bs_47_5-47_5": {
+      "value": {
+        "x": "({generationux.rem} * 47.5)*1",
+        "y": "(-{generationux.rem} * 47.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_47_5-47_5",
+      "type": "boxShadow"
     }
   },
   "generationux__BoxShadow—SharpBottomLeft": {
-    "bs_0_125-_0_125": {
+    "bs_0_03125-0_03125": {
+      "value": {
+        "x": "(-{generationux.rem} * 0.03125)*1",
+        "y": "({generationux.rem} * 0.03125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_0_03125-0_03125",
+      "type": "boxShadow"
+    },
+    "bs_0_0625-0_0625": {
+      "value": {
+        "x": "(-{generationux.rem} * 0.0625)*1",
+        "y": "({generationux.rem} * 0.0625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_0_0625-0_0625",
+      "type": "boxShadow"
+    },
+    "bs_0_125-0_125": {
       "value": {
         "x": "(-{generationux.rem} * 0.125)*1",
         "y": "({generationux.rem} * 0.125)*1",
@@ -6751,7 +7303,7 @@
         "color": "{generationux__Colors.900}",
         "type": "dropShadow"
       },
-      "description": "bs_0_125-_0_125",
+      "description": "bs_0_125-0_125",
       "type": "boxShadow"
     },
     "bs_0_25-0_25": {
@@ -6838,6 +7390,18 @@
       "description": "bs_1-1",
       "type": "boxShadow"
     },
+    "bs_1-1_125": {
+      "value": {
+        "x": "(-{generationux.rem} * 1.125)*1",
+        "y": "({generationux.rem} * 1.125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_1-1_125",
+      "type": "boxShadow"
+    },
     "bs_1_25-1_25": {
       "value": {
         "x": "(-{generationux.rem} * 1.25)*1",
@@ -6910,6 +7474,18 @@
       "description": "bs_2_5-2_5",
       "type": "boxShadow"
     },
+    "bs_2_625-2_625": {
+      "value": {
+        "x": "(-{generationux.rem} * 2.625)*1",
+        "y": "({generationux.rem} * 2.625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_2_625-2_625",
+      "type": "boxShadow"
+    },
     "bs_2_75-2_75": {
       "value": {
         "x": "(-{generationux.rem} * 2.75)*1",
@@ -6934,6 +7510,18 @@
       "description": "bs_3-3",
       "type": "boxShadow"
     },
+    "bs_3_25-3_25": {
+      "value": {
+        "x": "(-{generationux.rem} * 3.25)*1",
+        "y": "({generationux.rem} * 3.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_3_25-3_25",
+      "type": "boxShadow"
+    },
     "bs_3_5-3_5": {
       "value": {
         "x": "(-{generationux.rem} * 3.5)*1",
@@ -6944,6 +7532,18 @@
         "type": "dropShadow"
       },
       "description": "bs_3_5-3_5",
+      "type": "boxShadow"
+    },
+    "bs_3_75-3_75": {
+      "value": {
+        "x": "(-{generationux.rem} * 3.75)*1",
+        "y": "({generationux.rem} * 3.75)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_3_75-3_75",
       "type": "boxShadow"
     },
     "bs_4-4": {
@@ -6958,6 +7558,30 @@
       "description": "bs_4-4",
       "type": "boxShadow"
     },
+    "bs_4_3125-4_3125": {
+      "value": {
+        "x": "(-{generationux.rem} * 4.3125)*1",
+        "y": "({generationux.rem} * 4.3125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_4_3125-4_3125",
+      "type": "boxShadow"
+    },
+    "bs_4_5-4_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 4.5)*1",
+        "y": "({generationux.rem} * 4.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_4_5-4_5",
+      "type": "boxShadow"
+    },
     "bs_5-5": {
       "value": {
         "x": "(-{generationux.rem} * 5)*1",
@@ -6968,6 +7592,18 @@
         "type": "dropShadow"
       },
       "description": "bs_5-5",
+      "type": "boxShadow"
+    },
+    "bs_5_625-5_625": {
+      "value": {
+        "x": "(-{generationux.rem} * 5.625)*1",
+        "y": "({generationux.rem} * 5.625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_5_625-5_625",
       "type": "boxShadow"
     },
     "bs_6-6": {
@@ -6992,6 +7628,18 @@
         "type": "dropShadow"
       },
       "description": "bs_7-7",
+      "type": "boxShadow"
+    },
+    "bs_7_5-7_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 7.5)*1",
+        "y": "({generationux.rem} * 7.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_7_5-7_5",
       "type": "boxShadow"
     },
     "bs_8-8": {
@@ -7030,6 +7678,18 @@
       "description": "bs_10-10",
       "type": "boxShadow"
     },
+    "bs_10_5-10_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 10.5)*1",
+        "y": "({generationux.rem} * 10.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_10_5-10_5",
+      "type": "boxShadow"
+    },
     "bs_11-11": {
       "value": {
         "x": "(-{generationux.rem} * 11)*1",
@@ -7042,6 +7702,18 @@
       "description": "bs_11-11",
       "type": "boxShadow"
     },
+    "bs_11_25-11_25": {
+      "value": {
+        "x": "(-{generationux.rem} * 11.25)*1",
+        "y": "({generationux.rem} * 11.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_11_25-11_25",
+      "type": "boxShadow"
+    },
     "bs_12-12": {
       "value": {
         "x": "(-{generationux.rem} * 12)*1",
@@ -7052,6 +7724,18 @@
         "type": "dropShadow"
       },
       "description": "bs_12-12",
+      "type": "boxShadow"
+    },
+    "bs_12_5-12_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 12.5)*1",
+        "y": "({generationux.rem} * 12.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_12_5-12_5",
       "type": "boxShadow"
     },
     "bs_13-13": {
@@ -7102,6 +7786,30 @@
       "description": "bs_16-16",
       "type": "boxShadow"
     },
+    "bs_17-17": {
+      "value": {
+        "x": "(-{generationux.rem} * 17)*1",
+        "y": "({generationux.rem} * 17)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_17-17",
+      "type": "boxShadow"
+    },
+    "bs_17_5-17_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 17.5)*1",
+        "y": "({generationux.rem} * 17.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_17_5-17_5",
+      "type": "boxShadow"
+    },
     "bs_18-18": {
       "value": {
         "x": "(-{generationux.rem} * 18)*1",
@@ -7126,6 +7834,18 @@
       "description": "bs_20-20",
       "type": "boxShadow"
     },
+    "bs_22_5-22_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 22.5)*1",
+        "y": "({generationux.rem} * 22.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_22_5-22_5",
+      "type": "boxShadow"
+    },
     "bs_24-24": {
       "value": {
         "x": "(-{generationux.rem} * 24)*1",
@@ -7137,10 +7857,106 @@
       },
       "description": "bs_24-24",
       "type": "boxShadow"
+    },
+    "bs_25-25": {
+      "value": {
+        "x": "(-{generationux.rem} * 25)*1",
+        "y": "({generationux.rem} * 25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_25-25",
+      "type": "boxShadow"
+    },
+    "bs_26_25-26_25": {
+      "value": {
+        "x": "(-{generationux.rem} * 26.25)*1",
+        "y": "({generationux.rem} * 26.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_26_25-26_25",
+      "type": "boxShadow"
+    },
+    "bs_27_5-27_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 27.5)*1",
+        "y": "({generationux.rem} * 27.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_27_5-27_5",
+      "type": "boxShadow"
+    },
+    "bs_30-30": {
+      "value": {
+        "x": "(-{generationux.rem} * 30)*1",
+        "y": "({generationux.rem} * 30)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_30-30",
+      "type": "boxShadow"
+    },
+    "bs_45-45": {
+      "value": {
+        "x": "(-{generationux.rem} * 45)*1",
+        "y": "({generationux.rem} * 45)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_45-45",
+      "type": "boxShadow"
+    },
+    "bs_47_5-47_5": {
+      "value": {
+        "x": "(-{generationux.rem} * 47.5)*1",
+        "y": "({generationux.rem} * 47.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_47_5-47_5",
+      "type": "boxShadow"
     }
   },
   "generationux__BoxShadow—SharpBottomRight": {
-    "bs_0_125-_0_125": {
+    "bs_0_03125-0_03125": {
+      "value": {
+        "x": "({generationux.rem} * 0.03125)*1",
+        "y": "({generationux.rem} * 0.03125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_0_03125-0_03125",
+      "type": "boxShadow"
+    },
+    "bs_0_0625-0_0625": {
+      "value": {
+        "x": "({generationux.rem} * 0.0625)*1",
+        "y": "({generationux.rem} * 0.0625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_0_0625-0_0625",
+      "type": "boxShadow"
+    },
+    "bs_0_125-0_125": {
       "value": {
         "x": "({generationux.rem} * 0.125)*1",
         "y": "({generationux.rem} * 0.125)*1",
@@ -7149,7 +7965,7 @@
         "color": "{generationux__Colors.900}",
         "type": "dropShadow"
       },
-      "description": "bs_0_125-_0_125",
+      "description": "bs_0_125-0_125",
       "type": "boxShadow"
     },
     "bs_0_25-0_25": {
@@ -7236,6 +8052,18 @@
       "description": "bs_1-1",
       "type": "boxShadow"
     },
+    "bs_1-1_125": {
+      "value": {
+        "x": "({generationux.rem} * 1.125)*1",
+        "y": "({generationux.rem} * 1.125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_1-1_125",
+      "type": "boxShadow"
+    },
     "bs_1_25-1_25": {
       "value": {
         "x": "({generationux.rem} * 1.25)*1",
@@ -7308,6 +8136,18 @@
       "description": "bs_2_5-2_5",
       "type": "boxShadow"
     },
+    "bs_2_625-2_625": {
+      "value": {
+        "x": "({generationux.rem} * 2.625)*1",
+        "y": "({generationux.rem} * 2.625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_2_625-2_625",
+      "type": "boxShadow"
+    },
     "bs_2_75-2_75": {
       "value": {
         "x": "({generationux.rem} * 2.75)*1",
@@ -7332,6 +8172,18 @@
       "description": "bs_3-3",
       "type": "boxShadow"
     },
+    "bs_3_25-3_25": {
+      "value": {
+        "x": "({generationux.rem} * 3.25)*1",
+        "y": "({generationux.rem} * 3.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_3_25-3_25",
+      "type": "boxShadow"
+    },
     "bs_3_5-3_5": {
       "value": {
         "x": "({generationux.rem} * 3.5)*1",
@@ -7342,6 +8194,18 @@
         "type": "dropShadow"
       },
       "description": "bs_3_5-3_5",
+      "type": "boxShadow"
+    },
+    "bs_3_75-3_75": {
+      "value": {
+        "x": "({generationux.rem} * 3.75)*1",
+        "y": "({generationux.rem} * 3.75)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_3_75-3_75",
       "type": "boxShadow"
     },
     "bs_4-4": {
@@ -7356,6 +8220,30 @@
       "description": "bs_4-4",
       "type": "boxShadow"
     },
+    "bs_4_3125-4_3125": {
+      "value": {
+        "x": "({generationux.rem} * 4.3125)*1",
+        "y": "({generationux.rem} * 4.3125)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_4_3125-4_3125",
+      "type": "boxShadow"
+    },
+    "bs_4_5-4_5": {
+      "value": {
+        "x": "({generationux.rem} * 4.5)*1",
+        "y": "({generationux.rem} * 4.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_4_5-4_5",
+      "type": "boxShadow"
+    },
     "bs_5-5": {
       "value": {
         "x": "({generationux.rem} * 5)*1",
@@ -7366,6 +8254,18 @@
         "type": "dropShadow"
       },
       "description": "bs_5-5",
+      "type": "boxShadow"
+    },
+    "bs_5_625-5_625": {
+      "value": {
+        "x": "({generationux.rem} * 5.625)*1",
+        "y": "({generationux.rem} * 5.625)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_5_625-5_625",
       "type": "boxShadow"
     },
     "bs_6-6": {
@@ -7390,6 +8290,18 @@
         "type": "dropShadow"
       },
       "description": "bs_7-7",
+      "type": "boxShadow"
+    },
+    "bs_7_5-7_5": {
+      "value": {
+        "x": "({generationux.rem} * 7.5)*1",
+        "y": "({generationux.rem} * 7.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_7_5-7_5",
       "type": "boxShadow"
     },
     "bs_8-8": {
@@ -7428,6 +8340,18 @@
       "description": "bs_10-10",
       "type": "boxShadow"
     },
+    "bs_10_5-10_5": {
+      "value": {
+        "x": "({generationux.rem} * 10.5)*1",
+        "y": "({generationux.rem} * 10.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_10_5-10_5",
+      "type": "boxShadow"
+    },
     "bs_11-11": {
       "value": {
         "x": "({generationux.rem} * 11)*1",
@@ -7440,6 +8364,18 @@
       "description": "bs_11-11",
       "type": "boxShadow"
     },
+    "bs_11_25-11_25": {
+      "value": {
+        "x": "({generationux.rem} * 11.25)*1",
+        "y": "({generationux.rem} * 11.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_11_25-11_25",
+      "type": "boxShadow"
+    },
     "bs_12-12": {
       "value": {
         "x": "({generationux.rem} * 12)*1",
@@ -7450,6 +8386,18 @@
         "type": "dropShadow"
       },
       "description": "bs_12-12",
+      "type": "boxShadow"
+    },
+    "bs_12_5-12_5": {
+      "value": {
+        "x": "({generationux.rem} * 12.5)*1",
+        "y": "({generationux.rem} * 12.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_12_5-12_5",
       "type": "boxShadow"
     },
     "bs_13-13": {
@@ -7500,6 +8448,30 @@
       "description": "bs_16-16",
       "type": "boxShadow"
     },
+    "bs_17-17": {
+      "value": {
+        "x": "({generationux.rem} * 17)*1",
+        "y": "({generationux.rem} * 17)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_17-17",
+      "type": "boxShadow"
+    },
+    "bs_17_5-17_5": {
+      "value": {
+        "x": "({generationux.rem} * 17.5)*1",
+        "y": "({generationux.rem} * 17.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_17_5-17_5",
+      "type": "boxShadow"
+    },
     "bs_18-18": {
       "value": {
         "x": "({generationux.rem} * 18)*1",
@@ -7524,6 +8496,18 @@
       "description": "bs_20-20",
       "type": "boxShadow"
     },
+    "bs_22_5-22_5": {
+      "value": {
+        "x": "({generationux.rem} * 22.5)*1",
+        "y": "({generationux.rem} * 22.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_22_5-22_5",
+      "type": "boxShadow"
+    },
     "bs_24-24": {
       "value": {
         "x": "({generationux.rem} * 24)*1",
@@ -7534,6 +8518,78 @@
         "type": "dropShadow"
       },
       "description": "bs_24-24",
+      "type": "boxShadow"
+    },
+    "bs_25-25": {
+      "value": {
+        "x": "({generationux.rem} * 25)*1",
+        "y": "({generationux.rem} * 25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_25-25",
+      "type": "boxShadow"
+    },
+    "bs_26_25-26_25": {
+      "value": {
+        "x": "({generationux.rem} * 26.25)*1",
+        "y": "({generationux.rem} * 26.25)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_26_25-26_25",
+      "type": "boxShadow"
+    },
+    "bs_27_5-27_5": {
+      "value": {
+        "x": "({generationux.rem} * 27.5)*1",
+        "y": "({generationux.rem} * 27.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_27_5-27_5",
+      "type": "boxShadow"
+    },
+    "bs_30-30": {
+      "value": {
+        "x": "({generationux.rem} * 30)*1",
+        "y": "({generationux.rem} * 30)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_30-30",
+      "type": "boxShadow"
+    },
+    "bs_45-45": {
+      "value": {
+        "x": "({generationux.rem} * 45)*1",
+        "y": "({generationux.rem} * 45)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_45-45",
+      "type": "boxShadow"
+    },
+    "bs_47_5-47_5": {
+      "value": {
+        "x": "({generationux.rem} * 47.5)*1",
+        "y": "({generationux.rem} * 47.5)*1",
+        "blur": "{generationux.rem} * 0",
+        "spread": "{generationux.rem} * 0",
+        "color": "{generationux__Colors.900}",
+        "type": "dropShadow"
+      },
+      "description": "bs_47_5-47_5",
       "type": "boxShadow"
     }
   },
