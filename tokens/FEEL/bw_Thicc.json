@@ -125,6 +125,11 @@
       "description": "bw_4",
       "type": "borderWidth"
     },
+    "bw_4_3125": {
+      "value": "({generationux.rem} * 4.3125)*5",
+      "type": "borderWidth",
+      "description": "bw_4_3125"
+    },
     "bw_4_5": {
       "value": "({generationux.rem} * 4.5)*5",
       "description": "bw_4_5",

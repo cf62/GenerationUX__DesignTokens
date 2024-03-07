@@ -122,8 +122,13 @@
     },
     "br_4": {
       "value": "({generationux.rem} * 4)*1",
-      "description": "br_4",
-      "type": "borderRadius"
+      "type": "borderRadius",
+      "description": "br_4"
+    },
+    "br_4_3125": {
+      "value": "({generationux.rem} * 4.3125)*1",
+      "type": "borderRadius",
+      "description": "br_4_3125"
     },
     "br_4_5": {
       "value": "({generationux.rem} * 4.5)*1",
