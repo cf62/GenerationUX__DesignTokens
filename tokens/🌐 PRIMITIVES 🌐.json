@@ -2734,10 +2734,60 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "clear"
     }
   },
-  "generationux__BoxShadow--SharpStyles": {
+  "🤛👤__SharpStyles": {
+    "themeBrut_TopLeft": {
+      "value": [
+        "{generationux__BoxShadow--SharpTop.bs_0_5}",
+        "{generationux__BoxShadow--SharpLeft.bs_0_5}"
+      ],
+      "type": "boxShadow",
+      "description": "themeBrut_TopLeft"
+    },
+    "themeBrut_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "(-{generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux__Colors.900}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "themeBrut_TopRight"
+    },
+    "themeBrut_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux__Colors.900}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "themeBrut_BottomLeft"
+    },
+    "themeBrut_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux__Colors.900}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "themeBrut_BottomRight"
+    },
     "themeBuona": {
       "value": [
         {
@@ -2806,7 +2856,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "themeBuona"
     },
     "themeFlare_right": {
       "value": [
@@ -2844,7 +2894,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "themeFlare_right"
     },
     "themeFlare_left": {
       "value": [
@@ -2882,7 +2932,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "themeFlare_left"
     },
     "themeLayers_right": {
       "value": [
@@ -2936,7 +2986,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "themeLayers_right"
     },
     "themeLayers_left": {
       "value": [
@@ -2990,7 +3040,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "themeLayers_left"
     },
     "themeSystem": {
       "value": [
@@ -3076,7 +3126,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "boxSthemeSystemhadow"
     },
     "themeTendo": {
       "value": [
@@ -3130,7 +3180,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "themeTendo"
     },
     "themeTosh": {
       "value": [
@@ -3216,7 +3266,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "themeTosh"
     },
     "themeTurbo": {
       "value": [
@@ -3294,7 +3344,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "themeTurbo"
     }
   },
   "generationux__BoxShadow--SharpTop": {
@@ -11830,7 +11880,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "farBoxShadow_r_b_45"
     },
     "nearBoxShadow_r": {
       "value": [
@@ -11956,7 +12006,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "nearBoxShadow_r"
     },
     "farDatum-1_r_b_45": {
       "value": [
@@ -12010,7 +12060,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "farDatum-1_r_b_45"
     },
     "nearDatum-1_r": {
       "value": [
@@ -12136,7 +12186,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "nearDatum-1_r"
     },
     "nsetDatum-1_r": {
       "value": [
