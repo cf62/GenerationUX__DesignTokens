@@ -2738,13 +2738,13 @@
     }
   },
   "🤛👤__SharpStyles": {
-    "themeBrut_TopLeft": {
+    "themeBrut_InnerTopLeft": {
       "value": [
-        "{generationux__BoxShadow--SharpTop.bs_0_5}",
-        "{generationux__BoxShadow--SharpLeft.bs_0_5}"
+        "{SharpTop.bs_0_5}",
+        "{generationux__BoxShadow--SharpBottom.bs_0_5}"
       ],
       "type": "boxShadow",
-      "description": "themeBrut_TopLeft"
+      "description": "boxShadow"
     },
     "themeBrut_TopRight": {
       "value": [
