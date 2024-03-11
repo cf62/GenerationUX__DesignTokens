@@ -660,287 +660,287 @@
   },
   "gux-font-size": {
     "gux-fs-0": {
-      "value": "(-{generationux.rem} * 0)*1",
+      "value": "({generationux.rem} * 0)*1",
       "type": "fontSizes",
       "description": "gux-fs-0"
     },
     "gux-fs-0_03125": {
-      "value": "(-{generationux.rem} * 0.03125)*1",
+      "value": "({generationux.rem} * 0.03125)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_03125"
     },
     "gux-fs-0_0625": {
-      "value": "(-{generationux.rem} * 0.0625)*1",
+      "value": "({generationux.rem} * 0.0625)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_0625"
     },
     "gux-fs-0_125": {
-      "value": "(-{generationux.rem} * 0.125)*1",
+      "value": "({generationux.rem} * 0.125)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_125"
     },
     "gux-fs-0_25": {
-      "value": "(-{generationux.rem} * 0.25)*1",
+      "value": "({generationux.rem} * 0.25)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_25"
     },
     "gux-fs-0_375": {
-      "value": "(-{generationux.rem} * 0.375)*1",
+      "value": "({generationux.rem} * 0.375)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_375"
     },
     "gux-fs-0_5": {
-      "value": "(-{generationux.rem} * 0.5)*1",
+      "value": "({generationux.rem} * 0.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_5"
     },
     "gux-fs-0_625": {
-      "value": "(-{generationux.rem} * 0.625)*1",
+      "value": "({generationux.rem} * 0.625)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_625"
     },
     "gux-fs-0_75": {
-      "value": "(-{generationux.rem} * 0.75)*1",
+      "value": "({generationux.rem} * 0.75)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_75"
     },
     "gux-fs-0_875": {
-      "value": "(-{generationux.rem} * 0.875)*1",
+      "value": "({generationux.rem} * 0.875)*1",
       "type": "fontSizes",
       "description": "gux-fs-0_875"
     },
     "gux-fs-1": {
-      "value": "(-{generationux.rem} * 1)*1",
+      "value": "({generationux.rem} * 1)*1",
       "type": "fontSizes",
       "description": "gux-fs-1"
     },
     "gux-fs-1_125": {
-      "value": "(-{generationux.rem} * 1.125)*1",
+      "value": "({generationux.rem} * 1.125)*1",
       "type": "fontSizes",
       "description": "gux-fs-1_125"
     },
     "gux-fs-1_25": {
-      "value": "(-{generationux.rem} * 1.25)*1",
+      "value": "({generationux.rem} * 1.25)*1",
       "type": "fontSizes",
       "description": "gux-fs-1_25"
     },
     "gux-fs-1_5": {
-      "value": "(-{generationux.rem} * 1.5)*1",
+      "value": "({generationux.rem} * 1.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-1_5"
     },
     "gux-fs-1_75": {
-      "value": "(-{generationux.rem} * 1.75)*1",
+      "value": "({generationux.rem} * 1.75)*1",
       "type": "fontSizes",
       "description": "gux-fs-1_75"
     },
     "gux-fs-2": {
-      "value": "(-{generationux.rem} * 2)*1",
+      "value": "({generationux.rem} * 2)*1",
       "type": "fontSizes",
       "description": "gux-fs-2"
     },
     "gux-fs-2_25": {
-      "value": "(-{generationux.rem} * 2.25)*1",
+      "value": "({generationux.rem} * 2.25)*1",
       "type": "fontSizes",
       "description": "gux-fs-2_25"
     },
     "gux-fs-2_5": {
-      "value": "(-{generationux.rem} * 2.5)*1",
+      "value": "({generationux.rem} * 2.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-2_5"
     },
     "gux-fs-2_625": {
-      "value": "(-{generationux.rem} * 2.625)*1",
+      "value": "({generationux.rem} * 2.625)*1",
       "type": "fontSizes",
       "description": "gux-fs-2_625"
     },
     "gux-fs-2_75": {
-      "value": "(-{generationux.rem} * 2.75)*1",
+      "value": "({generationux.rem} * 2.75)*1",
       "type": "fontSizes",
       "description": "gux-fs-2_75"
     },
     "gux-fs-3": {
-      "value": "(-{generationux.rem} * 3)*1",
+      "value": "({generationux.rem} * 3)*1",
       "type": "fontSizes",
       "description": "gux-fs-3"
     },
     "gux-fs-3_25": {
-      "value": "(-{generationux.rem} * 3.25)*1",
+      "value": "({generationux.rem} * 3.25)*1",
       "type": "fontSizes",
       "description": "gux-fs-3_25"
     },
     "gux-fs-3_5": {
-      "value": "(-{generationux.rem} * 3.5)*1",
+      "value": "({generationux.rem} * 3.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-3_5"
     },
     "gux-fs-3_75": {
-      "value": "(-{generationux.rem} * 3.75)*1",
+      "value": "({generationux.rem} * 3.75)*1",
       "type": "fontSizes",
       "description": "gux-fs-3_75"
     },
     "gux-fs-4": {
-      "value": "(-{generationux.rem} * 4)*1",
+      "value": "({generationux.rem} * 4)*1",
       "type": "fontSizes",
       "description": "gux-fs-4"
     },
     "gux-fs-4_3125": {
-      "value": "(-{generationux.rem} * 4.3125)*1",
+      "value": "({generationux.rem} * 4.3125)*1",
       "type": "fontSizes",
       "description": "gux-fs-4_3125"
     },
     "gux-fs-4_5": {
-      "value": "(-{generationux.rem} * 4.5)*1",
+      "value": "({generationux.rem} * 4.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-4_5"
     },
     "gux-fs-5": {
-      "value": "(-{generationux.rem} * 5)*1",
+      "value": "({generationux.rem} * 5)*1",
       "type": "fontSizes",
       "description": "gux-fs-5"
     },
     "gux-fs-5_625": {
-      "value": "(-{generationux.rem} * 5.625)*1",
+      "value": "({generationux.rem} * 5.625)*1",
       "type": "fontSizes",
       "description": "gux-fs-5_625"
     },
     "gux-fs-6": {
-      "value": "(-{generationux.rem} * 6)*1",
+      "value": "({generationux.rem} * 6)*1",
       "type": "fontSizes",
       "description": "gux-fs-6"
     },
     "gux-fs-7": {
-      "value": "(-{generationux.rem} * 7)*1",
+      "value": "({generationux.rem} * 7)*1",
       "type": "fontSizes",
       "description": "gux-fs-7"
     },
     "gux-fs-7_5": {
-      "value": "(-{generationux.rem} * 7.5)*1",
+      "value": "({generationux.rem} * 7.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-7_5"
     },
     "gux-fs-8": {
-      "value": "(-{generationux.rem} * 8)*1",
+      "value": "({generationux.rem} * 8)*1",
       "type": "fontSizes",
       "description": "gux-fs-8"
     },
     "gux-fs-9": {
-      "value": "(-{generationux.rem} * 9)*1",
+      "value": "({generationux.rem} * 9)*1",
       "type": "fontSizes",
       "description": "gux-fs-9"
     },
     "gux-fs-10": {
-      "value": "(-{generationux.rem} * 10)*1",
+      "value": "({generationux.rem} * 10)*1",
       "type": "fontSizes",
       "description": "gux-fs-10"
     },
     "gux-fs-10_5": {
-      "value": "(-{generationux.rem} * 10.5)*1",
+      "value": "({generationux.rem} * 10.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-10_5"
     },
     "gux-fs-10_75": {
-      "value": "(-{generationux.rem} * 10.75)*1",
+      "value": "({generationux.rem} * 10.75)*1",
       "type": "fontSizes",
       "description": "gux-fs-10_75"
     },
     "gux-fs-11": {
-      "value": "(-{generationux.rem} * 11)*1",
+      "value": "({generationux.rem} * 11)*1",
       "type": "fontSizes",
       "description": "gux-fs-11"
     },
     "gux-fs-11_25": {
-      "value": "(-{generationux.rem} * 11.25)*1",
+      "value": "({generationux.rem} * 11.25)*1",
       "type": "fontSizes",
       "description": "gux-fs-11_25"
     },
     "gux-fs-12": {
-      "value": "(-{generationux.rem} * 12)*1",
+      "value": "({generationux.rem} * 12)*1",
       "type": "fontSizes",
       "description": "gux-fs-12"
     },
     "gux-fs-12_5": {
-      "value": "(-{generationux.rem} * 12.5)*1",
+      "value": "({generationux.rem} * 12.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-12_5"
     },
     "gux-fs-13": {
-      "value": "(-{generationux.rem} * 13)*1",
+      "value": "({generationux.rem} * 13)*1",
       "type": "fontSizes",
       "description": "gux-fs-13"
     },
     "gux-fs-14": {
-      "value": "(-{generationux.rem} * 14)*1",
+      "value": "({generationux.rem} * 14)*1",
       "type": "fontSizes",
       "description": "gux-fs-14"
     },
     "gux-fs-15": {
-      "value": "(-{generationux.rem} * 15)*1",
+      "value": "({generationux.rem} * 15)*1",
       "type": "fontSizes",
       "description": "gux-fs-15"
     },
     "gux-fs-16": {
-      "value": "(-{generationux.rem} * 16)*1",
+      "value": "({generationux.rem} * 16)*1",
       "type": "fontSizes",
       "description": "gux-fs-16"
     },
     "gux-fs-17": {
-      "value": "(-{generationux.rem} * 17)*1",
+      "value": "({generationux.rem} * 17)*1",
       "type": "fontSizes",
       "description": "gux-fs-17"
     },
     "gux-fs-17_5": {
-      "value": "(-{generationux.rem} * 17.5",
+      "value": "({generationux.rem} * 17.5",
       "type": "fontSizes",
       "description": "gux-fs-17_5"
     },
     "gux-fs-18": {
-      "value": "(-{generationux.rem} * 18)*1",
+      "value": "({generationux.rem} * 18)*1",
       "type": "fontSizes",
       "description": "gux-fs-18"
     },
     "gux-fs-20": {
-      "value": "(-{generationux.rem} * 20)*1",
+      "value": "({generationux.rem} * 20)*1",
       "type": "fontSizes",
       "description": "gux-fs-20"
     },
     "gux-fs-22_5": {
-      "value": "(-{generationux.rem} * 22.5)*1",
+      "value": "({generationux.rem} * 22.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-22_5"
     },
     "gux-fs-24": {
-      "value": "(-{generationux.rem} * 24)*1",
+      "value": "({generationux.rem} * 24)*1",
       "type": "fontSizes",
       "description": "gux-fs-24"
     },
     "gux-fs-25": {
-      "value": "(-{generationux.rem} * 25)*1",
+      "value": "({generationux.rem} * 25)*1",
       "type": "fontSizes",
       "description": "gux-fs-25"
     },
     "gux-fs-26_25": {
-      "value": "(-{generationux.rem} * 26.25)*1",
+      "value": "({generationux.rem} * 26.25)*1",
       "type": "fontSizes",
       "description": "gux-fs-26_25"
     },
     "gux-fs-27_5": {
-      "value": "(-{generationux.rem} * 27.5)*1",
+      "value": "({generationux.rem} * 27.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-27_5"
     },
     "gux-fs-30": {
-      "value": "(-{generationux.rem} * 30)*1",
+      "value": "({generationux.rem} * 30)*1",
       "type": "fontSizes",
       "description": "gux-fs-30"
     },
     "gux-fs-45": {
-      "value": "(-{generationux.rem} * 45)*1",
+      "value": "({generationux.rem} * 45)*1",
       "type": "fontSizes",
       "description": "gux-fs-45"
     },
     "gux-fs-47_5": {
-      "value": "(-{generationux.rem} * 47.5)*1",
+      "value": "({generationux.rem} * 47.5)*1",
       "type": "fontSizes",
       "description": "gux-fs-47_5"
     }
