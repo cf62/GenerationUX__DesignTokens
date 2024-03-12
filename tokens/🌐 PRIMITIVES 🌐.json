@@ -943,6 +943,26 @@
     }
   },
   "generationux-padding": {
+    "p-min4✨": {
+      "value": "(-{generationux.rem} * 1)*1",
+      "type": "spacing",
+      "description": "p-min4✨"
+    },
+    "p-min2✨": {
+      "value": "(-{generationux.rem} * 0.5)*1",
+      "type": "spacing",
+      "description": "p-min2✨"
+    },
+    "p-min1✨": {
+      "value": "(-{generationux.rem} * 0.25)*1",
+      "type": "spacing",
+      "description": "p-min1✨"
+    },
+    "p-min0_5✨": {
+      "value": "(-{generationux.rem} * 0.125)*1",
+      "type": "spacing",
+      "description": "p-min0_5✨"
+    },
     "p-0": {
       "value": "({generationux.rem} * 0)*1",
       "type": "spacing",
