@@ -34797,9 +34797,14 @@
   },
   "size": {
     "size-0": {
-      "value": "0px",
+      "value": "({generationux.rem} * 0)*1",
       "type": "sizing",
       "description": "size-0"
+    },
+    "size-<px✨": {
+      "value": "({generationux.rem} * 0.03125)*1",
+      "type": "sizing",
+      "description": "size-<px✨"
     },
     "size-px": {
       "value": "({generationux.rem} * 0.0625)*1",
@@ -34832,19 +34837,24 @@
       "description": "size-2_5"
     },
     "size-3": {
-      "5": {
-        "value": "({generationux.rem} * 0.875)*1",
-        "description": "size-3.5",
-        "type": "sizing"
-      },
       "value": "({generationux.rem} * 0.75)*1",
       "type": "sizing",
       "description": "size-3"
+    },
+    "size-3_5": {
+      "value": "({generationux.rem} * 0.875)*1",
+      "type": "sizing",
+      "description": "size-3.5"
     },
     "size-4": {
       "value": "({generationux.rem} * 1)*1",
       "type": "sizing",
       "description": "size-4"
+    },
+    "size-4_5✨": {
+      "value": "({generationux.rem} * 1.125)*1",
+      "type": "sizing",
+      "description": "size-4_5✨"
     },
     "size-5": {
       "value": "({generationux.rem} * 1.25)*1",
@@ -34876,6 +34886,11 @@
       "type": "sizing",
       "description": "size-10"
     },
+    "size-10_5✨": {
+      "value": "({generationux.rem} * 2.625)*1",
+      "type": "sizing",
+      "description": "size-10_5✨"
+    },
     "size-11": {
       "value": "({generationux.rem} * 2.75)*1",
       "type": "sizing",
@@ -34886,15 +34901,45 @@
       "type": "sizing",
       "description": "size-12"
     },
+    "size-13✨": {
+      "value": "({generationux.rem} * 3.25)*1",
+      "type": "sizing",
+      "description": "size-13✨"
+    },
     "size-14": {
       "value": "({generationux.rem} * 3.5)*1",
       "type": "sizing",
       "description": "size-14"
     },
+    "size-15✨": {
+      "value": "({generationux.rem} * 3.75)*1",
+      "type": "sizing",
+      "description": "size-15✨"
+    },
+    "size-16": {
+      "value": "({generationux.rem} * 4)*1",
+      "type": "sizing",
+      "description": "size-16"
+    },
+    "size-17_25✨": {
+      "value": "({generationux.rem} * 4.3125)*1",
+      "type": "sizing",
+      "description": "size-17_25✨"
+    },
+    "size-18✨": {
+      "value": "({generationux.rem} * 4.5)*1",
+      "type": "sizing",
+      "description": "size-18✨"
+    },
     "size-20": {
       "value": "({generationux.rem} * 5)*1",
       "type": "sizing",
       "description": "size-20"
+    },
+    "size-22_5✨": {
+      "value": "({generationux.rem} * 5.625)*1",
+      "type": "sizing",
+      "description": "size-22_5✨"
     },
     "size-24": {
       "value": "({generationux.rem} * 6)*1",
@@ -34905,6 +34950,11 @@
       "value": "({generationux.rem} * 7)*1",
       "type": "sizing",
       "description": "size-28"
+    },
+    "size-30✨": {
+      "value": "({generationux.rem} * 7.5)*1",
+      "type": "sizing",
+      "description": "size-30✨"
     },
     "size-32": {
       "value": "({generationux.rem} * 8)*1",
@@ -34921,15 +34971,30 @@
       "type": "sizing",
       "description": "size-40"
     },
+    "size-42✨": {
+      "value": "({generationux.rem} * 10.5)*1",
+      "type": "sizing",
+      "description": "size-42✨"
+    },
     "size-44": {
       "value": "({generationux.rem} * 11)*1",
       "type": "sizing",
       "description": "size-44"
     },
+    "size-45✨": {
+      "value": "({generationux.rem} * 11.25)*1",
+      "type": "sizing",
+      "description": "size-45✨"
+    },
     "size-48": {
       "value": "({generationux.rem} * 12)*1",
       "type": "sizing",
       "description": "size-48"
+    },
+    "size-50✨": {
+      "value": "({generationux.rem} * 12.5)*1",
+      "type": "sizing",
+      "description": "size-50✨"
     },
     "size-52": {
       "value": "({generationux.rem} * 13)*1",
@@ -34951,6 +35016,16 @@
       "type": "sizing",
       "description": "size-64"
     },
+    "size-68✨": {
+      "value": "({generationux.rem} * 17)*1",
+      "type": "sizing",
+      "description": "size-68✨"
+    },
+    "size-70✨": {
+      "value": "({generationux.rem} * 17.5)*1",
+      "type": "sizing",
+      "description": "size-70✨"
+    },
     "size-72": {
       "value": "({generationux.rem} * 18)*1",
       "type": "sizing",
@@ -34961,122 +35036,45 @@
       "type": "sizing",
       "description": "size-80"
     },
+    "size-90✨": {
+      "value": "({generationux.rem} * 22.5)*1",
+      "type": "sizing",
+      "description": "size-90✨"
+    },
     "size-96": {
       "value": "({generationux.rem} * 24)*1",
       "type": "sizing",
       "description": "size-96"
-    }
-  },
-  "gux-size": {
-    "gux-size-0_03125": {
-      "value": "({generationux.rem} * 0.03125)*1",
-      "type": "sizing",
-      "description": "gux-size-0_03125"
     },
-    "gux-size-1_125": {
-      "value": "({generationux.rem} * 1.125)*1",
-      "type": "sizing",
-      "description": "gux-size-1_125"
-    },
-    "gux-size-2_625": {
-      "value": "({generationux.rem} * 2.625)*1",
-      "type": "sizing",
-      "description": "gux-size-2_625"
-    },
-    "gux-size-3_25": {
-      "value": "({generationux.rem} * 3.25)*1",
-      "type": "sizing",
-      "description": "gux-size-3_25"
-    },
-    "gux-size-3_75": {
-      "value": "({generationux.rem} * 3.75)*1",
-      "type": "sizing",
-      "description": "gux-size-3_75"
-    },
-    "size-16": {
-      "value": "({generationux.rem} * 4)*1",
-      "type": "sizing",
-      "description": "size-16"
-    },
-    "gux-size-4_3125": {
-      "value": "({generationux.rem} * 4.3125)*1",
-      "type": "sizing",
-      "description": "gux-size-4_3125"
-    },
-    "gux-size-4_5": {
-      "value": "({generationux.rem} * 4.5)*1",
-      "type": "sizing",
-      "description": "gux-size-4.5"
-    },
-    "gux-size-5_625": {
-      "value": "({generationux.rem} * 5.625)*1",
-      "type": "sizing",
-      "description": "gux-size-5.625"
-    },
-    "gux-size-7_5": {
-      "value": "({generationux.rem} * 7.5)*1",
-      "type": "sizing",
-      "description": "gux-size-7_5"
-    },
-    "sz_10_5": {
-      "value": "({generationux.rem} * 10.5)*1",
-      "type": "sizing",
-      "description": "sz_10_5"
-    },
-    "sz_11_25": {
-      "value": "({generationux.rem} * 11.25)*1",
-      "type": "sizing",
-      "description": "sz_11.25"
-    },
-    "sz_12_5": {
-      "value": "({generationux.rem} * 12.5)*1",
-      "type": "sizing",
-      "description": "sz_12_5"
-    },
-    "sz_17": {
-      "value": "({generationux.rem} * 17)*1",
-      "type": "sizing",
-      "description": "sz_17"
-    },
-    "sz_17_5": {
-      "value": "({generationux.rem} * 17.5)*1",
-      "type": "sizing",
-      "description": "sz_17_5"
-    },
-    "sz_22_5": {
-      "value": "({generationux.rem} * 22.5)*1",
-      "type": "sizing",
-      "description": "sz_22_5"
-    },
-    "sz_25": {
+    "size-100✨": {
       "value": "({generationux.rem} * 25)*1",
       "type": "sizing",
-      "description": "sz_25"
+      "description": "size-100✨"
     },
-    "sz_26_25": {
+    "size-105✨": {
       "value": "({generationux.rem} * 26.25)*1",
       "type": "sizing",
-      "description": "sz_26_25"
+      "description": "size-105✨"
     },
-    "sz_27_5": {
+    "size-110✨": {
       "value": "({generationux.rem} * 27.5)*1",
       "type": "sizing",
-      "description": "sz_27_5"
+      "description": "size-110✨"
     },
-    "gux-size-30": {
+    "size-120✨": {
       "value": "({generationux.rem} * 30)*1",
       "type": "sizing",
-      "description": "gux-size-30"
+      "description": "size-120✨"
     },
-    "gux-size-45": {
+    "size-180✨": {
       "value": "({generationux.rem} * 45)*1",
       "type": "sizing",
-      "description": "gux-size-45"
+      "description": "size-180✨"
     },
-    "gux-size-47_5": {
-      "value": "({generationux.rem} * 47.5",
+    "size-190✨": {
+      "value": "({generationux.rem} * 47.5)*1",
       "type": "sizing",
-      "description": "gux-size-47_5"
+      "description": "size-190✨"
     }
   },
   "gux-opacity": {
