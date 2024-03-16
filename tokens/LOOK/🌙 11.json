@@ -43,7 +43,7 @@
       }
     },
     "500": {
-      "value": "#5721C6",
+      "value": "#F9DB8A",
       "type": "color"
     },
     "700": {
@@ -53,7 +53,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.25",
+            "value": "0.20",
             "space": "lch",
             "color": "{generationux-color.500}"
           }
@@ -67,7 +67,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.75",
+            "value": "0.32",
             "space": "lch",
             "color": "{generationux-color.500}"
           }
@@ -75,7 +75,7 @@
       }
     },
     "bg-current": {
-      "value": "#FDF2E7",
+      "value": "#5721C6",
       "type": "color"
     },
     "candy_min45°✨": {
