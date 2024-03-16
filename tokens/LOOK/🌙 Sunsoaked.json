@@ -1,37 +1,37 @@
 {
   "generationux-color": {
     "100": {
-      "value": "#372B6C",
+      "value": "#6484D8",
       "type": "color",
       "description": "100"
     },
     "200": {
-      "value": "#46376D",
+      "value": "#738FD8",
       "type": "color",
       "description": "200"
     },
     "300": {
-      "value": "#7D6173",
+      "value": "#A0B0DD",
       "type": "color",
       "description": "300"
     },
     "500": {
-      "value": "#EAB47E",
+      "value": "#FDF2E7",
       "type": "color",
       "description": "500"
     },
     "700": {
-      "value": "#B47C59",
+      "value": "#FCE3C9",
       "type": "color",
       "description": "700"
     },
     "900": {
-      "value": "#932D20",
+      "value": "#FEDCB9",
       "type": "color",
       "description": "900"
     },
     "bg-current": {
-      "value": "#271F6A",
+      "value": "#5A7CD7",
       "type": "color",
       "description": "bg-current"
     },
