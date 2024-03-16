@@ -43,7 +43,7 @@
       }
     },
     "500": {
-      "value": "#89F6C7",
+      "value": "#ACF5FD",
       "type": "color"
     },
     "700": {
@@ -67,7 +67,7 @@
         "studio.tokens": {
           "modify": {
             "type": "darken",
-            "value": "0.36",
+            "value": "0.32",
             "space": "lch",
             "color": "{generationux-color.500}"
           }
