@@ -52,10 +52,10 @@
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
-            "value": "0.20",
-            "space": "lch",
-            "color": "{generationux-color.500}"
+            "type": "mix",
+            "value": "0.96",
+            "space": "srgb",
+            "color": "{generationux-color-primitives.700}"
           }
         }
       }
@@ -66,10 +66,10 @@
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
-            "value": "0.32",
-            "space": "lch",
-            "color": "{generationux-color.500}"
+            "type": "mix",
+            "value": "0.76",
+            "space": "srgb",
+            "color": "{generationux-color-primitives.900}"
           }
         }
       }
@@ -205,8 +205,36 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.64",
+            "value": "0.84",
             "space": "hsl",
+            "color": "{generationux-color.500}"
+          }
+        }
+      }
+    },
+    "700": {
+      "value": "{generationux-color.500}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.32",
+            "space": "lch",
+            "color": "{generationux-color.500}"
+          }
+        }
+      }
+    },
+    "900": {
+      "value": "{generationux-color.500}",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.84",
+            "space": "lch",
             "color": "{generationux-color.500}"
           }
         }
