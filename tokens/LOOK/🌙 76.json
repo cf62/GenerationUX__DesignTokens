@@ -43,7 +43,7 @@
       }
     },
     "500": {
-      "value": "#00B96F",
+      "value": "#C6354D",
       "type": "color"
     },
     "700": {
@@ -75,7 +75,7 @@
       }
     },
     "bg-current": {
-      "value": "#9E1055",
+      "value": "#275D7A",
       "type": "color"
     },
     "candy_min45°✨": {
