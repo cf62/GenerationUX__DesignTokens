@@ -35,7 +35,7 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.76",
+            "value": "0.64",
             "space": "srgb",
             "color": "{generationux-color-primitives.300}"
           }
@@ -43,7 +43,7 @@
       }
     },
     "500": {
-      "value": "#193E9A",
+      "value": "#92E496",
       "type": "color"
     },
     "700": {
@@ -53,7 +53,7 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.64",
+            "value": "0.96",
             "space": "srgb",
             "color": "{generationux-color-primitives.700}"
           }
@@ -67,7 +67,7 @@
         "studio.tokens": {
           "modify": {
             "type": "mix",
-            "value": "0.64",
+            "value": "0.76",
             "space": "srgb",
             "color": "{generationux-color-primitives.900}"
           }
@@ -75,7 +75,7 @@
       }
     },
     "bg-current": {
-      "value": "#DCBF67",
+      "value": "#69186B",
       "type": "color"
     },
     "candy_min45°✨": {
@@ -205,7 +205,7 @@
         "studio.tokens": {
           "modify": {
             "type": "alpha",
-            "value": "0.64",
+            "value": "0.84",
             "space": "hsl",
             "color": "{generationux-color.500}"
           }
@@ -218,8 +218,8 @@
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
-            "value": "0.24",
+            "type": "lighten",
+            "value": "0.32",
             "space": "lch",
             "color": "{generationux-color.500}"
           }
@@ -232,8 +232,8 @@
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
-            "value": "0.76",
+            "type": "lighten",
+            "value": "0.84",
             "space": "lch",
             "color": "{generationux-color.500}"
           }
