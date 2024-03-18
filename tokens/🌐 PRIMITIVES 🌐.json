@@ -2905,7 +2905,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "far"
     },
     "near": {
       "value": [
@@ -2959,7 +2959,385 @@
         }
       ],
       "type": "boxShadow",
-      "description": "nsetDatum-1_r"
+      "description": "near"
+    },
+    "soft_2xl": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 6)*1",
+          "blur": "{generationux.rem} * 4",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 3)*1",
+          "blur": "{generationux.rem} * 2",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 1.5)*1",
+          "blur": "{generationux.rem} * 1",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.75)*1",
+          "blur": "{generationux.rem} * 0.5",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.375)*1",
+          "blur": "{generationux.rem} * 0.25",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.1875)*1",
+          "blur": "{generationux.rem} * 0.125",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "soft_2xl"
+    },
+    "soft_xl": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 5)*1",
+          "blur": "{generationux.rem} * 4",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 2.5)*1",
+          "blur": "{generationux.rem} * 2",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 1.25)*1",
+          "blur": "{generationux.rem} * 1",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.625)*1",
+          "blur": "{generationux.rem} * 0.5",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.3125)*1",
+          "blur": "{generationux.rem} * 0.25",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.15625)*1",
+          "blur": "{generationux.rem} * 0.125",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "soft_xl"
+    },
+    "soft_lg": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 4.5)*1",
+          "blur": "{generationux.rem} * 4",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 2.25)*1",
+          "blur": "{generationux.rem} * 2",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 1.125)*1",
+          "blur": "{generationux.rem} * 1",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.5625)*1",
+          "blur": "{generationux.rem} * 0.5",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.28125)*1",
+          "blur": "{generationux.rem} * 0.25",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.140625)*1",
+          "blur": "{generationux.rem} * 0.125",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "soft_lg"
+    },
+    "soft_reg": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 4)*1",
+          "blur": "{generationux.rem} * 4",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 2)*1",
+          "blur": "{generationux.rem} * 2",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 1)*1",
+          "blur": "{generationux.rem} * 1",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.5)*1",
+          "blur": "{generationux.rem} * 0.5",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.25)*1",
+          "blur": "{generationux.rem} * 0.25",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.125)*1",
+          "blur": "{generationux.rem} * 0.125",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "soft_reg"
+    },
+    "soft_sm": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 3.5)*1",
+          "blur": "{generationux.rem} * 4",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 1.75)*1",
+          "blur": "{generationux.rem} * 2",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.875)*1",
+          "blur": "{generationux.rem} * 1",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.4375)*1",
+          "blur": "{generationux.rem} * 0.5",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.21875)*1",
+          "blur": "{generationux.rem} * 0.25",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.109375)*1",
+          "blur": "{generationux.rem} * 0.125",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "soft_sm"
+    },
+    "soft_xs": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 3)*1",
+          "blur": "{generationux.rem} * 4",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 1.5)*1",
+          "blur": "{generationux.rem} * 2",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.75)*1",
+          "blur": "{generationux.rem} * 1",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.375)*1",
+          "blur": "{generationux.rem} * 0.5",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.1875)*1",
+          "blur": "{generationux.rem} * 0.25",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.09375)*1",
+          "blur": "{generationux.rem} * 0.125",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "soft_xs"
+    },
+    "soft_xxs": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 2)*1",
+          "blur": "{generationux.rem} * 4",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 1)*1",
+          "blur": "{generationux.rem} * 2",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.5)*1",
+          "blur": "{generationux.rem} * 1",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.25)*1",
+          "blur": "{generationux.rem} * 0.5",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.125)*1",
+          "blur": "{generationux.rem} * 0.25",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.0625)*1",
+          "blur": "{generationux.rem} * 0.125",
+          "spread": "{generationux.rem} * 0",
+          "color": "rgba({generationux-color.boxshadow}, 0.04)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "soft_xxs"
     }
   },
   "🤏👤__SubtleShadow": {
