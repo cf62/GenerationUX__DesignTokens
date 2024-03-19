@@ -1843,6 +1843,62 @@
     }
   },
   "generationux-hard-box-shadow": {
+    "Brut_Top✨": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Top✨"
+    },
+    "Brut_Bottom✨": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Bottom✨"
+    },
+    "Brut_Left✨": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Left✨"
+    },
+    "Brut_Right✨": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Right✨"
+    },
     "Brut_TopLeft✨": {
       "value": [
         {
@@ -1855,7 +1911,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "Brut_TopLeft✨"
     },
     "Brut_TopRight✨": {
       "value": [
@@ -1869,7 +1925,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "Brut_TopRight✨"
     },
     "Brut_BottomLeft✨": {
       "value": [
@@ -1883,7 +1939,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "Brut_BottomLeft✨"
     },
     "Brut_BottomRight✨": {
       "value": [
@@ -1897,7 +1953,287 @@
         }
       ],
       "type": "boxShadow",
-      "description": "boxShadow"
+      "description": "Brut_BottomRight✨"
+    },
+    "Buona_Top✨": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.05)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.05)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.1)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.1)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.15)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.15)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.2)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.2)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_Top✨"
+    },
+    "Buona_Bottom✨": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.05)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.05)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.1)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.1)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.15)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.15)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.2)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.2)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_Bottom✨"
+    },
+    "Buona_Left✨": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.05)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.05)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.1)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.1)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.2)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.2)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_Left✨"
+    },
+    "Buona_Right✨": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.05)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.05)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.1)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.1)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.2)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.2)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-color.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_Right✨"
     },
     "Buona_TopLeft✨": {
       "value": [
