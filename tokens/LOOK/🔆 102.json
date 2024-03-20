@@ -43,7 +43,7 @@
       }
     },
     "500": {
-      "value": "#A21CAF",
+      "value": "#6B21A8",
       "type": "color"
     },
     "700": {
@@ -75,7 +75,7 @@
       }
     },
     "bg-current": {
-      "value": "#FDE047",
+      "value": "#FEF08A",
       "type": "color"
     },
     "boxshadow": {
