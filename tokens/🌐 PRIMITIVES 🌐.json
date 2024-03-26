@@ -1834,7 +1834,7 @@
           "y": "0",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "innerShadow"
         }
       ],
@@ -2826,7 +2826,7 @@
           "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -2834,7 +2834,7 @@
           "y": "(-{generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.200}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -2842,7 +2842,7 @@
           "y": "(-{generationux.rem} * 0.75)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.300}",
+          "color": "{generationux-color.500}",
           "type": "dropShadow"
         },
         {
@@ -2866,7 +2866,7 @@
           "y": "(-{generationux.rem} * 1.5)*1",
           "blur": "0",
           "spread": "{generationux.rem} * 0.0625",
-          "color": "{generationux-color.900}",
+          "color": "{generationux-color.700}",
           "type": "dropShadow"
         }
       ],
@@ -2880,7 +2880,7 @@
           "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -2888,7 +2888,7 @@
           "y": "({generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.200}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -2896,7 +2896,7 @@
           "y": "({generationux.rem} * 0.75)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.300}",
+          "color": "{generationux-color.500}",
           "type": "dropShadow"
         },
         {
@@ -2920,7 +2920,7 @@
           "y": "({generationux.rem} * 1.5)*1",
           "blur": "0",
           "spread": "{generationux.rem} * 0.0625",
-          "color": "{generationux-color.900}",
+          "color": "{generationux-color.700}",
           "type": "dropShadow"
         }
       ],
@@ -2934,7 +2934,7 @@
           "y": "({generationux.rem} * 0)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -2942,7 +2942,7 @@
           "y": "({generationux.rem} * 0)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.200}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -2950,7 +2950,7 @@
           "y": "({generationux.rem} * 0)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.300}",
+          "color": "{generationux-color.500}",
           "type": "dropShadow"
         },
         {
@@ -2974,7 +2974,7 @@
           "y": "({generationux.rem} * 0)*1",
           "blur": "0",
           "spread": "{generationux.rem} * 0.0625",
-          "color": "{generationux-color.900}",
+          "color": "{generationux-color.700}",
           "type": "dropShadow"
         }
       ],
@@ -2988,7 +2988,7 @@
           "y": "({generationux.rem} * 0)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -2996,7 +2996,7 @@
           "y": "({generationux.rem} * 0)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.200}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3004,7 +3004,7 @@
           "y": "({generationux.rem} * 0)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.300}",
+          "color": "{generationux-color.500}",
           "type": "dropShadow"
         },
         {
@@ -3028,7 +3028,7 @@
           "y": "({generationux.rem} * 0)*1",
           "blur": "0",
           "spread": "{generationux.rem} * 0.0625",
-          "color": "{generationux-color.900}",
+          "color": "{generationux-color.700}",
           "type": "dropShadow"
         }
       ],
@@ -3042,7 +3042,7 @@
           "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3050,7 +3050,7 @@
           "y": "(-{generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.200}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3058,7 +3058,7 @@
           "y": "(-{generationux.rem} * 0.75)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.300}",
+          "color": "{generationux-color.500}",
           "type": "dropShadow"
         },
         {
@@ -3082,7 +3082,7 @@
           "y": "(-{generationux.rem} * 1.5)*1",
           "blur": "0",
           "spread": "{generationux.rem} * 0.0625",
-          "color": "{generationux-color.900}",
+          "color": "{generationux-color.700}",
           "type": "dropShadow"
         }
       ],
@@ -3096,7 +3096,7 @@
           "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3104,7 +3104,7 @@
           "y": "(-{generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.200}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3112,7 +3112,7 @@
           "y": "(-{generationux.rem} * 0.75)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.300}",
+          "color": "{generationux-color.500}",
           "type": "dropShadow"
         },
         {
@@ -3136,7 +3136,7 @@
           "y": "(-{generationux.rem} * 1.5)*1",
           "blur": "0",
           "spread": "{generationux.rem} * 0.0625",
-          "color": "{generationux-color.900}",
+          "color": "{generationux-color.700}",
           "type": "dropShadow"
         }
       ],
@@ -3150,7 +3150,7 @@
           "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3158,7 +3158,7 @@
           "y": "({generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.200}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3166,7 +3166,7 @@
           "y": "({generationux.rem} * 0.75)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.300}",
+          "color": "{generationux-color.500}",
           "type": "dropShadow"
         },
         {
@@ -3190,7 +3190,7 @@
           "y": "({generationux.rem} * 1.5)*1",
           "blur": "0",
           "spread": "{generationux.rem} * 0.0625",
-          "color": "{generationux-color.900}",
+          "color": "{generationux-color.700}",
           "type": "dropShadow"
         }
       ],
@@ -3204,7 +3204,7 @@
           "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3212,7 +3212,7 @@
           "y": "({generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.200}",
+          "color": "{generationux-color.300}",
           "type": "dropShadow"
         },
         {
@@ -3220,7 +3220,7 @@
           "y": "({generationux.rem} * 0.75)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.300}",
+          "color": "{generationux-color.500}",
           "type": "dropShadow"
         },
         {
@@ -3244,7 +3244,7 @@
           "y": "({generationux.rem} * 1.5)*1",
           "blur": "0",
           "spread": "{generationux.rem} * 0.0625",
-          "color": "{generationux-color.900}",
+          "color": "{generationux-color.700}",
           "type": "dropShadow"
         }
       ],
@@ -3314,7 +3314,7 @@
           "y": "({generationux.rem} * 0.125)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -3322,7 +3322,7 @@
           "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -3330,7 +3330,7 @@
           "y": "0",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         }
       ],
@@ -3376,7 +3376,7 @@
           "y": "0",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -3384,7 +3384,7 @@
           "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         }
       ],
@@ -3446,7 +3446,7 @@
           "y": "0",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -3454,7 +3454,7 @@
           "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -3492,7 +3492,7 @@
           "y": "({generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -3500,7 +3500,7 @@
           "y": "(-{generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -3508,7 +3508,7 @@
           "y": "0",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -3524,7 +3524,7 @@
           "y": "0",
           "blur": "0",
           "spread": "0",
-          "color": "{generationux-color.100}",
+          "color": "{generationux-color.base}",
           "type": "innerShadow"
         },
         {
@@ -5718,7 +5718,7 @@
       "description": "xs_BottomRight✨"
     }
   },
-  "generationux-styles": {
+  "generationux-style": {
     "background": {
       "value": "{generationux-color.base}",
       "type": "color",
