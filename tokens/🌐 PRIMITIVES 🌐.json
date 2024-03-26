@@ -5718,7 +5718,7 @@
       "description": "xs_BottomRight✨"
     }
   },
-  "generationux-style": {
+  "generationux-styles": {
     "background": {
       "value": "{generationux-color.base}",
       "type": "color",
