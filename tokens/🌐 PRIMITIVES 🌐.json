@@ -6006,6 +6006,11 @@
       "type": "sizing",
       "description": "size-5"
     },
+    "size-5_5✨": {
+      "value": "({generationux.rem} * 1.375)*1",
+      "type": "sizing",
+      "description": "size-5_5"
+    },
     "size-6": {
       "value": "({generationux.rem} * 1.5)*1",
       "type": "sizing",
