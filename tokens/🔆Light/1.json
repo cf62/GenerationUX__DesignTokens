@@ -107,7 +107,7 @@
       "description": "300"
     },
     "500": {
-      "value": "#64748b",
+      "value": "#5A7CD7",
       "type": "color",
       "description": "500"
     },
@@ -126,7 +126,7 @@
       "description": "700"
     },
     "base": {
-      "value": "#FFFFFF",
+      "value": "#FDF2E7",
       "type": "color",
       "description": "base"
     },

@@ -16,7 +16,7 @@
       "description": "card"
     },
     "card-foreground": {
-      "value": "{generationux-color.boxshadow}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "description": "card-foreground"
     },
@@ -26,7 +26,7 @@
       "description": "popover"
     },
     "popover-foreground": {
-      "value": "{generationux-color.boxshadow}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "description": "popover-foreground"
     },
@@ -41,32 +41,32 @@
       "description": "primary-foreground"
     },
     "secondary": {
-      "value": "{generationux-color.300}",
+      "value": "{generationux-color.700}",
       "type": "color",
       "description": "secondary"
     },
     "secondary-foreground": {
-      "value": "{generationux-color.boxshadow}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "description": "secondary-foreground"
     },
     "muted": {
-      "value": "{generationux-color.300}",
+      "value": "{generationux-color.700}",
       "type": "color",
       "description": "muted"
     },
     "muted-foreground": {
-      "value": "{generationux-color.boxshadow}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "description": "muted-foreground"
     },
     "accent": {
-      "value": "{generationux-color.300}",
+      "value": "{generationux-color.700}",
       "type": "color",
       "description": "accent"
     },
     "accent-foreground": {
-      "value": "{generationux-color.boxshadow}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "description": "accent-foreground"
     },
@@ -76,30 +76,30 @@
       "description": "destructive"
     },
     "border": {
-      "value": "{generationux-color.boxshadow}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "description": "border"
     },
     "input": {
-      "value": "{generationux-color.boxshadow}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "description": "input"
     },
     "ring": {
-      "value": "{generationux-color.boxshadow}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "description": "ring"
     }
   },
   "generationux-color": {
     "300": {
-      "value": "{generationux-color.base}",
+      "value": "{generationux-color.500}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
-            "value": "0.06",
+            "type": "lighten",
+            "value": "0.64",
             "space": "lch"
           }
         }
@@ -107,18 +107,18 @@
       "description": "300"
     },
     "500": {
-      "value": "#64748b",
+      "value": "#FDF2E7",
       "type": "color",
       "description": "500"
     },
     "700": {
-      "value": "{generationux-color.500}",
+      "value": "{generationux-color.base}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
           "modify": {
-            "type": "darken",
-            "value": "0.24",
+            "type": "lighten",
+            "value": "0.08",
             "space": "lch"
           }
         }
@@ -126,12 +126,12 @@
       "description": "700"
     },
     "base": {
-      "value": "#FFFFFF",
+      "value": "#5A7CD7",
       "type": "color",
       "description": "base"
     },
     "boxshadow": {
-      "value": "{generationux-color.500}",
+      "value": "{generationux-color.base}",
       "type": "color",
       "$extensions": {
         "studio.tokens": {
