@@ -71,14 +71,9 @@
       "description": "accent-foreground"
     },
     "destructive": {
-      "value": "{generationux-color.stripe_destructiveDefault}",
+      "value": "{generationux-color.stripe_destructive}",
       "type": "color",
       "description": "destructive"
-    },
-    "destructive-foreground": {
-      "value": "{generationux-color.stripe_destructiveHover}",
-      "type": "color",
-      "description": "destructive-foreground"
     },
     "border": {
       "value": "{generationux-color.700}",
@@ -117,17 +112,8 @@
       "description": "500"
     },
     "700": {
-      "value": "{generationux-color.500}",
+      "value": "#334155",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.24",
-            "space": "lch"
-          }
-        }
-      },
       "description": "700"
     },
     "base": {
@@ -229,15 +215,10 @@
       "type": "color",
       "description": "stripe_90°✨"
     },
-    "stripe_destructiveDefault": {
-      "value": "linear-gradient(-75deg, {generationux-color.base} 0%, {generationux-color.base} 4%, {generationux-color.500} 4%, {generationux-color.500} 8%, {generationux-color.base} 8%, {generationux-color.base} 12%, {generationux-color.500} 12%, {generationux-color.500} 16%, {generationux-color.base} 16%, {generationux-color.base} 20%, {generationux-color.500} 20%, {generationux-color.500} 24%, {generationux-color.base} 24%, {generationux-color.base} 28%, {generationux-color.500} 28%, {generationux-color.500} 32%, {generationux-color.base} 32%, {generationux-color.base} 36%, {generationux-color.500} 36%, {generationux-color.500} 40%, {generationux-color.base} 40%, {generationux-color.base} 44%, {generationux-color.500} 44%, {generationux-color.500} 48%, {generationux-color.base} 48%, {generationux-color.base} 52%, {generationux-color.500} 52%, {generationux-color.500} 56%, {generationux-color.base} 56%, {generationux-color.base} 60%, {generationux-color.500} 60%, {generationux-color.500} 64%, {generationux-color.base} 64%, {generationux-color.base} 68%, {generationux-color.500} 68%, {generationux-color.500} 72%, {generationux-color.base} 72%, {generationux-color.base} 76%, {generationux-color.500} 76%, {generationux-color.500} 80%, {generationux-color.base} 80%, {generationux-color.base} 84%, {generationux-color.500} 84%, {generationux-color.500} 88%, {generationux-color.base} 88%, {generationux-color.base} 92%, {generationux-color.500} 92%,{generationux-color.500} 92%, {generationux-color.base} 96%, {generationux-color.base} 96%, {generationux-color.500} 100%)",
+    "stripe_destructive": {
+      "value": "linear-gradient(-75deg, {generationux-color.base} 0%, {generationux-color.base} 4%, rgba({generationux-color.base}, 0.00) 4%, rgba({generationux-color.base}, 0.00) 8%, {generationux-color.base} 8%, {generationux-color.base} 12%, rgba({generationux-color.base}, 0.00) 12%, rgba({generationux-color.base}, 0.00) 16%, {generationux-color.base} 16%, {generationux-color.base} 20%, rgba({generationux-color.base}, 0.00) 20%, rgba({generationux-color.base}, 0.00) 24%, {generationux-color.base} 24%, {generationux-color.base} 28%, rgba({generationux-color.base}, 0.00) 28%, rgba({generationux-color.base}, 0.00) 32%, {generationux-color.base} 32%, {generationux-color.base} 36%, rgba({generationux-color.base}, 0.00) 36%, rgba({generationux-color.base}, 0.00) 40%, {generationux-color.base} 40%, {generationux-color.base} 44%, rgba({generationux-color.base}, 0.00) 44%, rgba({generationux-color.base}, 0.00) 48%, {generationux-color.base} 48%, {generationux-color.base} 52%, rgba({generationux-color.base}, 0.00) 52%, rgba({generationux-color.base}, 0.00) 56%, {generationux-color.base} 56%, {generationux-color.base} 60%, rgba({generationux-color.base}, 0.00) 60%, rgba({generationux-color.base}, 0.00) 64%, {generationux-color.base} 64%, {generationux-color.base} 68%, rgba({generationux-color.base}, 0.00) 68%, rgba({generationux-color.base}, 0.00) 72%, {generationux-color.base} 72%, {generationux-color.base} 76%, rgba({generationux-color.base}, 0.00) 76%, rgba({generationux-color.base}, 0.00) 80%, {generationux-color.base} 80%, {generationux-color.base} 84%, rgba({generationux-color.base}, 0.00) 84%, rgba({generationux-color.base}, 0.00) 88%, {generationux-color.base} 88%, {generationux-color.base} 92%, rgba({generationux-color.base}, 0.00) 92%,rgba({generationux-color.base}, 0.00) 92%, {generationux-color.base} 96%, {generationux-color.base} 96%, rgba({generationux-color.base}, 0.00) 100%)",
       "type": "color",
-      "description": "stripe_destructiveDefault"
-    },
-    "stripe_destructiveHover": {
-      "value": "linear-gradient(-75deg, {generationux-color.base} 0%, {generationux-color.base} 4%, {generationux-color.700} 4%, {generationux-color.700} 8%, {generationux-color.base} 8%, {generationux-color.base} 12%, {generationux-color.700} 12%, {generationux-color.700} 16%, {generationux-color.base} 16%, {generationux-color.base} 20%, {generationux-color.700} 20%, {generationux-color.700} 24%, {generationux-color.base} 24%, {generationux-color.base} 28%, {generationux-color.700} 28%, {generationux-color.700} 32%, {generationux-color.base} 32%, {generationux-color.base} 36%, {generationux-color.700} 36%, {generationux-color.700} 40%, {generationux-color.base} 40%, {generationux-color.base} 44%, {generationux-color.700} 44%, {generationux-color.700} 48%, {generationux-color.base} 48%, {generationux-color.base} 52%, {generationux-color.700} 52%, {generationux-color.700} 56%, {generationux-color.base} 56%, {generationux-color.base} 60%, {generationux-color.700} 60%, {generationux-color.700} 64%, {generationux-color.base} 64%, {generationux-color.base} 68%, {generationux-color.700} 68%, {generationux-color.700} 72%, {generationux-color.base} 72%, {generationux-color.base} 76%, {generationux-color.700} 76%, {generationux-color.700} 80%, {generationux-color.base} 80%, {generationux-color.base} 84%, {generationux-color.700} 84%, {generationux-color.700} 88%, {generationux-color.base} 88%, {generationux-color.base} 92%, {generationux-color.700} 92%,{generationux-color.700} 92%, {generationux-color.base} 96%, {generationux-color.base} 96%, {generationux-color.700} 100%)",
-      "type": "color",
-      "description": "stripe_destructiveHover"
+      "description": "stripe_destructive"
     }
   }
 }
