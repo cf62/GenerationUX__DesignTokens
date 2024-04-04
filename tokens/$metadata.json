@@ -4,11 +4,8 @@
     "LOOK/🔆 core",
     "LOOK/🌙 core",
     "LOOK/Linen-Cornflowerblue",
-    "LOOK/Cornflowerblue-Linen",
     "LOOK/Springgreen-Darkslategray",
-    "LOOK/Darkslategray-Springgreen",
     "LOOK/Gold-Darkmagenta",
-    "LOOK/Darkmagenta-Gold",
     "LOOK/🔆 1",
     "LOOK/🌙 1",
     "LOOK/🔆 2",
@@ -305,6 +302,9 @@
     "FEEL/bw_Comfy",
     "FEEL/bw_Chonccy",
     "FEEL/bw_Thicc",
-    "DARK2/test"
+    "DARK2/test",
+    "DARK2/Cornflowerblue-Linen",
+    "DARK2/Darkslategray-Springgreen",
+    "DARK2/Darkmagenta-Gold"
   ]
 }
