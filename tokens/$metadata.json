@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "🌐 PRIMITIVES 🌐",
-    "Dark",
     "LOOK/🔆 core",
     "LOOK/🌙 core",
     "LOOK/Linen-Cornflowerblue",
@@ -305,6 +304,7 @@
     "FEEL/bw_Regular",
     "FEEL/bw_Comfy",
     "FEEL/bw_Chonccy",
-    "FEEL/bw_Thicc"
+    "FEEL/bw_Thicc",
+    "DARK2/test"
   ]
 }
