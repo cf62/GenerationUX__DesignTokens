@@ -16,7 +16,7 @@
       "description": "card"
     },
     "card-foreground": {
-      "value": "{generationux-color.700}",
+      "value": "{generationux-color.boxshadow}",
       "type": "color",
       "description": "card-foreground"
     },
@@ -26,7 +26,7 @@
       "description": "popover"
     },
     "popover-foreground": {
-      "value": "{generationux-color.700}",
+      "value": "{generationux-color.boxshadow}",
       "type": "color",
       "description": "popover-foreground"
     },
@@ -46,7 +46,7 @@
       "description": "secondary"
     },
     "secondary-foreground": {
-      "value": "{generationux-color.700}",
+      "value": "{generationux-color.boxshadow}",
       "type": "color",
       "description": "secondary-foreground"
     },
@@ -56,7 +56,7 @@
       "description": "muted"
     },
     "muted-foreground": {
-      "value": "{generationux-color.700}",
+      "value": "{generationux-color.boxshadow}",
       "type": "color",
       "description": "muted-foreground"
     },
@@ -66,7 +66,7 @@
       "description": "accent"
     },
     "accent-foreground": {
-      "value": "{generationux-color.700}",
+      "value": "{generationux-color.boxshadow}",
       "type": "color",
       "description": "accent-foreground"
     },
@@ -76,17 +76,17 @@
       "description": "destructive"
     },
     "border": {
-      "value": "{generationux-color.700}",
+      "value": "{generationux-color.boxshadow}",
       "type": "color",
       "description": "border"
     },
     "input": {
-      "value": "{generationux-color.700}",
+      "value": "{generationux-color.boxshadow}",
       "type": "color",
       "description": "input"
     },
     "ring": {
-      "value": "{generationux-color.700}",
+      "value": "{generationux-color.boxshadow}",
       "type": "color",
       "description": "ring"
     }
@@ -112,8 +112,17 @@
       "description": "500"
     },
     "700": {
-      "value": "#334155",
+      "value": "{generationux-color.500}",
       "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.24",
+            "space": "lch"
+          }
+        }
+      },
       "description": "700"
     },
     "base": {
