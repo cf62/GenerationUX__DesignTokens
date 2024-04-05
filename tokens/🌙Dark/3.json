@@ -107,41 +107,23 @@
       "description": "300"
     },
     "500": {
-      "value": "#FDE047",
+      "value": "#fde047",
       "type": "color",
       "description": "500"
     },
     "700": {
-      "value": "{generationux-color.base}",
+      "value": "#c026d3",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "lighten",
-            "value": "0.08",
-            "space": "lch"
-          }
-        }
-      },
       "description": "700"
     },
     "base": {
-      "value": "#A21CAF",
+      "value": "#a21caf",
       "type": "color",
       "description": "base"
     },
     "boxshadow": {
-      "value": "{generationux-color.base}",
+      "value": "#86198f",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.24",
-            "space": "lch"
-          }
-        }
-      },
       "description": "boxshadow"
     },
     "candy_min45°✨": {

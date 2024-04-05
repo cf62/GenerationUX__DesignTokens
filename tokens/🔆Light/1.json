@@ -93,21 +93,12 @@
   },
   "generationux-color": {
     "300": {
-      "value": "{generationux-color.base}",
+      "value": "#ffedd5",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.06",
-            "space": "lch"
-          }
-        }
-      },
       "description": "300"
     },
     "500": {
-      "value": "#5A7CD7",
+      "value": "#818cf8",
       "type": "color",
       "description": "500"
     },
@@ -126,22 +117,13 @@
       "description": "700"
     },
     "base": {
-      "value": "#FDF2E7",
+      "value": "#fff7ed",
       "type": "color",
       "description": "base"
     },
     "boxshadow": {
-      "value": "{generationux-color.500}",
+      "value": "#4f46e5",
       "type": "color",
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "darken",
-            "value": "0.24",
-            "space": "lch"
-          }
-        }
-      },
       "description": "boxshadow"
     },
     "candy_min45°✨": {
