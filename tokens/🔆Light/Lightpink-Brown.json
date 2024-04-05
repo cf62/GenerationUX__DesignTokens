@@ -1,0 +1,184 @@
+{
+  "generationux-styles": {
+    "background": {
+      "value": "#fca5a5",
+      "type": "color",
+      "description": "background"
+    },
+    "foreground": {
+      "value": "#7f1d1d",
+      "type": "color",
+      "description": "foreground"
+    },
+    "card": {
+      "value": "#fca5a5",
+      "type": "color",
+      "description": "card"
+    },
+    "card-foreground": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "card-foreground"
+    },
+    "popover": {
+      "value": "#fca5a5",
+      "type": "color",
+      "description": "popover"
+    },
+    "popover-foreground": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "popover-foreground"
+    },
+    "primary": {
+      "value": "#7f1d1d",
+      "type": "color",
+      "description": "primary"
+    },
+    "primary-foreground": {
+      "value": "#fca5a5",
+      "type": "color",
+      "description": "primary-foreground"
+    },
+    "secondary": {
+      "value": "#f87171",
+      "type": "color",
+      "description": "secondary"
+    },
+    "secondary-foreground": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "secondary-foreground"
+    },
+    "muted": {
+      "value": "#f87171",
+      "type": "color",
+      "description": "muted"
+    },
+    "muted-foreground": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "muted-foreground"
+    },
+    "accent": {
+      "value": "#f87171",
+      "type": "color",
+      "description": "accent"
+    },
+    "accent-foreground": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "accent-foreground"
+    },
+    "destructive": {
+      "value": "linear-gradient(-75deg, #fca5a5 0%, #fca5a5 4%, #7f1d1d 4%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 12%, #7f1d1d 12%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 20%, #7f1d1d 20%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 28%, #7f1d1d 28%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 44%, #7f1d1d 44%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 52%, #7f1d1d 52%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 60%, #7f1d1d 60%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 68%, #7f1d1d 68%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 84%, #7f1d1d 84%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 92%, #7f1d1d 92%,#7f1d1d 92%, #fca5a5 96%, #fca5a5 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "destructive"
+    },
+    "destructive-foreground": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "destructive-foreground"
+    },
+    "border": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "border"
+    },
+    "input": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "input"
+    },
+    "ring": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "ring"
+    },
+    "boxshadow": {
+      "value": "#450a0a",
+      "type": "color",
+      "description": "boxshadow"
+    },
+    "candy_min45°✨": {
+      "value": "linear-gradient(-45deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 2%, #fca5a5 2%, #fca5a5 3%, #7f1d1d 3%, #7f1d1d 4%, #fca5a5 4%, #fca5a5 5%, #7f1d1d 5%, #7f1d1d 6%, #fca5a5 6%, #fca5a5 7%, #7f1d1d 7%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 9%, #7f1d1d 9%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 12%, #fca5a5 12%, #fca5a5 13%, #7f1d1d 13%, #7f1d1d 14%, #fca5a5 14%, #fca5a5 15%, #7f1d1d 15%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 17%, #7f1d1d 17%, #7f1d1d 18%, #fca5a5 18%, #fca5a5 19%, #7f1d1d 19%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 22%, #fca5a5 22%, #fca5a5 23%, #7f1d1d 23%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 25%, #7f1d1d 25%, #7f1d1d 26%, #fca5a5 26%, #fca5a5 27%, #7f1d1d 27%, #7f1d1d 28%, #fca5a5 28%, #fca5a5 29%, #7f1d1d 29%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 33%, #7f1d1d 33%, #7f1d1d 34%, #fca5a5 34%, #fca5a5 35%, #7f1d1d 35%, #7f1d1d 36%, #fca5a5 36%, #fca5a5 37%, #7f1d1d 37%, #7f1d1d 38%, #fca5a5 38%, #fca5a5 39%, #7f1d1d 39%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 42%, #fca5a5 42%, #fca5a5 43%, #7f1d1d 43%, #7f1d1d 44%, #fca5a5 44%, #fca5a5 45%, #7f1d1d 45%, #7f1d1d 46%, #fca5a5 46%, #fca5a5 47%, #7f1d1d 47%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 49%, #7f1d1d 49%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 52%, #fca5a5 52%, #fca5a5 53%, #7f1d1d 53%, #7f1d1d 54%, #fca5a5 54%, #fca5a5 55%, #7f1d1d 55%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 57%, #7f1d1d 57%, #7f1d1d 58%, #fca5a5 58%, #fca5a5 59%, #7f1d1d 59%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 62%, #fca5a5 62%, #fca5a5 63%, #7f1d1d 63%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 65%, #7f1d1d 65%, #7f1d1d 66%, #fca5a5 66%, #fca5a5 67%, #7f1d1d 67%, #7f1d1d 68%, #fca5a5 68%, #fca5a5 69%, #7f1d1d 69%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 73%, #7f1d1d 73%, #7f1d1d 74%, #fca5a5 74%, #fca5a5 75%, #7f1d1d 75%, #7f1d1d 76%, #fca5a5 76%, #fca5a5 77%, #7f1d1d 77%, #7f1d1d 78%, #fca5a5 78%, #fca5a5 79%, #7f1d1d 79%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 82%, #fca5a5 82%, #fca5a5 83%, #7f1d1d 83%, #7f1d1d 84%, #fca5a5 84%, #fca5a5 85%, #7f1d1d 85%, #7f1d1d 86%, #fca5a5 86%, #fca5a5 87%, #7f1d1d 87%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 89%, #7f1d1d 89%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 92%, #fca5a5 92%, #fca5a5 93%, #7f1d1d 93%, #7f1d1d 94%, #fca5a5 94%, #fca5a5 95%, #7f1d1d 95%, #7f1d1d 96%, #fca5a5 96%, #fca5a5 97%, #7f1d1d 97%, #7f1d1d 98%, #fca5a5 98%, #fca5a5 99%, #7f1d1d 99%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "candy_min45°✨"
+    },
+    "candy_45°✨": {
+      "value": "linear-gradient(45deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 2%, #fca5a5 2%, #fca5a5 3%, #7f1d1d 3%, #7f1d1d 4%, #fca5a5 4%, #fca5a5 5%, #7f1d1d 5%, #7f1d1d 6%, #fca5a5 6%, #fca5a5 7%, #7f1d1d 7%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 9%, #7f1d1d 9%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 12%, #fca5a5 12%, #fca5a5 13%, #7f1d1d 13%, #7f1d1d 14%, #fca5a5 14%, #fca5a5 15%, #7f1d1d 15%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 17%, #7f1d1d 17%, #7f1d1d 18%, #fca5a5 18%, #fca5a5 19%, #7f1d1d 19%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 22%, #fca5a5 22%, #fca5a5 23%, #7f1d1d 23%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 25%, #7f1d1d 25%, #7f1d1d 26%, #fca5a5 26%, #fca5a5 27%, #7f1d1d 27%, #7f1d1d 28%, #fca5a5 28%, #fca5a5 29%, #7f1d1d 29%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 33%, #7f1d1d 33%, #7f1d1d 34%, #fca5a5 34%, #fca5a5 35%, #7f1d1d 35%, #7f1d1d 36%, #fca5a5 36%, #fca5a5 37%, #7f1d1d 37%, #7f1d1d 38%, #fca5a5 38%, #fca5a5 39%, #7f1d1d 39%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 42%, #fca5a5 42%, #fca5a5 43%, #7f1d1d 43%, #7f1d1d 44%, #fca5a5 44%, #fca5a5 45%, #7f1d1d 45%, #7f1d1d 46%, #fca5a5 46%, #fca5a5 47%, #7f1d1d 47%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 49%, #7f1d1d 49%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 52%, #fca5a5 52%, #fca5a5 53%, #7f1d1d 53%, #7f1d1d 54%, #fca5a5 54%, #fca5a5 55%, #7f1d1d 55%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 57%, #7f1d1d 57%, #7f1d1d 58%, #fca5a5 58%, #fca5a5 59%, #7f1d1d 59%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 62%, #fca5a5 62%, #fca5a5 63%, #7f1d1d 63%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 65%, #7f1d1d 65%, #7f1d1d 66%, #fca5a5 66%, #fca5a5 67%, #7f1d1d 67%, #7f1d1d 68%, #fca5a5 68%, #fca5a5 69%, #7f1d1d 69%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 73%, #7f1d1d 73%, #7f1d1d 74%, #fca5a5 74%, #fca5a5 75%, #7f1d1d 75%, #7f1d1d 76%, #fca5a5 76%, #fca5a5 77%, #7f1d1d 77%, #7f1d1d 78%, #fca5a5 78%, #fca5a5 79%, #7f1d1d 79%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 82%, #fca5a5 82%, #fca5a5 83%, #7f1d1d 83%, #7f1d1d 84%, #fca5a5 84%, #fca5a5 85%, #7f1d1d 85%, #7f1d1d 86%, #fca5a5 86%, #fca5a5 87%, #7f1d1d 87%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 89%, #7f1d1d 89%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 92%, #fca5a5 92%, #fca5a5 93%, #7f1d1d 93%, #7f1d1d 94%, #fca5a5 94%, #fca5a5 95%, #7f1d1d 95%, #7f1d1d 96%, #fca5a5 96%, #fca5a5 97%, #7f1d1d 97%, #7f1d1d 98%, #fca5a5 98%, #fca5a5 99%, #7f1d1d 99%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "candy_45°✨"
+    },
+    "candy_min60°✨": {
+      "value": "linear-gradient(-60deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 2%, #fca5a5 2%, #fca5a5 3%, #7f1d1d 3%, #7f1d1d 4%, #fca5a5 4%, #fca5a5 5%, #7f1d1d 5%, #7f1d1d 6%, #fca5a5 6%, #fca5a5 7%, #7f1d1d 7%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 9%, #7f1d1d 9%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 12%, #fca5a5 12%, #fca5a5 13%, #7f1d1d 13%, #7f1d1d 14%, #fca5a5 14%, #fca5a5 15%, #7f1d1d 15%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 17%, #7f1d1d 17%, #7f1d1d 18%, #fca5a5 18%, #fca5a5 19%, #7f1d1d 19%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 22%, #fca5a5 22%, #fca5a5 23%, #7f1d1d 23%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 25%, #7f1d1d 25%, #7f1d1d 26%, #fca5a5 26%, #fca5a5 27%, #7f1d1d 27%, #7f1d1d 28%, #fca5a5 28%, #fca5a5 29%, #7f1d1d 29%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 33%, #7f1d1d 33%, #7f1d1d 34%, #fca5a5 34%, #fca5a5 35%, #7f1d1d 35%, #7f1d1d 36%, #fca5a5 36%, #fca5a5 37%, #7f1d1d 37%, #7f1d1d 38%, #fca5a5 38%, #fca5a5 39%, #7f1d1d 39%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 42%, #fca5a5 42%, #fca5a5 43%, #7f1d1d 43%, #7f1d1d 44%, #fca5a5 44%, #fca5a5 45%, #7f1d1d 45%, #7f1d1d 46%, #fca5a5 46%, #fca5a5 47%, #7f1d1d 47%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 49%, #7f1d1d 49%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 52%, #fca5a5 52%, #fca5a5 53%, #7f1d1d 53%, #7f1d1d 54%, #fca5a5 54%, #fca5a5 55%, #7f1d1d 55%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 57%, #7f1d1d 57%, #7f1d1d 58%, #fca5a5 58%, #fca5a5 59%, #7f1d1d 59%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 62%, #fca5a5 62%, #fca5a5 63%, #7f1d1d 63%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 65%, #7f1d1d 65%, #7f1d1d 66%, #fca5a5 66%, #fca5a5 67%, #7f1d1d 67%, #7f1d1d 68%, #fca5a5 68%, #fca5a5 69%, #7f1d1d 69%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 73%, #7f1d1d 73%, #7f1d1d 74%, #fca5a5 74%, #fca5a5 75%, #7f1d1d 75%, #7f1d1d 76%, #fca5a5 76%, #fca5a5 77%, #7f1d1d 77%, #7f1d1d 78%, #fca5a5 78%, #fca5a5 79%, #7f1d1d 79%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 82%, #fca5a5 82%, #fca5a5 83%, #7f1d1d 83%, #7f1d1d 84%, #fca5a5 84%, #fca5a5 85%, #7f1d1d 85%, #7f1d1d 86%, #fca5a5 86%, #fca5a5 87%, #7f1d1d 87%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 89%, #7f1d1d 89%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 92%, #fca5a5 92%, #fca5a5 93%, #7f1d1d 93%, #7f1d1d 94%, #fca5a5 94%, #fca5a5 95%, #7f1d1d 95%, #7f1d1d 96%, #fca5a5 96%, #fca5a5 97%, #7f1d1d 97%, #7f1d1d 98%, #fca5a5 98%, #fca5a5 99%, #7f1d1d 99%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "candy_min60°✨"
+    },
+    "candy_60°✨": {
+      "value": "linear-gradient(60deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 2%, #fca5a5 2%, #fca5a5 3%, #7f1d1d 3%, #7f1d1d 4%, #fca5a5 4%, #fca5a5 5%, #7f1d1d 5%, #7f1d1d 6%, #fca5a5 6%, #fca5a5 7%, #7f1d1d 7%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 9%, #7f1d1d 9%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 12%, #fca5a5 12%, #fca5a5 13%, #7f1d1d 13%, #7f1d1d 14%, #fca5a5 14%, #fca5a5 15%, #7f1d1d 15%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 17%, #7f1d1d 17%, #7f1d1d 18%, #fca5a5 18%, #fca5a5 19%, #7f1d1d 19%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 22%, #fca5a5 22%, #fca5a5 23%, #7f1d1d 23%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 25%, #7f1d1d 25%, #7f1d1d 26%, #fca5a5 26%, #fca5a5 27%, #7f1d1d 27%, #7f1d1d 28%, #fca5a5 28%, #fca5a5 29%, #7f1d1d 29%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 33%, #7f1d1d 33%, #7f1d1d 34%, #fca5a5 34%, #fca5a5 35%, #7f1d1d 35%, #7f1d1d 36%, #fca5a5 36%, #fca5a5 37%, #7f1d1d 37%, #7f1d1d 38%, #fca5a5 38%, #fca5a5 39%, #7f1d1d 39%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 42%, #fca5a5 42%, #fca5a5 43%, #7f1d1d 43%, #7f1d1d 44%, #fca5a5 44%, #fca5a5 45%, #7f1d1d 45%, #7f1d1d 46%, #fca5a5 46%, #fca5a5 47%, #7f1d1d 47%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 49%, #7f1d1d 49%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 52%, #fca5a5 52%, #fca5a5 53%, #7f1d1d 53%, #7f1d1d 54%, #fca5a5 54%, #fca5a5 55%, #7f1d1d 55%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 57%, #7f1d1d 57%, #7f1d1d 58%, #fca5a5 58%, #fca5a5 59%, #7f1d1d 59%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 62%, #fca5a5 62%, #fca5a5 63%, #7f1d1d 63%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 65%, #7f1d1d 65%, #7f1d1d 66%, #fca5a5 66%, #fca5a5 67%, #7f1d1d 67%, #7f1d1d 68%, #fca5a5 68%, #fca5a5 69%, #7f1d1d 69%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 73%, #7f1d1d 73%, #7f1d1d 74%, #fca5a5 74%, #fca5a5 75%, #7f1d1d 75%, #7f1d1d 76%, #fca5a5 76%, #fca5a5 77%, #7f1d1d 77%, #7f1d1d 78%, #fca5a5 78%, #fca5a5 79%, #7f1d1d 79%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 82%, #fca5a5 82%, #fca5a5 83%, #7f1d1d 83%, #7f1d1d 84%, #fca5a5 84%, #fca5a5 85%, #7f1d1d 85%, #7f1d1d 86%, #fca5a5 86%, #fca5a5 87%, #7f1d1d 87%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 89%, #7f1d1d 89%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 92%, #fca5a5 92%, #fca5a5 93%, #7f1d1d 93%, #7f1d1d 94%, #fca5a5 94%, #fca5a5 95%, #7f1d1d 95%, #7f1d1d 96%, #fca5a5 96%, #fca5a5 97%, #7f1d1d 97%, #7f1d1d 98%, #fca5a5 98%, #fca5a5 99%, #7f1d1d 99%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "candy_60°✨"
+    },
+    "candy_min75°✨": {
+      "value": "linear-gradient(-75deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 2%, #fca5a5 2%, #fca5a5 3%, #7f1d1d 3%, #7f1d1d 4%, #fca5a5 4%, #fca5a5 5%, #7f1d1d 5%, #7f1d1d 6%, #fca5a5 6%, #fca5a5 7%, #7f1d1d 7%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 9%, #7f1d1d 9%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 12%, #fca5a5 12%, #fca5a5 13%, #7f1d1d 13%, #7f1d1d 14%, #fca5a5 14%, #fca5a5 15%, #7f1d1d 15%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 17%, #7f1d1d 17%, #7f1d1d 18%, #fca5a5 18%, #fca5a5 19%, #7f1d1d 19%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 22%, #fca5a5 22%, #fca5a5 23%, #7f1d1d 23%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 25%, #7f1d1d 25%, #7f1d1d 26%, #fca5a5 26%, #fca5a5 27%, #7f1d1d 27%, #7f1d1d 28%, #fca5a5 28%, #fca5a5 29%, #7f1d1d 29%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 33%, #7f1d1d 33%, #7f1d1d 34%, #fca5a5 34%, #fca5a5 35%, #7f1d1d 35%, #7f1d1d 36%, #fca5a5 36%, #fca5a5 37%, #7f1d1d 37%, #7f1d1d 38%, #fca5a5 38%, #fca5a5 39%, #7f1d1d 39%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 42%, #fca5a5 42%, #fca5a5 43%, #7f1d1d 43%, #7f1d1d 44%, #fca5a5 44%, #fca5a5 45%, #7f1d1d 45%, #7f1d1d 46%, #fca5a5 46%, #fca5a5 47%, #7f1d1d 47%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 49%, #7f1d1d 49%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 52%, #fca5a5 52%, #fca5a5 53%, #7f1d1d 53%, #7f1d1d 54%, #fca5a5 54%, #fca5a5 55%, #7f1d1d 55%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 57%, #7f1d1d 57%, #7f1d1d 58%, #fca5a5 58%, #fca5a5 59%, #7f1d1d 59%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 62%, #fca5a5 62%, #fca5a5 63%, #7f1d1d 63%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 65%, #7f1d1d 65%, #7f1d1d 66%, #fca5a5 66%, #fca5a5 67%, #7f1d1d 67%, #7f1d1d 68%, #fca5a5 68%, #fca5a5 69%, #7f1d1d 69%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 73%, #7f1d1d 73%, #7f1d1d 74%, #fca5a5 74%, #fca5a5 75%, #7f1d1d 75%, #7f1d1d 76%, #fca5a5 76%, #fca5a5 77%, #7f1d1d 77%, #7f1d1d 78%, #fca5a5 78%, #fca5a5 79%, #7f1d1d 79%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 82%, #fca5a5 82%, #fca5a5 83%, #7f1d1d 83%, #7f1d1d 84%, #fca5a5 84%, #fca5a5 85%, #7f1d1d 85%, #7f1d1d 86%, #fca5a5 86%, #fca5a5 87%, #7f1d1d 87%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 89%, #7f1d1d 89%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 92%, #fca5a5 92%, #fca5a5 93%, #7f1d1d 93%, #7f1d1d 94%, #fca5a5 94%, #fca5a5 95%, #7f1d1d 95%, #7f1d1d 96%, #fca5a5 96%, #fca5a5 97%, #7f1d1d 97%, #7f1d1d 98%, #fca5a5 98%, #fca5a5 99%, #7f1d1d 99%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "candy_min75°✨"
+    },
+    "candy_75°✨": {
+      "value": "linear-gradient(75deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 2%, #fca5a5 2%, #fca5a5 3%, #7f1d1d 3%, #7f1d1d 4%, #fca5a5 4%, #fca5a5 5%, #7f1d1d 5%, #7f1d1d 6%, #fca5a5 6%, #fca5a5 7%, #7f1d1d 7%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 9%, #7f1d1d 9%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 12%, #fca5a5 12%, #fca5a5 13%, #7f1d1d 13%, #7f1d1d 14%, #fca5a5 14%, #fca5a5 15%, #7f1d1d 15%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 17%, #7f1d1d 17%, #7f1d1d 18%, #fca5a5 18%, #fca5a5 19%, #7f1d1d 19%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 22%, #fca5a5 22%, #fca5a5 23%, #7f1d1d 23%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 25%, #7f1d1d 25%, #7f1d1d 26%, #fca5a5 26%, #fca5a5 27%, #7f1d1d 27%, #7f1d1d 28%, #fca5a5 28%, #fca5a5 29%, #7f1d1d 29%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 33%, #7f1d1d 33%, #7f1d1d 34%, #fca5a5 34%, #fca5a5 35%, #7f1d1d 35%, #7f1d1d 36%, #fca5a5 36%, #fca5a5 37%, #7f1d1d 37%, #7f1d1d 38%, #fca5a5 38%, #fca5a5 39%, #7f1d1d 39%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 42%, #fca5a5 42%, #fca5a5 43%, #7f1d1d 43%, #7f1d1d 44%, #fca5a5 44%, #fca5a5 45%, #7f1d1d 45%, #7f1d1d 46%, #fca5a5 46%, #fca5a5 47%, #7f1d1d 47%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 49%, #7f1d1d 49%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 52%, #fca5a5 52%, #fca5a5 53%, #7f1d1d 53%, #7f1d1d 54%, #fca5a5 54%, #fca5a5 55%, #7f1d1d 55%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 57%, #7f1d1d 57%, #7f1d1d 58%, #fca5a5 58%, #fca5a5 59%, #7f1d1d 59%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 62%, #fca5a5 62%, #fca5a5 63%, #7f1d1d 63%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 65%, #7f1d1d 65%, #7f1d1d 66%, #fca5a5 66%, #fca5a5 67%, #7f1d1d 67%, #7f1d1d 68%, #fca5a5 68%, #fca5a5 69%, #7f1d1d 69%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 73%, #7f1d1d 73%, #7f1d1d 74%, #fca5a5 74%, #fca5a5 75%, #7f1d1d 75%, #7f1d1d 76%, #fca5a5 76%, #fca5a5 77%, #7f1d1d 77%, #7f1d1d 78%, #fca5a5 78%, #fca5a5 79%, #7f1d1d 79%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 82%, #fca5a5 82%, #fca5a5 83%, #7f1d1d 83%, #7f1d1d 84%, #fca5a5 84%, #fca5a5 85%, #7f1d1d 85%, #7f1d1d 86%, #fca5a5 86%, #fca5a5 87%, #7f1d1d 87%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 89%, #7f1d1d 89%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 92%, #fca5a5 92%, #fca5a5 93%, #7f1d1d 93%, #7f1d1d 94%, #fca5a5 94%, #fca5a5 95%, #7f1d1d 95%, #7f1d1d 96%, #fca5a5 96%, #fca5a5 97%, #7f1d1d 97%, #7f1d1d 98%, #fca5a5 98%, #fca5a5 99%, #7f1d1d 99%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "candy_75°✨"
+    },
+    "candy_0°✨": {
+      "value": "linear-gradient(0deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 2%, #fca5a5 2%, #fca5a5 3%, #7f1d1d 3%, #7f1d1d 4%, #fca5a5 4%, #fca5a5 5%, #7f1d1d 5%, #7f1d1d 6%, #fca5a5 6%, #fca5a5 7%, #7f1d1d 7%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 9%, #7f1d1d 9%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 12%, #fca5a5 12%, #fca5a5 13%, #7f1d1d 13%, #7f1d1d 14%, #fca5a5 14%, #fca5a5 15%, #7f1d1d 15%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 17%, #7f1d1d 17%, #7f1d1d 18%, #fca5a5 18%, #fca5a5 19%, #7f1d1d 19%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 22%, #fca5a5 22%, #fca5a5 23%, #7f1d1d 23%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 25%, #7f1d1d 25%, #7f1d1d 26%, #fca5a5 26%, #fca5a5 27%, #7f1d1d 27%, #7f1d1d 28%, #fca5a5 28%, #fca5a5 29%, #7f1d1d 29%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 33%, #7f1d1d 33%, #7f1d1d 34%, #fca5a5 34%, #fca5a5 35%, #7f1d1d 35%, #7f1d1d 36%, #fca5a5 36%, #fca5a5 37%, #7f1d1d 37%, #7f1d1d 38%, #fca5a5 38%, #fca5a5 39%, #7f1d1d 39%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 42%, #fca5a5 42%, #fca5a5 43%, #7f1d1d 43%, #7f1d1d 44%, #fca5a5 44%, #fca5a5 45%, #7f1d1d 45%, #7f1d1d 46%, #fca5a5 46%, #fca5a5 47%, #7f1d1d 47%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 49%, #7f1d1d 49%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 52%, #fca5a5 52%, #fca5a5 53%, #7f1d1d 53%, #7f1d1d 54%, #fca5a5 54%, #fca5a5 55%, #7f1d1d 55%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 57%, #7f1d1d 57%, #7f1d1d 58%, #fca5a5 58%, #fca5a5 59%, #7f1d1d 59%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 62%, #fca5a5 62%, #fca5a5 63%, #7f1d1d 63%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 65%, #7f1d1d 65%, #7f1d1d 66%, #fca5a5 66%, #fca5a5 67%, #7f1d1d 67%, #7f1d1d 68%, #fca5a5 68%, #fca5a5 69%, #7f1d1d 69%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 73%, #7f1d1d 73%, #7f1d1d 74%, #fca5a5 74%, #fca5a5 75%, #7f1d1d 75%, #7f1d1d 76%, #fca5a5 76%, #fca5a5 77%, #7f1d1d 77%, #7f1d1d 78%, #fca5a5 78%, #fca5a5 79%, #7f1d1d 79%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 82%, #fca5a5 82%, #fca5a5 83%, #7f1d1d 83%, #7f1d1d 84%, #fca5a5 84%, #fca5a5 85%, #7f1d1d 85%, #7f1d1d 86%, #fca5a5 86%, #fca5a5 87%, #7f1d1d 87%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 89%, #7f1d1d 89%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 92%, #fca5a5 92%, #fca5a5 93%, #7f1d1d 93%, #7f1d1d 94%, #fca5a5 94%, #fca5a5 95%, #7f1d1d 95%, #7f1d1d 96%, #fca5a5 96%, #fca5a5 97%, #7f1d1d 97%, #7f1d1d 98%, #fca5a5 98%, #fca5a5 99%, #7f1d1d 99%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "candy_0°✨"
+    },
+    "candy_90°✨": {
+      "value": "linear-gradient(90deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 2%, #fca5a5 2%, #fca5a5 3%, #7f1d1d 3%, #7f1d1d 4%, #fca5a5 4%, #fca5a5 5%, #7f1d1d 5%, #7f1d1d 6%, #fca5a5 6%, #fca5a5 7%, #7f1d1d 7%, #7f1d1d 8%, #fca5a5 8%, #fca5a5 9%, #7f1d1d 9%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 12%, #fca5a5 12%, #fca5a5 13%, #7f1d1d 13%, #7f1d1d 14%, #fca5a5 14%, #fca5a5 15%, #7f1d1d 15%, #7f1d1d 16%, #fca5a5 16%, #fca5a5 17%, #7f1d1d 17%, #7f1d1d 18%, #fca5a5 18%, #fca5a5 19%, #7f1d1d 19%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 22%, #fca5a5 22%, #fca5a5 23%, #7f1d1d 23%, #7f1d1d 24%, #fca5a5 24%, #fca5a5 25%, #7f1d1d 25%, #7f1d1d 26%, #fca5a5 26%, #fca5a5 27%, #7f1d1d 27%, #7f1d1d 28%, #fca5a5 28%, #fca5a5 29%, #7f1d1d 29%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 32%, #fca5a5 32%, #fca5a5 33%, #7f1d1d 33%, #7f1d1d 34%, #fca5a5 34%, #fca5a5 35%, #7f1d1d 35%, #7f1d1d 36%, #fca5a5 36%, #fca5a5 37%, #7f1d1d 37%, #7f1d1d 38%, #fca5a5 38%, #fca5a5 39%, #7f1d1d 39%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 42%, #fca5a5 42%, #fca5a5 43%, #7f1d1d 43%, #7f1d1d 44%, #fca5a5 44%, #fca5a5 45%, #7f1d1d 45%, #7f1d1d 46%, #fca5a5 46%, #fca5a5 47%, #7f1d1d 47%, #7f1d1d 48%, #fca5a5 48%, #fca5a5 49%, #7f1d1d 49%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 52%, #fca5a5 52%, #fca5a5 53%, #7f1d1d 53%, #7f1d1d 54%, #fca5a5 54%, #fca5a5 55%, #7f1d1d 55%, #7f1d1d 56%, #fca5a5 56%, #fca5a5 57%, #7f1d1d 57%, #7f1d1d 58%, #fca5a5 58%, #fca5a5 59%, #7f1d1d 59%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 62%, #fca5a5 62%, #fca5a5 63%, #7f1d1d 63%, #7f1d1d 64%, #fca5a5 64%, #fca5a5 65%, #7f1d1d 65%, #7f1d1d 66%, #fca5a5 66%, #fca5a5 67%, #7f1d1d 67%, #7f1d1d 68%, #fca5a5 68%, #fca5a5 69%, #7f1d1d 69%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 72%, #fca5a5 72%, #fca5a5 73%, #7f1d1d 73%, #7f1d1d 74%, #fca5a5 74%, #fca5a5 75%, #7f1d1d 75%, #7f1d1d 76%, #fca5a5 76%, #fca5a5 77%, #7f1d1d 77%, #7f1d1d 78%, #fca5a5 78%, #fca5a5 79%, #7f1d1d 79%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 82%, #fca5a5 82%, #fca5a5 83%, #7f1d1d 83%, #7f1d1d 84%, #fca5a5 84%, #fca5a5 85%, #7f1d1d 85%, #7f1d1d 86%, #fca5a5 86%, #fca5a5 87%, #7f1d1d 87%, #7f1d1d 88%, #fca5a5 88%, #fca5a5 89%, #7f1d1d 89%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 92%, #fca5a5 92%, #fca5a5 93%, #7f1d1d 93%, #7f1d1d 94%, #fca5a5 94%, #fca5a5 95%, #7f1d1d 95%, #7f1d1d 96%, #fca5a5 96%, #fca5a5 97%, #7f1d1d 97%, #7f1d1d 98%, #fca5a5 98%, #fca5a5 99%, #7f1d1d 99%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "candy_90°✨"
+    },
+    "stripe_min45°✨": {
+      "value": "linear-gradient(-45deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 5%, #fca5a5 5%, #fca5a5 6%, #7f1d1d 6%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 15%, #fca5a5 15%, #fca5a5 16%, #7f1d1d 16%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 25%, #fca5a5 25%, #fca5a5 26%, #7f1d1d 26%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 35%, #fca5a5 35%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 45%, #fca5a5 45%, #fca5a5 46%, #7f1d1d 46%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 55%, #fca5a5 55%, #fca5a5 56%, #7f1d1d 56%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 65%, #fca5a5 65%, #fca5a5 66%, #7f1d1d 66%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 75%, #fca5a5 75%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 85%, #fca5a5 85%, #fca5a5 86%, #7f1d1d 86%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 95%, #fca5a5 95%, #fca5a5 96%, #7f1d1d 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "stripe_min45°✨"
+    },
+    "stripe_45°✨": {
+      "value": "linear-gradient(45deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 5%, #fca5a5 5%, #fca5a5 6%, #7f1d1d 6%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 15%, #fca5a5 15%, #fca5a5 16%, #7f1d1d 16%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 25%, #fca5a5 25%, #fca5a5 26%, #7f1d1d 26%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 35%, #fca5a5 35%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 45%, #fca5a5 45%, #fca5a5 46%, #7f1d1d 46%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 55%, #fca5a5 55%, #fca5a5 56%, #7f1d1d 56%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 65%, #fca5a5 65%, #fca5a5 66%, #7f1d1d 66%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 75%, #fca5a5 75%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 85%, #fca5a5 85%, #fca5a5 86%, #7f1d1d 86%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 95%, #fca5a5 95%, #fca5a5 96%, #7f1d1d 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "stripe_45°✨"
+    },
+    "stripe_min60°✨": {
+      "value": "linear-gradient(-60deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 5%, #fca5a5 5%, #fca5a5 6%, #7f1d1d 6%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 15%, #fca5a5 15%, #fca5a5 16%, #7f1d1d 16%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 25%, #fca5a5 25%, #fca5a5 26%, #7f1d1d 26%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 35%, #fca5a5 35%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 45%, #fca5a5 45%, #fca5a5 46%, #7f1d1d 46%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 55%, #fca5a5 55%, #fca5a5 56%, #7f1d1d 56%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 65%, #fca5a5 65%, #fca5a5 66%, #7f1d1d 66%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 75%, #fca5a5 75%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 85%, #fca5a5 85%, #fca5a5 86%, #7f1d1d 86%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 95%, #fca5a5 95%, #fca5a5 96%, #7f1d1d 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "stripe_min60°✨"
+    },
+    "stripe_60°✨": {
+      "value": "linear-gradient(60deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 5%, #fca5a5 5%, #fca5a5 6%, #7f1d1d 6%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 15%, #fca5a5 15%, #fca5a5 16%, #7f1d1d 16%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 25%, #fca5a5 25%, #fca5a5 26%, #7f1d1d 26%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 35%, #fca5a5 35%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 45%, #fca5a5 45%, #fca5a5 46%, #7f1d1d 46%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 55%, #fca5a5 55%, #fca5a5 56%, #7f1d1d 56%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 65%, #fca5a5 65%, #fca5a5 66%, #7f1d1d 66%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 75%, #fca5a5 75%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 85%, #fca5a5 85%, #fca5a5 86%, #7f1d1d 86%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 95%, #fca5a5 95%, #fca5a5 96%, #7f1d1d 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "stripe_60°✨"
+    },
+    "stripe_min75°✨": {
+      "value": "linear-gradient(-75deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 5%, #fca5a5 5%, #fca5a5 6%, #7f1d1d 6%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 15%, #fca5a5 15%, #fca5a5 16%, #7f1d1d 16%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 25%, #fca5a5 25%, #fca5a5 26%, #7f1d1d 26%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 35%, #fca5a5 35%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 45%, #fca5a5 45%, #fca5a5 46%, #7f1d1d 46%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 55%, #fca5a5 55%, #fca5a5 56%, #7f1d1d 56%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 65%, #fca5a5 65%, #fca5a5 66%, #7f1d1d 66%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 75%, #fca5a5 75%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 85%, #fca5a5 85%, #fca5a5 86%, #7f1d1d 86%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 95%, #fca5a5 95%, #fca5a5 96%, #7f1d1d 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "stripe_min75°✨"
+    },
+    "stripe_75°✨": {
+      "value": "linear-gradient(75deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 5%, #fca5a5 5%, #fca5a5 6%, #7f1d1d 6%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 15%, #fca5a5 15%, #fca5a5 16%, #7f1d1d 16%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 25%, #fca5a5 25%, #fca5a5 26%, #7f1d1d 26%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 35%, #fca5a5 35%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 45%, #fca5a5 45%, #fca5a5 46%, #7f1d1d 46%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 55%, #fca5a5 55%, #fca5a5 56%, #7f1d1d 56%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 65%, #fca5a5 65%, #fca5a5 66%, #7f1d1d 66%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 75%, #fca5a5 75%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 85%, #fca5a5 85%, #fca5a5 86%, #7f1d1d 86%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 95%, #fca5a5 95%, #fca5a5 96%, #7f1d1d 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "stripe_75°✨"
+    },
+    "stripe_0°✨": {
+      "value": "linear-gradient(0deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 5%, #fca5a5 5%, #fca5a5 6%, #7f1d1d 6%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 15%, #fca5a5 15%, #fca5a5 16%, #7f1d1d 16%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 25%, #fca5a5 25%, #fca5a5 26%, #7f1d1d 26%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 35%, #fca5a5 35%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 45%, #fca5a5 45%, #fca5a5 46%, #7f1d1d 46%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 55%, #fca5a5 55%, #fca5a5 56%, #7f1d1d 56%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 65%, #fca5a5 65%, #fca5a5 66%, #7f1d1d 66%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 75%, #fca5a5 75%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 85%, #fca5a5 85%, #fca5a5 86%, #7f1d1d 86%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 95%, #fca5a5 95%, #fca5a5 96%, #7f1d1d 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "stripe_0°✨"
+    },
+    "stripe_90°✨": {
+      "value": "linear-gradient(-90deg, #fca5a5 0%, #fca5a5 1%, #7f1d1d 1%, #7f1d1d 5%, #fca5a5 5%, #fca5a5 6%, #7f1d1d 6%, #7f1d1d 10%, #fca5a5 10%, #fca5a5 11%, #7f1d1d 11%, #7f1d1d 15%, #fca5a5 15%, #fca5a5 16%, #7f1d1d 16%, #7f1d1d 20%, #fca5a5 20%, #fca5a5 21%, #7f1d1d 21%, #7f1d1d 25%, #fca5a5 25%, #fca5a5 26%, #7f1d1d 26%, #7f1d1d 30%, #fca5a5 30%, #fca5a5 31%, #7f1d1d 31%, #7f1d1d 35%, #fca5a5 35%, #fca5a5 36%, #7f1d1d 36%, #7f1d1d 40%, #fca5a5 40%, #fca5a5 41%, #7f1d1d 41%, #7f1d1d 45%, #fca5a5 45%, #fca5a5 46%, #7f1d1d 46%, #7f1d1d 50%, #fca5a5 50%, #fca5a5 51%, #7f1d1d 51%, #7f1d1d 55%, #fca5a5 55%, #fca5a5 56%, #7f1d1d 56%, #7f1d1d 60%, #fca5a5 60%, #fca5a5 61%, #7f1d1d 61%, #7f1d1d 65%, #fca5a5 65%, #fca5a5 66%, #7f1d1d 66%, #7f1d1d 70%, #fca5a5 70%, #fca5a5 71%, #7f1d1d 71%, #7f1d1d 75%, #fca5a5 75%, #fca5a5 76%, #7f1d1d 76%, #7f1d1d 80%, #fca5a5 80%, #fca5a5 81%, #7f1d1d 81%, #7f1d1d 85%, #fca5a5 85%, #fca5a5 86%, #7f1d1d 86%, #7f1d1d 90%, #fca5a5 90%, #fca5a5 91%, #7f1d1d 91%, #7f1d1d 95%, #fca5a5 95%, #fca5a5 96%, #7f1d1d 96%, #7f1d1d 100%)",
+      "type": "color",
+      "description": "stripe_90°✨"
+    }
+  }
+}
