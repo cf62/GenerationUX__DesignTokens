@@ -370,517 +370,322 @@
     }
   },
   "generationux-line-height": {
-    "leading-2✨": {
+    "leading-2": {
       "value": "({generationux.rem} * 0.5)*1",
       "type": "lineHeights",
-      "description": "leading-2✨"
+      "description": "leading-2"
     },
-    "leading-2_5✨": {
-      "value": "({generationux.rem} * 0.625)*1",
-      "type": "lineHeights",
-      "description": "leading-2_5✨"
-    },
-    "leading-3✨": {
+    "leading-3": {
       "value": "({generationux.rem} * 0.75)*1",
       "type": "lineHeights",
-      "description": "leading-3✨"
+      "description": "leading-3"
     },
-    "leading-3_5✨": {
-      "value": "({generationux.rem} * 0.875)*1",
-      "type": "lineHeights",
-      "description": "leading-3_5✨"
-    },
-    "leading-4✨": {
+    "leading-4": {
       "value": "({generationux.rem} * 1)*1",
       "type": "lineHeights",
-      "description": "leading-4✨"
+      "description": "leading-4"
     },
-    "leading-4_5✨": {
-      "value": "({generationux.rem} * 1.125)*1",
-      "type": "lineHeights",
-      "description": "leading-4_5✨"
-    },
-    "leading-5✨": {
+    "leading-5": {
       "value": "({generationux.rem} * 1.25)*1",
       "type": "lineHeights",
-      "description": "leading-5✨"
+      "description": "leading-5"
     },
-    "leading-6✨": {
+    "leading-6": {
       "value": "({generationux.rem} * 1.5)*1",
       "type": "lineHeights",
-      "description": "leading-6✨"
+      "description": "leading-6"
     },
-    "leading-7✨": {
+    "leading-7": {
       "value": "({generationux.rem} * 1.75)*1",
       "type": "lineHeights",
-      "description": "leading-7✨"
+      "description": "leading-7"
     },
-    "leading-8✨": {
+    "leading-8": {
       "value": "({generationux.rem} * 2)*1",
       "type": "lineHeights",
-      "description": "leading-8✨"
+      "description": "leading-8"
     },
-    "leading-9✨": {
+    "leading-9": {
       "value": "({generationux.rem} * 2.25)*1",
       "type": "lineHeights",
-      "description": "leading-9✨"
+      "description": "leading-9"
     },
-    "leading-10✨": {
+    "leading-10": {
       "value": "({generationux.rem} * 2.5)*1",
       "type": "lineHeights",
-      "description": "leading-10✨"
+      "description": "leading-10"
     },
-    "leading-10_5✨": {
-      "value": "({generationux.rem} * 2.625)*1",
+    "leading-none": {
+      "value": "({generationux.rem} * 1)*1",
       "type": "lineHeights",
-      "description": "leading-10_5✨"
+      "description": "leading-none"
     },
-    "leading-11✨": {
-      "value": "({generationux.rem} * 2.75)*1",
+    "leading-tight": {
+      "value": "({generationux.rem} * 1.25)*1",
       "type": "lineHeights",
-      "description": "leading-11✨"
+      "description": "leading-tight"
     },
-    "leading-12✨": {
-      "value": "({generationux.rem} * 3)*1",
+    "leading-snug": {
+      "value": "({generationux.rem} * 1.375)*1",
       "type": "lineHeights",
-      "description": "leading-12✨"
+      "description": "leading-snug"
     },
-    "leading-13✨": {
-      "value": "({generationux.rem} * 3.25)*1",
+    "leading-normal": {
+      "value": "({generationux.rem} * 1.5)*1",
       "type": "lineHeights",
-      "description": "leading-13✨"
+      "description": "leading-normal"
     },
-    "leading-14✨": {
-      "value": "({generationux.rem} * 3.5)*1",
+    "leading-relaxed": {
+      "value": "({generationux.rem} * 1.625)*1",
       "type": "lineHeights",
-      "description": "leading-14✨"
+      "description": "leading-relaxed"
     },
-    "leading-15✨": {
-      "value": "({generationux.rem} * 3.75)*1",
+    "leading-loose": {
+      "value": "({generationux.rem} * 2)*1",
       "type": "lineHeights",
-      "description": "leading-15✨"
+      "description": "leading-loose"
+    }
+  },
+  "generationux-typography": {
+    "text-9xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-size.size-32}",
+        "fontSize": "{generationux-font-size.font-size-32}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-9xl"
     },
-    "leading-16✨": {
-      "value": "({generationux.rem} * 4)*1",
-      "type": "lineHeights",
-      "description": "leading-16✨"
+    "text-8xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-size.size-24}",
+        "fontSize": "{generationux-font-size.font-size-24}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-8xl"
     },
-    "leading-17_25✨": {
-      "value": "({generationux.rem} * 4.3125)*1",
-      "type": "lineHeights",
-      "description": "leading-17_25✨"
+    "text-7xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-size.size-20}",
+        "fontSize": "{generationux-font-size.font-size-18}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-7xl"
     },
-    "leading-19✨": {
-      "value": "({generationux.rem} * 4.5)*1",
-      "type": "lineHeights",
-      "description": "leading-19✨"
+    "text-6xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-size.size-16}",
+        "fontSize": "{generationux-font-size.font-size-15}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-6xl"
     },
-    "leading-20✨": {
-      "value": "({generationux.rem} * 5)*1",
-      "type": "lineHeights",
-      "description": "leading-20✨"
+    "text-5xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-size.size-12}",
+        "fontSize": "{generationux-font-size.font-size-12}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-5xl"
     },
-    "leading-22_5✨": {
-      "value": "({generationux.rem} * 5.625)*1",
-      "type": "lineHeights",
-      "description": "leading-22_5✨"
+    "text-4xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-10}",
+        "fontSize": "{generationux-font-size.font-size-9}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-4xl"
     },
-    "leading-24✨": {
-      "value": "({generationux.rem} * 6)*1",
-      "type": "lineHeights",
-      "description": "leading-24✨"
+    "text-3xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-9}",
+        "fontSize": "{generationux-font-size.font-size-7_5}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-3xl"
     },
-    "leading-28✨": {
-      "value": "({generationux.rem} * 7)*1",
-      "type": "lineHeights",
-      "description": "leading-28✨"
+    "text-2xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-8}",
+        "fontSize": "{generationux-font-size.font-size-6}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-2xl"
     },
-    "leading-30✨": {
-      "value": "({generationux.rem} * 7.5)*1",
-      "type": "lineHeights",
-      "description": "leading-30✨"
+    "text-xl": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-7}",
+        "fontSize": "{generationux-font-size.font-size-5}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-xl"
     },
-    "leading-32✨": {
-      "value": "({generationux.rem} * 8)*1",
-      "type": "lineHeights",
-      "description": "leading-32✨"
+    "text-lg": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-7}",
+        "fontSize": "{generationux-font-size.font-size-4_5}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.original}"
+      },
+      "type": "typography",
+      "description": "text-lg"
     },
-    "leading-36✨": {
-      "value": "({generationux.rem} * 9)*1",
-      "type": "lineHeights",
-      "description": "leading-36✨"
+    "text-base": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-6}",
+        "fontSize": "{generationux-font-size.font-size-4}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.uppercase}"
+      },
+      "type": "typography",
+      "description": "text-base"
     },
-    "leading-40✨": {
-      "value": "({generationux.rem} * 10)*1",
-      "type": "lineHeights",
-      "description": "leading-40✨"
+    "text-sm": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-5}",
+        "fontSize": "{generationux-font-size.font-size-3_5}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.uppercase}"
+      },
+      "type": "typography",
+      "description": "text-sm"
     },
-    "leading-42✨": {
-      "value": "({generationux.rem} * 10.5)*1",
-      "type": "lineHeights",
-      "description": "leading-42✨"
+    "text-xs": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-4}",
+        "fontSize": "{generationux-font-size.font-size-3}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.uppercase}"
+      },
+      "type": "typography",
+      "description": "text-xs"
     },
-    "leading-43✨": {
-      "value": "({generationux.rem} * 10.75)*1",
-      "type": "lineHeights",
-      "description": "leading-43✨"
-    },
-    "leading-44✨": {
-      "value": "({generationux.rem} * 11)*1",
-      "type": "lineHeights",
-      "description": "leading-44✨"
-    },
-    "leading-45✨": {
-      "value": "({generationux.rem} * 11.25)*1",
-      "type": "lineHeights",
-      "description": "leading-45✨"
-    },
-    "leading-48✨": {
-      "value": "({generationux.rem} * 12)*1",
-      "type": "lineHeights",
-      "description": "leading-48✨"
-    },
-    "leading-50✨": {
-      "value": "({generationux.rem} * 12.5)*1",
-      "type": "lineHeights",
-      "description": "leading-50✨"
-    },
-    "leading-52✨": {
-      "value": "({generationux.rem} * 13)*1",
-      "type": "lineHeights",
-      "description": "leading-52✨"
-    },
-    "leading-56✨": {
-      "value": "({generationux.rem} * 14)*1",
-      "type": "lineHeights",
-      "description": "leading-56✨"
-    },
-    "leading-60✨": {
-      "value": "({generationux.rem} * 15)*1",
-      "type": "lineHeights",
-      "description": "leading-60✨"
-    },
-    "leading-64✨": {
-      "value": "({generationux.rem} * 16)*1",
-      "type": "lineHeights",
-      "description": "leading-64✨"
-    },
-    "leading-68✨": {
-      "value": "({generationux.rem} * 17)*1",
-      "type": "lineHeights",
-      "description": "leading-68✨"
-    },
-    "leading-70✨": {
-      "value": "({generationux.rem} * 17.5)*1",
-      "type": "lineHeights",
-      "description": "leading-70✨"
-    },
-    "leading-72✨": {
-      "value": "({generationux.rem} * 18)*1",
-      "type": "lineHeights",
-      "description": "leading-72✨"
-    },
-    "leading-80✨": {
-      "value": "({generationux.rem} * 20)*1",
-      "type": "lineHeights",
-      "description": "leading-80✨"
-    },
-    "leading-90✨": {
-      "value": "({generationux.rem} * 22.5)*1",
-      "type": "lineHeights",
-      "description": "leading-90✨"
-    },
-    "leading-96✨": {
-      "value": "({generationux.rem} * 24)*1",
-      "type": "lineHeights",
-      "description": "leading-96✨"
-    },
-    "leading-100✨": {
-      "value": "({generationux.rem} * 25)*1",
-      "type": "lineHeights",
-      "description": "leading-100✨"
-    },
-    "leading-105✨": {
-      "value": "({generationux.rem} * 26.25)*1",
-      "type": "lineHeights",
-      "description": "leading-105✨"
-    },
-    "leading-110✨": {
-      "value": "({generationux.rem} * 27.5)*1",
-      "type": "lineHeights",
-      "description": "leading-110✨"
-    },
-    "leading-120✨": {
-      "value": "({generationux.rem} * 30)*1",
-      "type": "lineHeights",
-      "description": "leading-120✨"
-    },
-    "leading-180✨": {
-      "value": "({generationux.rem} * 45)*1",
-      "type": "lineHeights",
-      "description": "leading-180✨"
-    },
-    "leading-190✨": {
-      "value": "({generationux.rem} * 47.5)*1",
-      "type": "lineHeights",
-      "description": "leading-190✨"
+    "text-xxs": {
+      "value": {
+        "fontFamily": "",
+        "fontWeight": "",
+        "lineHeight": "{generationux-line-height.leading-2}",
+        "fontSize": "{generationux-font-size.font-size-2}",
+        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
+        "textCase": "{generationux-text-transform.uppercase}"
+      },
+      "type": "typography",
+      "description": "text-xxs"
     }
   },
   "generationux-font-size": {
-    "font-size-2✨": {
+    "font-size-2": {
       "value": "({generationux.rem} * 0.5)*1",
       "type": "fontSizes",
-      "description": "font-size-2✨"
+      "description": "font-size-2"
     },
-    "font-size-2_5✨": {
-      "value": "({generationux.rem} * 0.625)*1",
-      "type": "fontSizes",
-      "description": "font-size-2_5✨"
-    },
-    "font-size-3✨": {
+    "font-size-3": {
       "value": "({generationux.rem} * 0.75)*1",
       "type": "fontSizes",
-      "description": "font-size-3✨"
+      "description": "font-size-3"
     },
-    "font-size-3_5✨": {
+    "font-size-3_5": {
       "value": "({generationux.rem} * 0.875)*1",
       "type": "fontSizes",
-      "description": "font-size-3_5✨"
+      "description": "font-size-3_5"
     },
-    "font-size-4✨": {
+    "font-size-4": {
       "value": "({generationux.rem} * 1)*1",
       "type": "fontSizes",
-      "description": "font-size-4✨"
+      "description": "font-size-4"
     },
-    "font-size-4_5✨": {
+    "font-size-4_5": {
       "value": "({generationux.rem} * 1.125)*1",
       "type": "fontSizes",
-      "description": "font-size-4_5✨"
+      "description": "font-size-4_5"
     },
-    "font-size-5✨": {
+    "font-size-5": {
       "value": "({generationux.rem} * 1.25)*1",
       "type": "fontSizes",
-      "description": "font-size-5✨"
+      "description": "font-size-5"
     },
-    "font-size-6✨": {
+    "font-size-6": {
       "value": "({generationux.rem} * 1.5)*1",
       "type": "fontSizes",
-      "description": "font-size-6✨"
+      "description": "font-size-6"
     },
-    "font-size-7✨": {
-      "value": "({generationux.rem} * 1.75)*1",
+    "font-size-7_5": {
+      "value": "({generationux.rem} * 1.875)*1",
       "type": "fontSizes",
-      "description": "font-size-7✨"
+      "description": "font-size-7_5"
     },
-    "font-size-8✨": {
-      "value": "({generationux.rem} * 2)*1",
-      "type": "fontSizes",
-      "description": "font-size-8✨"
-    },
-    "font-size-9✨": {
+    "font-size-9": {
       "value": "({generationux.rem} * 2.25)*1",
       "type": "fontSizes",
-      "description": "font-size-9✨"
+      "description": "font-size-9"
     },
-    "font-size-10✨": {
-      "value": "({generationux.rem} * 2.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-10✨"
-    },
-    "font-size-10_5✨": {
-      "value": "({generationux.rem} * 2.625)*1",
-      "type": "fontSizes",
-      "description": "font-size-10_5✨"
-    },
-    "font-size-11✨": {
-      "value": "({generationux.rem} * 2.75)*1",
-      "type": "fontSizes",
-      "description": "font-size-11✨"
-    },
-    "font-size-12✨": {
+    "font-size-12": {
       "value": "({generationux.rem} * 3)*1",
       "type": "fontSizes",
-      "description": "font-size-12✨"
+      "description": "font-size-12"
     },
-    "font-size-13✨": {
-      "value": "({generationux.rem} * 3.25)*1",
-      "type": "fontSizes",
-      "description": "font-size-13✨"
-    },
-    "font-size-14✨": {
-      "value": "({generationux.rem} * 3.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-14✨"
-    },
-    "font-size-15✨": {
+    "font-size-15": {
       "value": "({generationux.rem} * 3.75)*1",
       "type": "fontSizes",
-      "description": "font-size-15✨"
+      "description": "font-size-15"
     },
-    "font-size-16✨": {
-      "value": "({generationux.rem} * 4)*1",
-      "type": "fontSizes",
-      "description": "font-size-16✨"
-    },
-    "font-size-17_25✨": {
-      "value": "({generationux.rem} * 4.3125)*1",
-      "type": "fontSizes",
-      "description": "font-size-17_25✨"
-    },
-    "font-size-18✨": {
+    "font-size-18": {
       "value": "({generationux.rem} * 4.5)*1",
       "type": "fontSizes",
-      "description": "font-size-18✨"
+      "description": "font-size-18"
     },
-    "font-size-20✨": {
-      "value": "({generationux.rem} * 5)*1",
-      "type": "fontSizes",
-      "description": "font-size-20✨"
-    },
-    "font-size-22_5✨": {
-      "value": "({generationux.rem} * 5.625)*1",
-      "type": "fontSizes",
-      "description": "font-size-22_5✨"
-    },
-    "font-size-24✨": {
+    "font-size-24": {
       "value": "({generationux.rem} * 6)*1",
       "type": "fontSizes",
-      "description": "font-size-24✨"
+      "description": "font-size-24"
     },
-    "font-size-28✨": {
-      "value": "({generationux.rem} * 7)*1",
-      "type": "fontSizes",
-      "description": "font-size-28✨"
-    },
-    "font-size-30✨": {
-      "value": "({generationux.rem} * 7.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-30✨"
-    },
-    "font-size-32✨": {
+    "font-size-32": {
       "value": "({generationux.rem} * 8)*1",
       "type": "fontSizes",
-      "description": "font-size-32✨"
-    },
-    "font-size-36✨": {
-      "value": "({generationux.rem} * 9)*1",
-      "type": "fontSizes",
-      "description": "font-size-36✨"
-    },
-    "font-size-40✨": {
-      "value": "({generationux.rem} * 10)*1",
-      "type": "fontSizes",
-      "description": "font-size-40✨"
-    },
-    "font-size-42✨": {
-      "value": "({generationux.rem} * 10.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-42✨"
-    },
-    "font-size-43✨": {
-      "value": "({generationux.rem} * 10.75)*1",
-      "type": "fontSizes",
-      "description": "font-size-43✨"
-    },
-    "font-size-44✨": {
-      "value": "({generationux.rem} * 11)*1",
-      "type": "fontSizes",
-      "description": "font-size-44✨"
-    },
-    "font-size-45✨": {
-      "value": "({generationux.rem} * 11.25)*1",
-      "type": "fontSizes",
-      "description": "font-size-45✨"
-    },
-    "font-size-48✨": {
-      "value": "({generationux.rem} * 12)*1",
-      "type": "fontSizes",
-      "description": "font-size-48✨"
-    },
-    "font-size-50✨": {
-      "value": "({generationux.rem} * 12.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-50✨"
-    },
-    "font-size-52✨": {
-      "value": "({generationux.rem} * 13)*1",
-      "type": "fontSizes",
-      "description": "font-size-52✨"
-    },
-    "font-size-56✨": {
-      "value": "({generationux.rem} * 14)*1",
-      "type": "fontSizes",
-      "description": "font-size-56✨"
-    },
-    "font-size-60✨": {
-      "value": "({generationux.rem} * 15)*1",
-      "type": "fontSizes",
-      "description": "font-size-60✨"
-    },
-    "font-size-64✨": {
-      "value": "({generationux.rem} * 16)*1",
-      "type": "fontSizes",
-      "description": "font-size-64✨"
-    },
-    "font-size-68✨": {
-      "value": "({generationux.rem} * 17)*1",
-      "type": "fontSizes",
-      "description": "font-size-68✨"
-    },
-    "font-size-70✨": {
-      "value": "({generationux.rem} * 17.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-70✨"
-    },
-    "font-size-72✨": {
-      "value": "({generationux.rem} * 18)*1",
-      "type": "fontSizes",
-      "description": "font-size-72✨"
-    },
-    "font-size-80✨": {
-      "value": "({generationux.rem} * 20)*1",
-      "type": "fontSizes",
-      "description": "font-size-80✨"
-    },
-    "font-size-90✨": {
-      "value": "({generationux.rem} * 22.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-90✨"
-    },
-    "font-size-96✨": {
-      "value": "({generationux.rem} * 24)*1",
-      "type": "fontSizes",
-      "description": "font-size-96✨"
-    },
-    "font-size-100": {
-      "value": "({generationux.rem} * 25)*1",
-      "type": "fontSizes",
-      "description": "font-size-100"
-    },
-    "font-size-105✨": {
-      "value": "({generationux.rem} * 26.25)*1",
-      "type": "fontSizes",
-      "description": "font-size-105✨"
-    },
-    "font-size-110✨": {
-      "value": "({generationux.rem} * 27.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-110✨"
-    },
-    "font-size-120✨": {
-      "value": "({generationux.rem} * 30)*1",
-      "type": "fontSizes",
-      "description": "font-size-120✨"
-    },
-    "font-size-180✨": {
-      "value": "({generationux.rem} * 45)*1",
-      "type": "fontSizes",
-      "description": "font-size-180✨"
-    },
-    "font-size-190✨": {
-      "value": "({generationux.rem} * 47.5)*1",
-      "type": "fontSizes",
-      "description": "font-size-190✨"
+      "description": "font-size-32"
     }
   },
   "generationux-text-transform": {
@@ -922,14 +727,9 @@
       "description": "tracking-normal"
     },
     "tracking-wide": {
-      "value": "({generationux.rem} * 0.025)*1",
-      "type": "letterSpacing",
-      "description": "tracking-wide"
-    },
-    "tracking-wide✨": {
       "value": "({generationux.rem} * 0.03125)*1",
       "type": "letterSpacing",
-      "description": "tracking-wide✨"
+      "description": "tracking-wide"
     },
     "tracking-wider": {
       "value": "({generationux.rem} * 0.05)*1",
@@ -943,35 +743,10 @@
     }
   },
   "generationux-padding": {
-    "p-min4✨": {
-      "value": "(-{generationux.rem} * 1)*1",
-      "type": "spacing",
-      "description": "p-min4✨"
-    },
-    "p-min2✨": {
-      "value": "(-{generationux.rem} * 0.5)*1",
-      "type": "spacing",
-      "description": "p-min2✨"
-    },
-    "p-min1✨": {
-      "value": "(-{generationux.rem} * 0.25)*1",
-      "type": "spacing",
-      "description": "p-min1✨"
-    },
-    "p-min0_5✨": {
-      "value": "(-{generationux.rem} * 0.125)*1",
-      "type": "spacing",
-      "description": "p-min0_5✨"
-    },
     "p-0": {
       "value": "({generationux.rem} * 0)*1",
       "type": "spacing",
       "description": "p-0"
-    },
-    "p-<px✨": {
-      "value": "({generationux.rem} * 0.03125)*1",
-      "type": "spacing",
-      "description": "p-<px✨"
     },
     "p-px": {
       "value": "({generationux.rem} * 0.0625)*1",
@@ -1018,11 +793,6 @@
       "type": "spacing",
       "description": "p-4"
     },
-    "p-4_5✨": {
-      "value": "({generationux.rem} * 1.125)*1",
-      "type": "spacing",
-      "description": "p-4_5✨"
-    },
     "p-5": {
       "value": "({generationux.rem} * 1.25)*1",
       "type": "spacing",
@@ -1053,11 +823,6 @@
       "type": "spacing",
       "description": "p-10"
     },
-    "p-10_5✨": {
-      "value": "({generationux.rem} * 2.625)*1",
-      "type": "spacing",
-      "description": "p-10_5✨"
-    },
     "p-11": {
       "value": "({generationux.rem} * 2.75)*1",
       "type": "spacing",
@@ -1068,45 +833,20 @@
       "type": "spacing",
       "description": "p-12"
     },
-    "p-13✨": {
-      "value": "({generationux.rem} * 3.25)*1",
-      "type": "spacing",
-      "description": "p-13✨"
-    },
     "p-14": {
       "value": "({generationux.rem} * 3.5)*1",
       "type": "spacing",
       "description": "p-14"
-    },
-    "p-15✨": {
-      "value": "({generationux.rem} * 3.75)*1",
-      "type": "spacing",
-      "description": "p-15✨"
     },
     "p-16": {
       "value": "({generationux.rem} * 4)*1",
       "type": "spacing",
       "description": "p-16"
     },
-    "p-17_25✨": {
-      "value": "({generationux.rem} * 4.3125)*1",
-      "type": "spacing",
-      "description": "p-17_25✨"
-    },
-    "p-18✨": {
-      "value": "({generationux.rem} * 4.5)*1",
-      "type": "spacing",
-      "description": "p-18✨"
-    },
     "p-20": {
       "value": "({generationux.rem} * 5)*1",
       "type": "spacing",
       "description": "p-20"
-    },
-    "p-22_5✨": {
-      "value": "({generationux.rem} * 5.625)*1",
-      "type": "spacing",
-      "description": "p-22_5✨"
     },
     "p-24": {
       "value": "({generationux.rem} * 6)*1",
@@ -1117,11 +857,6 @@
       "value": "({generationux.rem} * 7)*1",
       "type": "spacing",
       "description": "p-28"
-    },
-    "p-30✨": {
-      "value": "({generationux.rem} * 7.5)*1",
-      "type": "spacing",
-      "description": "p-30✨"
     },
     "p-32": {
       "value": "({generationux.rem} * 8)*1",
@@ -1138,30 +873,15 @@
       "type": "spacing",
       "description": "p-40"
     },
-    "p-42✨": {
-      "value": "({generationux.rem} * 10.5)*1",
-      "type": "spacing",
-      "description": "p-42✨"
-    },
     "p-44": {
       "value": "({generationux.rem} * 11)*1",
       "type": "spacing",
       "description": "p-44"
     },
-    "p-45✨": {
-      "value": "({generationux.rem} * 11.25)*1",
-      "type": "spacing",
-      "description": "p-45✨"
-    },
     "p-48": {
       "value": "({generationux.rem} * 12)*1",
       "type": "spacing",
       "description": "p-48"
-    },
-    "p-50✨": {
-      "value": "({generationux.rem} * 12.5)*1",
-      "type": "spacing",
-      "description": "p-50✨"
     },
     "p-52": {
       "value": "({generationux.rem} * 13)*1",
@@ -1183,16 +903,6 @@
       "type": "spacing",
       "description": "p-64"
     },
-    "p-68✨": {
-      "value": "({generationux.rem} * 17)*1",
-      "type": "spacing",
-      "description": "p-68✨"
-    },
-    "p-70✨": {
-      "value": "({generationux.rem} * 17.5)*1",
-      "type": "spacing",
-      "description": "p-70✨"
-    },
     "p-72": {
       "value": "({generationux.rem} * 18)*1",
       "type": "spacing",
@@ -1203,45 +913,10 @@
       "type": "spacing",
       "description": "p-80"
     },
-    "p-90✨": {
-      "value": "({generationux.rem} * 22.5)*1",
-      "type": "spacing",
-      "description": "p-90✨"
-    },
     "p-96": {
       "value": "({generationux.rem} * 24)*1",
       "type": "spacing",
       "description": "p-96"
-    },
-    "p-100✨": {
-      "value": "({generationux.rem} * 25)*1",
-      "type": "spacing",
-      "description": "p-100✨"
-    },
-    "p-105✨": {
-      "value": "({generationux.rem} * 26.25)*1",
-      "type": "spacing",
-      "description": "p-105✨"
-    },
-    "p-110✨": {
-      "value": "({generationux.rem} * 27.5)*1",
-      "type": "spacing",
-      "description": "p-110✨"
-    },
-    "p-120✨": {
-      "value": "({generationux.rem} * 30)*1",
-      "type": "spacing",
-      "description": "p-120✨"
-    },
-    "p-180✨": {
-      "value": "({generationux.rem} * 45)*1",
-      "type": "spacing",
-      "description": "p-180✨"
-    },
-    "p-190✨": {
-      "value": "({generationux.rem} * 47.5)*1",
-      "type": "spacing",
-      "description": "p-190✨"
     }
   },
   "generationux-border-radius": {
@@ -1249,16 +924,6 @@
       "value": "({generationux.rem} * 0)*1",
       "type": "borderRadius",
       "description": "rounded-none"
-    },
-    "rounded-xxs✨": {
-      "value": "({generationux.rem} * 0.03125)*1",
-      "type": "borderRadius",
-      "description": "rounded-xxs✨"
-    },
-    "rounded-xs✨": {
-      "value": "({generationux.rem} * 0.0625)*1",
-      "type": "borderRadius",
-      "description": "rounded-xs✨"
     },
     "rounded-sm": {
       "value": "({generationux.rem} * 0.125)*1",
@@ -1280,255 +945,25 @@
       "type": "borderRadius",
       "description": "rounded-lg"
     },
-    "rounded-lgB✨": {
-      "value": "({generationux.rem} * 0.625)*1",
-      "type": "borderRadius",
-      "description": "rounded-lgB✨"
-    },
     "rounded-xl": {
       "value": "({generationux.rem} * 0.75)*1",
       "type": "borderRadius",
       "description": "rounded-xl"
-    },
-    "rounded-xlB✨": {
-      "value": "({generationux.rem} * 0.875)*1",
-      "type": "borderRadius",
-      "description": "rounded-xlB✨"
     },
     "rounded-2xl": {
       "value": "({generationux.rem} * 1)*1",
       "type": "borderRadius",
       "description": "rounded-2xl"
     },
-    "rounded-2xlB✨": {
-      "value": "({generationux.rem} * 1.125)*1",
-      "type": "borderRadius",
-      "description": "rounded-2xlB✨"
-    },
-    "rounded-2xlC✨": {
-      "value": "({generationux.rem} * 1.25)*1",
-      "type": "borderRadius",
-      "description": "rounded-2xlC✨"
-    },
     "rounded-3xl": {
       "value": "({generationux.rem} * 1.5)*1",
       "type": "borderRadius",
       "description": "rounded-3xl"
     },
-    "rounded-4xl✨": {
-      "value": "({generationux.rem} * 1.75)*1",
+    "rounded-full": {
+      "value": "9999px",
       "type": "borderRadius",
-      "description": "rounded-4xl✨"
-    },
-    "rounded-5xl✨": {
-      "value": "({generationux.rem} * 2)*1",
-      "type": "borderRadius",
-      "description": "rounded-5xl✨"
-    },
-    "rounded-6xl✨": {
-      "value": "({generationux.rem} * 2.25)*1",
-      "type": "borderRadius",
-      "description": "rounded-6xl✨"
-    },
-    "rounded-7xl✨": {
-      "value": "({generationux.rem} * 2.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-7xl✨"
-    },
-    "rounded-8xl✨": {
-      "value": "({generationux.rem} * 2.625)*1",
-      "type": "borderRadius",
-      "description": "rounded-8xl✨"
-    },
-    "rounded-9xl✨": {
-      "value": "({generationux.rem} * 2.75)*1",
-      "type": "borderRadius",
-      "description": "rounded-9xl✨"
-    },
-    "rounded-10xl✨": {
-      "value": "({generationux.rem} * 3)*1",
-      "type": "borderRadius",
-      "description": "rounded-10xl✨"
-    },
-    "rounded-11xl✨": {
-      "value": "({generationux.rem} * 3.25)*1",
-      "type": "borderRadius",
-      "description": "rounded-11xl✨"
-    },
-    "rounded-12xl✨": {
-      "value": "({generationux.rem} * 3.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-12xl✨"
-    },
-    "rounded-13xl✨": {
-      "value": "({generationux.rem} * 3.75)*1",
-      "type": "borderRadius",
-      "description": "rounded-13xl✨"
-    },
-    "rounded-14xl✨": {
-      "value": "({generationux.rem} * 4)*1",
-      "type": "borderRadius",
-      "description": "rounded-14xl✨"
-    },
-    "rounded-15xl✨": {
-      "value": "({generationux.rem} * 4.3125)*1",
-      "type": "borderRadius",
-      "description": "rounded-15xl✨"
-    },
-    "rounded-16xl✨": {
-      "value": "({generationux.rem} * 4.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-16xl✨"
-    },
-    "rounded-17xl✨": {
-      "value": "({generationux.rem} * 5)*1",
-      "type": "borderRadius",
-      "description": "rounded-17xl✨"
-    },
-    "rounded-18xl✨": {
-      "value": "({generationux.rem} * 5.625)*1",
-      "type": "borderRadius",
-      "description": "rounded-18xl✨"
-    },
-    "rounded-19xl✨": {
-      "value": "({generationux.rem} * 6)*1",
-      "type": "borderRadius",
-      "description": "rounded-19xl✨"
-    },
-    "rounded-20xl✨": {
-      "value": "({generationux.rem} * 7)*1",
-      "type": "borderRadius",
-      "description": "rounded-20xl✨"
-    },
-    "rounded-21xl✨": {
-      "value": "({generationux.rem} * 7.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-21xl✨"
-    },
-    "rounded-22xl✨": {
-      "value": "({generationux.rem} * 8)*1",
-      "type": "borderRadius",
-      "description": "rounded-22xl✨"
-    },
-    "rounded-23xl✨": {
-      "value": "({generationux.rem} * 9)*1",
-      "type": "borderRadius",
-      "description": "rounded-23xl✨"
-    },
-    "rounded-24xl✨": {
-      "value": "({generationux.rem} * 10)*1",
-      "type": "borderRadius",
-      "description": "rounded-24xl✨"
-    },
-    "rounded-25xl✨": {
-      "value": "({generationux.rem} * 10.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-25xl✨"
-    },
-    "rounded-26xl✨": {
-      "value": "({generationux.rem} * 10.75)*1",
-      "type": "borderRadius",
-      "description": "rounded-26xl✨"
-    },
-    "rounded-27xl✨": {
-      "value": "({generationux.rem} * 11)*1",
-      "type": "borderRadius",
-      "description": "rounded-27xl✨"
-    },
-    "rounded-28xl✨": {
-      "value": "({generationux.rem} * 11.25)*1",
-      "type": "borderRadius",
-      "description": "rounded-28xl✨"
-    },
-    "rounded-29xl✨": {
-      "value": "({generationux.rem} * 12)*1",
-      "type": "borderRadius",
-      "description": "rounded-29xl✨"
-    },
-    "rounded-30xl✨": {
-      "value": "({generationux.rem} * 12.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-30xl✨"
-    },
-    "rounded-31xl✨": {
-      "value": "({generationux.rem} * 13)*1",
-      "type": "borderRadius",
-      "description": "rounded-31xl✨"
-    },
-    "rounded-32xl✨": {
-      "value": "({generationux.rem} * 14)*1",
-      "type": "borderRadius",
-      "description": "rounded-32xl✨"
-    },
-    "rounded-33xl✨": {
-      "value": "({generationux.rem} * 15)*1",
-      "type": "borderRadius",
-      "description": "rounded-33xl✨"
-    },
-    "rounded-34xl✨": {
-      "value": "({generationux.rem} * 16)*1",
-      "type": "borderRadius",
-      "description": "rounded-34xl✨"
-    },
-    "rounded-35xl✨": {
-      "value": "({generationux.rem} * 17)*1",
-      "type": "borderRadius",
-      "description": "rounded-35xl✨"
-    },
-    "rounded-36xl✨": {
-      "value": "({generationux.rem} * 17.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-36xl✨"
-    },
-    "rounded-37xl✨": {
-      "value": "({generationux.rem} * 18)*1",
-      "type": "borderRadius",
-      "description": "rounded-37xl✨"
-    },
-    "rounded-38xl✨": {
-      "value": "({generationux.rem} * 20)*1",
-      "type": "borderRadius",
-      "description": "rounded-38xl✨"
-    },
-    "rounded-39xl✨": {
-      "value": "({generationux.rem} * 22.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-39xl✨"
-    },
-    "rounded-40xl✨": {
-      "value": "({generationux.rem} * 24)*1",
-      "type": "borderRadius",
-      "description": "rounded-40xl✨"
-    },
-    "rounded-41xl✨": {
-      "value": "({generationux.rem} * 25)*1",
-      "type": "borderRadius",
-      "description": "rounded-41xl✨"
-    },
-    "rounded-42xl✨": {
-      "value": "({generationux.rem} * 26.25)*1",
-      "type": "borderRadius",
-      "description": "rounded-42xl✨"
-    },
-    "rounded-43xl✨": {
-      "value": "({generationux.rem} * 27.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-43xl✨"
-    },
-    "rounded-44xl✨": {
-      "value": "({generationux.rem} * 30)*1",
-      "type": "borderRadius",
-      "description": "rounded-44xl✨"
-    },
-    "rounded-45xl✨": {
-      "value": "({generationux.rem} * 45)*1",
-      "type": "borderRadius",
-      "description": "rounded-45xl✨"
-    },
-    "rounded-46xl✨": {
-      "value": "({generationux.rem} * 47.5)*1",
-      "type": "borderRadius",
-      "description": "rounded-46xl✨"
+      "description": "rounded-full"
     }
   },
   "generationux-border-width": {
@@ -1537,10 +972,10 @@
       "type": "borderWidth",
       "description": "border-0"
     },
-    "border-<px✨": {
+    "border-<px": {
       "value": "({generationux.rem} * 0.03125)*1",
       "type": "borderWidth",
-      "description": "border-<px✨"
+      "description": "border-<px"
     },
     "border": {
       "value": "({generationux.rem} * 0.0625)*1",
@@ -1557,265 +992,10 @@
       "type": "borderWidth",
       "description": "border-4"
     },
-    "border-6✨": {
-      "value": "({generationux.rem} * 0.375)*1",
-      "type": "borderWidth",
-      "description": "border-6✨"
-    },
     "border-8": {
       "value": "({generationux.rem} * 0.5)*1",
       "type": "borderWidth",
       "description": "border-8"
-    },
-    "border-10✨": {
-      "value": "({generationux.rem} * 0.625)*1",
-      "type": "borderWidth",
-      "description": "border-10✨"
-    },
-    "border-12✨": {
-      "value": "({generationux.rem} * 0.75)*1",
-      "type": "borderWidth",
-      "description": "border-12✨"
-    },
-    "border-14✨": {
-      "value": "({generationux.rem} * 0.875)*1",
-      "type": "borderWidth",
-      "description": "border-14✨"
-    },
-    "border-16✨": {
-      "value": "({generationux.rem} * 1)*1",
-      "type": "borderWidth",
-      "description": "border-16✨"
-    },
-    "border-18✨": {
-      "value": "({generationux.rem} * 1.125)*1",
-      "type": "borderWidth",
-      "description": "border-18✨"
-    },
-    "border-20✨": {
-      "value": "({generationux.rem} * 1.25)*1",
-      "type": "borderWidth",
-      "description": "border-20✨"
-    },
-    "border-24✨": {
-      "value": "({generationux.rem} * 1.5)*1",
-      "type": "borderWidth",
-      "description": "border-24✨"
-    },
-    "border-28✨": {
-      "value": "({generationux.rem} * 1.75)*1",
-      "type": "borderWidth",
-      "description": "border-28✨"
-    },
-    "border-32✨": {
-      "value": "({generationux.rem} * 2)*1",
-      "type": "borderWidth",
-      "description": "border-32✨"
-    },
-    "border-36✨": {
-      "value": "({generationux.rem} * 2.25)*1",
-      "type": "borderWidth",
-      "description": "border-36✨"
-    },
-    "border-40✨": {
-      "value": "({generationux.rem} * 2.5)*1",
-      "type": "borderWidth",
-      "description": "border-40✨"
-    },
-    "border-42✨": {
-      "value": "({generationux.rem} * 2.625)*1",
-      "type": "borderWidth",
-      "description": "border-42✨"
-    },
-    "border-44✨": {
-      "value": "({generationux.rem} * 2.75)*1",
-      "type": "borderWidth",
-      "description": "border-44✨"
-    },
-    "border-48✨": {
-      "value": "({generationux.rem} * 3)*1",
-      "type": "borderWidth",
-      "description": "border-48✨"
-    },
-    "border-52✨": {
-      "value": "({generationux.rem} * 3.25)*1",
-      "type": "borderWidth",
-      "description": "border-52✨"
-    },
-    "border-56✨": {
-      "value": "({generationux.rem} * 3.5)*1",
-      "type": "borderWidth",
-      "description": "border-56✨"
-    },
-    "border-60✨": {
-      "value": "({generationux.rem} * 3.75)*1",
-      "type": "borderWidth",
-      "description": "border-60✨"
-    },
-    "border-64✨": {
-      "value": "({generationux.rem} * 4)*1",
-      "type": "borderWidth",
-      "description": "border-64✨"
-    },
-    "border-69✨": {
-      "value": "({generationux.rem} * 4.3125)*1",
-      "type": "borderWidth",
-      "description": "border-69✨"
-    },
-    "border-72✨": {
-      "value": "({generationux.rem} * 4.5)*1",
-      "type": "borderWidth",
-      "description": "border-72✨"
-    },
-    "border-80✨": {
-      "value": "({generationux.rem} * 5)*1",
-      "type": "borderWidth",
-      "description": "border-80✨"
-    },
-    "border-90✨": {
-      "value": "({generationux.rem} * 5.625)*1",
-      "type": "borderWidth",
-      "description": "border-90✨"
-    },
-    "border-92✨": {
-      "value": "({generationux.rem} * 6)*1",
-      "type": "borderWidth",
-      "description": "border-92✨"
-    },
-    "border-112✨": {
-      "value": "({generationux.rem} * 7)*1",
-      "type": "borderWidth",
-      "description": "border-112✨"
-    },
-    "border-120✨": {
-      "value": "({generationux.rem} * 7.5)*1",
-      "type": "borderWidth",
-      "description": "border-120✨"
-    },
-    "border-128✨": {
-      "value": "({generationux.rem} * 8)*1",
-      "type": "borderWidth",
-      "description": "border-128✨"
-    },
-    "border-144✨": {
-      "value": "({generationux.rem} * 9)*1",
-      "type": "borderWidth",
-      "description": "border-144✨"
-    },
-    "border-160✨": {
-      "value": "({generationux.rem} * 10)*1",
-      "type": "borderWidth",
-      "description": "border-160✨"
-    },
-    "border-168✨": {
-      "value": "({generationux.rem} * 10.5)*1",
-      "type": "borderWidth",
-      "description": "border-168✨"
-    },
-    "border-172✨": {
-      "value": "({generationux.rem} * 10.75)*1",
-      "type": "borderWidth",
-      "description": "border-172✨"
-    },
-    "border-176✨": {
-      "value": "({generationux.rem} * 11)*1",
-      "type": "borderWidth",
-      "description": "border-176✨"
-    },
-    "border-180✨": {
-      "value": "({generationux.rem} * 11.25)*1",
-      "type": "borderWidth",
-      "description": "border-180✨"
-    },
-    "border-192✨": {
-      "value": "({generationux.rem} * 12)*1",
-      "type": "borderWidth",
-      "description": "border-192✨"
-    },
-    "border-200✨": {
-      "value": "({generationux.rem} * 12.5)*1",
-      "type": "borderWidth",
-      "description": "border-200✨"
-    },
-    "border-208✨": {
-      "value": "({generationux.rem} * 13)*1",
-      "type": "borderWidth",
-      "description": "border-208✨"
-    },
-    "border-224✨": {
-      "value": "({generationux.rem} * 14)*1",
-      "type": "borderWidth",
-      "description": "border-224✨"
-    },
-    "border-240✨": {
-      "value": "({generationux.rem} * 15)*1",
-      "type": "borderWidth",
-      "description": "border-240✨"
-    },
-    "border-256✨": {
-      "value": "({generationux.rem} * 16)*1",
-      "type": "borderWidth",
-      "description": "border-256✨"
-    },
-    "border-272✨": {
-      "value": "({generationux.rem} * 17)*1",
-      "type": "borderWidth",
-      "description": "border-272✨"
-    },
-    "border-280✨": {
-      "value": "({generationux.rem} * 17.5)*1",
-      "type": "borderWidth",
-      "description": "border-280✨"
-    },
-    "border-288✨": {
-      "value": "({generationux.rem} * 18)*1",
-      "type": "borderWidth",
-      "description": "border-288✨"
-    },
-    "border-320✨": {
-      "value": "({generationux.rem} * 20)*1",
-      "type": "borderWidth",
-      "description": "border-320✨"
-    },
-    "border-360✨": {
-      "value": "({generationux.rem} * 22.5)*1",
-      "type": "borderWidth",
-      "description": "border-360✨"
-    },
-    "border-384✨": {
-      "value": "({generationux.rem} * 24)*1",
-      "type": "borderWidth",
-      "description": "border-384✨"
-    },
-    "border-400✨": {
-      "value": "({generationux.rem} * 25)*1",
-      "type": "borderWidth",
-      "description": "border-400✨"
-    },
-    "border-420✨": {
-      "value": "({generationux.rem} * 26.25)*1",
-      "type": "borderWidth",
-      "description": "border-420✨"
-    },
-    "border-440✨": {
-      "value": "({generationux.rem} * 27.5)*1",
-      "type": "borderWidth",
-      "description": "border-440✨"
-    },
-    "border-480✨": {
-      "value": "({generationux.rem} * 30)*1",
-      "type": "borderWidth",
-      "description": "border-480✨"
-    },
-    "border-720✨": {
-      "value": "({generationux.rem} * 45)*1",
-      "type": "borderWidth",
-      "description": "border-720✨"
-    },
-    "border-760✨": {
-      "value": "({generationux.rem} * 47.5)*1",
-      "type": "borderWidth",
-      "description": "border-760✨"
     }
   },
   "generationux-box-shadow": {
@@ -1843,7 +1023,7 @@
     }
   },
   "generationux-hard-box-shadow": {
-    "Brut_Top✨": {
+    "Brut_Top": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -1855,9 +1035,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Brut_Top✨"
+      "description": "Brut_Top"
     },
-    "Brut_Bottom✨": {
+    "Brut_Bottom": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -1869,9 +1049,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Brut_Bottom✨"
+      "description": "Brut_Bottom"
     },
-    "Brut_Left✨": {
+    "Brut_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.5)*1",
@@ -1883,9 +1063,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Brut_Left✨"
+      "description": "Brut_Left"
     },
-    "Brut_Right✨": {
+    "Brut_Right": {
       "value": [
         {
           "x": "({generationux.rem} * 0.5)*1",
@@ -1897,9 +1077,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Brut_Right✨"
+      "description": "Brut_Right"
     },
-    "Brut_TopLeft✨": {
+    "Brut_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.5)*1",
@@ -1911,9 +1091,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Brut_TopLeft✨"
+      "description": "Brut_TopLeft"
     },
-    "Brut_TopRight✨": {
+    "Brut_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} * 0.5)*1",
@@ -1925,9 +1105,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Brut_TopRight✨"
+      "description": "Brut_TopRight"
     },
-    "Brut_BottomLeft✨": {
+    "Brut_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.5)*1",
@@ -1939,9 +1119,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Brut_BottomLeft✨"
+      "description": "Brut_BottomLeft"
     },
-    "Brut_BottomRight✨": {
+    "Brut_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} * 0.5)*1",
@@ -1953,9 +1133,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Brut_BottomRight✨"
+      "description": "Brut_BottomRight"
     },
-    "Buona_Top✨": {
+    "Buona_Top": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -2023,9 +1203,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Buona_Top✨"
+      "description": "Buona_Top"
     },
-    "Buona_Bottom✨": {
+    "Buona_Bottom": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -2093,9 +1273,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Buona_Bottom✨"
+      "description": "Buona_Bottom"
     },
-    "Buona_Left✨": {
+    "Buona_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.05)*1",
@@ -2163,9 +1343,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Buona_Left✨"
+      "description": "Buona_Left"
     },
-    "Buona_Right✨": {
+    "Buona_Right": {
       "value": [
         {
           "x": "({generationux.rem} * 0.05)*1",
@@ -2233,9 +1413,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Buona_Right✨"
+      "description": "Buona_Right"
     },
-    "Buona_TopLeft✨": {
+    "Buona_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.05)*1",
@@ -2303,9 +1483,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Buona_TopLeft✨"
+      "description": "Buona_TopLeft"
     },
-    "Buona_TopRight✨": {
+    "Buona_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} * 0.05)*1",
@@ -2373,9 +1553,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Buona_TopRight✨"
+      "description": "Buona_TopRight"
     },
-    "Buona_BottomLeft✨": {
+    "Buona_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.05)*1",
@@ -2443,9 +1623,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Buona_BottomLeft✨"
+      "description": "Buona_BottomLeft"
     },
-    "Buona_BottomRight✨": {
+    "Buona_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} * 0.05)*1",
@@ -2513,9 +1693,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Buona_BottomRight✨"
+      "description": "Buona_BottomRight"
     },
-    "Flare_Top✨": {
+    "Flare_Top": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -2551,9 +1731,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Flare_Top✨"
+      "description": "Flare_Top"
     },
-    "Flare_Bottom✨": {
+    "Flare_Bottom": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -2589,9 +1769,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Flare_Bottom✨"
+      "description": "Flare_Bottom"
     },
-    "Flare_Left✨": {
+    "Flare_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} * 1)*1",
@@ -2627,9 +1807,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Flare_Left✨"
+      "description": "Flare_Left"
     },
-    "Flare_Right✨": {
+    "Flare_Right": {
       "value": [
         {
           "x": "({generationux.rem} * 1)*1",
@@ -2665,9 +1845,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Flare_Right✨"
+      "description": "Flare_Right"
     },
-    "Flare_TopLeft✨": {
+    "Flare_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 1)*1",
@@ -2703,9 +1883,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Flare_TopLeft✨"
+      "description": "Flare_TopLeft"
     },
-    "Flare_TopRight✨": {
+    "Flare_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} * 1)*1",
@@ -2741,9 +1921,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Flare_TopRight✨"
+      "description": "Flare_TopRight"
     },
-    "Flare_BottomLeft✨": {
+    "Flare_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 1)*1",
@@ -2779,9 +1959,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Flare_BottomLeft✨"
+      "description": "Flare_BottomLeft"
     },
-    "Flare_BottomRight✨": {
+    "Flare_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} * 1)*1",
@@ -2817,9 +1997,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Flare_BottomRight✨"
+      "description": "Flare_BottomRight"
     },
-    "Layers_Top✨": {
+    "Layers_Top": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0)*1",
@@ -2871,9 +2051,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Layers_Top✨"
+      "description": "Layers_Top"
     },
-    "Layers_Bottom✨": {
+    "Layers_Bottom": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0)*1",
@@ -2925,9 +2105,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Layers_Bottom✨"
+      "description": "Layers_Bottom"
     },
-    "Layers_Left✨": {
+    "Layers_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.25)*1",
@@ -2979,9 +2159,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Layers_Left✨"
+      "description": "Layers_Left"
     },
-    "Layers_Right✨": {
+    "Layers_Right": {
       "value": [
         {
           "x": "({generationux.rem} * 0.25)*1",
@@ -3033,9 +2213,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Layers_Right✨"
+      "description": "Layers_Right"
     },
-    "Layers_TopLeft✨": {
+    "Layers_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.25)*1",
@@ -3087,9 +2267,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Layers_TopLeft✨"
+      "description": "Layers_TopLeft"
     },
-    "Layers_TopRight✨": {
+    "Layers_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} * 0.25)*1",
@@ -3141,9 +2321,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Layers_TopRight✨"
+      "description": "Layers_TopRight"
     },
-    "Layers_BottomLeft✨": {
+    "Layers_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.25)*1",
@@ -3195,9 +2375,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Layers_BottomLeft✨"
+      "description": "Layers_BottomLeft"
     },
-    "Layers_BottomRight✨": {
+    "Layers_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} * 0.25)*1",
@@ -3249,9 +2429,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Layers_BottomRight✨"
+      "description": "Layers_BottomRight"
     },
-    "System✨": {
+    "System": {
       "value": [
         {
           "x": "({generationux.rem} * 0.25)*1",
@@ -3335,9 +2515,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "System✨"
+      "description": "System"
     },
-    "Tendo✨": {
+    "Tendo": {
       "value": [
         {
           "x": "0",
@@ -3389,9 +2569,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Tendo✨"
+      "description": "Tendo"
     },
-    "Tosh✨": {
+    "Tosh": {
       "value": [
         {
           "x": "({generationux.rem} * 0.25)*1",
@@ -3475,9 +2655,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Tosh✨"
+      "description": "Tosh"
     },
-    "Turbo✨": {
+    "Turbo": {
       "value": [
         {
           "x": "({generationux.rem} * 0.5)*1",
@@ -3553,11 +2733,11 @@
         }
       ],
       "type": "boxShadow",
-      "description": "Turbo✨"
+      "description": "Turbo"
     }
   },
   "generationux-soft-box-shadow": {
-    "2xl_Top✨": {
+    "2xl_Top": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -3609,9 +2789,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "2xl_Top✨"
+      "description": "2xl_Top"
     },
-    "xl_Top✨": {
+    "xl_Top": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -3663,9 +2843,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xl_Top✨"
+      "description": "xl_Top"
     },
-    "lg_Top✨": {
+    "lg_Top": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -3717,9 +2897,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "lg_Top✨"
+      "description": "lg_Top"
     },
-    "sm_Top✨": {
+    "sm_Top": {
       "value": [
         {
           "x": "({generationux.rem} *0)*1",
@@ -3771,9 +2951,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "sm_Top✨"
+      "description": "sm_Top"
     },
-    "xs_Top✨": {
+    "xs_Top": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -3825,9 +3005,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xs_Top✨"
+      "description": "xs_Top"
     },
-    "2xl_Bottom✨": {
+    "2xl_Bottom": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -3879,9 +3059,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "2xl_Bottom✨"
+      "description": "2xl_Bottom"
     },
-    "xl_Bottom✨": {
+    "xl_Bottom": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -3933,9 +3113,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xl_Bottom✨"
+      "description": "xl_Bottom"
     },
-    "lg_Bottom✨": {
+    "lg_Bottom": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -3987,9 +3167,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "lg_Bottom✨"
+      "description": "lg_Bottom"
     },
-    "sm_Bottom✨": {
+    "sm_Bottom": {
       "value": [
         {
           "x": "({generationux.rem} *0)*1",
@@ -4041,9 +3221,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "sm_Bottom✨"
+      "description": "sm_Bottom"
     },
-    "xs_Bottom✨": {
+    "xs_Bottom": {
       "value": [
         {
           "x": "({generationux.rem} * 0)*1",
@@ -4095,9 +3275,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xs_Bottom✨"
+      "description": "xs_Bottom"
     },
-    "2xl_Left✨": {
+    "2xl_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} * 21)*1",
@@ -4149,9 +3329,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "2xl_Left✨"
+      "description": "2xl_Left"
     },
-    "xl_Left✨": {
+    "xl_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} * 8)*1",
@@ -4203,9 +3383,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xl_Left✨"
+      "description": "xl_Left"
     },
-    "lg_Left✨": {
+    "lg_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} * 3)*1",
@@ -4257,9 +3437,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "lg_Left✨"
+      "description": "lg_Left"
     },
-    "sm_Left✨": {
+    "sm_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} *1)*1",
@@ -4311,9 +3491,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "sm_Left✨"
+      "description": "sm_Left"
     },
-    "xs_Left✨": {
+    "xs_Left": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.62)*1",
@@ -4365,9 +3545,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xs_Left✨"
+      "description": "xs_Left"
     },
-    "2xl_Right✨": {
+    "2xl_Right": {
       "value": [
         {
           "x": "({generationux.rem} * 21)*1",
@@ -4419,9 +3599,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "2xl_Right✨"
+      "description": "2xl_Right"
     },
-    "xl_Right✨": {
+    "xl_Right": {
       "value": [
         {
           "x": "({generationux.rem} * 8)*1",
@@ -4473,9 +3653,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xl_Right✨"
+      "description": "xl_Right"
     },
-    "lg_Right✨": {
+    "lg_Right": {
       "value": [
         {
           "x": "({generationux.rem} * 3)*1",
@@ -4527,9 +3707,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "lg_Right✨"
+      "description": "lg_Right"
     },
-    "sm_Right✨": {
+    "sm_Right": {
       "value": [
         {
           "x": "({generationux.rem} *1)*1",
@@ -4581,9 +3761,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "sm_Right✨"
+      "description": "sm_Right"
     },
-    "xs_Right✨": {
+    "xs_Right": {
       "value": [
         {
           "x": "({generationux.rem} * 0.62)*1",
@@ -4635,9 +3815,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xs_Right✨"
+      "description": "xs_Right"
     },
-    "2xl_TopLeft✨": {
+    "2xl_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 21)*1",
@@ -4689,9 +3869,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "2xl_TopLeft✨"
+      "description": "2xl_TopLeft"
     },
-    "xl_TopLeft✨": {
+    "xl_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 8)*1",
@@ -4743,9 +3923,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xl_TopLeft✨"
+      "description": "xl_TopLeft"
     },
-    "lg_TopLeft✨": {
+    "lg_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 3)*1",
@@ -4797,9 +3977,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "lg_TopLeft✨"
+      "description": "lg_TopLeft"
     },
-    "sm_TopLeft✨": {
+    "sm_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} *1)*1",
@@ -4851,9 +4031,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "sm_TopLeft✨"
+      "description": "sm_TopLeft"
     },
-    "xs_TopLeft✨": {
+    "xs_TopLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.62)*1",
@@ -4905,9 +4085,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xs_TopLeft✨"
+      "description": "xs_TopLeft"
     },
-    "2xl_TopRight✨": {
+    "2xl_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} * 21)*1",
@@ -4959,9 +4139,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "2xl_TopRight✨"
+      "description": "2xl_TopRight"
     },
-    "xl_TopRight✨": {
+    "xl_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} * 8)*1",
@@ -5013,9 +4193,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xl_TopRight✨"
+      "description": "xl_TopRight"
     },
-    "lg_TopRight✨": {
+    "lg_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} * 3)*1",
@@ -5067,9 +4247,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "lg_TopRight✨"
+      "description": "lg_TopRight"
     },
-    "sm_TopRight✨": {
+    "sm_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} *1)*1",
@@ -5121,9 +4301,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "sm_TopRight✨"
+      "description": "sm_TopRight"
     },
-    "xs_TopRight✨": {
+    "xs_TopRight": {
       "value": [
         {
           "x": "({generationux.rem} * 0.62)*1",
@@ -5175,9 +4355,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xs_TopRight✨"
+      "description": "xs_TopRight"
     },
-    "2xl_BottomLeft✨": {
+    "2xl_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 21)*1",
@@ -5229,9 +4409,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "2xl_BottomLeft✨"
+      "description": "2xl_BottomLeft"
     },
-    "xl_BottomLeft✨": {
+    "xl_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 8)*1",
@@ -5283,9 +4463,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xl_BottomLeft✨"
+      "description": "xl_BottomLeft"
     },
-    "lg_BottomLeft✨": {
+    "lg_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 3)*1",
@@ -5337,9 +4517,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "lg_BottomLeft✨"
+      "description": "lg_BottomLeft"
     },
-    "sm_BottomLeft✨": {
+    "sm_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} *1)*1",
@@ -5391,9 +4571,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "sm_BottomLeft✨"
+      "description": "sm_BottomLeft"
     },
-    "xs_BottomLeft✨": {
+    "xs_BottomLeft": {
       "value": [
         {
           "x": "(-{generationux.rem} * 0.62)*1",
@@ -5445,9 +4625,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xs_BottomLeft✨"
+      "description": "xs_BottomLeft"
     },
-    "2xl_BottomRight✨": {
+    "2xl_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} * 21)*1",
@@ -5499,9 +4679,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "2xl_BottomRight✨"
+      "description": "2xl_BottomRight"
     },
-    "xl_BottomRight✨": {
+    "xl_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} * 8)*1",
@@ -5553,9 +4733,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xl_BottomRight✨"
+      "description": "xl_BottomRight"
     },
-    "lg_BottomRight✨": {
+    "lg_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} * 3)*1",
@@ -5607,9 +4787,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "lg_BottomRight✨"
+      "description": "lg_BottomRight"
     },
-    "sm_BottomRight✨": {
+    "sm_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} *1)*1",
@@ -5661,9 +4841,9 @@
         }
       ],
       "type": "boxShadow",
-      "description": "sm_BottomRight✨"
+      "description": "sm_BottomRight"
     },
-    "xs_BottomRight✨": {
+    "xs_BottomRight": {
       "value": [
         {
           "x": "({generationux.rem} * 0.62)*1",
@@ -5715,7 +4895,7 @@
         }
       ],
       "type": "boxShadow",
-      "description": "xs_BottomRight✨"
+      "description": "xs_BottomRight"
     }
   },
   "generationux-styles": {
@@ -5819,85 +4999,85 @@
       "type": "color",
       "description": "boxshadow"
     },
-    "candy_min45°✨": {
+    "candy_min45°": {
       "value": "linear-gradient(-45deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 2%, #FFFFFF 2%, #FFFFFF 3%, #1e293b 3%, #1e293b 4%, #FFFFFF 4%, #FFFFFF 5%, #1e293b 5%, #1e293b 6%, #FFFFFF 6%, #FFFFFF 7%, #1e293b 7%, #1e293b 8%, #FFFFFF 8%, #FFFFFF 9%, #1e293b 9%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 12%, #FFFFFF 12%, #FFFFFF 13%, #1e293b 13%, #1e293b 14%, #FFFFFF 14%, #FFFFFF 15%, #1e293b 15%, #1e293b 16%, #FFFFFF 16%, #FFFFFF 17%, #1e293b 17%, #1e293b 18%, #FFFFFF 18%, #FFFFFF 19%, #1e293b 19%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 22%, #FFFFFF 22%, #FFFFFF 23%, #1e293b 23%, #1e293b 24%, #FFFFFF 24%, #FFFFFF 25%, #1e293b 25%, #1e293b 26%, #FFFFFF 26%, #FFFFFF 27%, #1e293b 27%, #1e293b 28%, #FFFFFF 28%, #FFFFFF 29%, #1e293b 29%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 32%, #FFFFFF 32%, #FFFFFF 33%, #1e293b 33%, #1e293b 34%, #FFFFFF 34%, #FFFFFF 35%, #1e293b 35%, #1e293b 36%, #FFFFFF 36%, #FFFFFF 37%, #1e293b 37%, #1e293b 38%, #FFFFFF 38%, #FFFFFF 39%, #1e293b 39%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 42%, #FFFFFF 42%, #FFFFFF 43%, #1e293b 43%, #1e293b 44%, #FFFFFF 44%, #FFFFFF 45%, #1e293b 45%, #1e293b 46%, #FFFFFF 46%, #FFFFFF 47%, #1e293b 47%, #1e293b 48%, #FFFFFF 48%, #FFFFFF 49%, #1e293b 49%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 52%, #FFFFFF 52%, #FFFFFF 53%, #1e293b 53%, #1e293b 54%, #FFFFFF 54%, #FFFFFF 55%, #1e293b 55%, #1e293b 56%, #FFFFFF 56%, #FFFFFF 57%, #1e293b 57%, #1e293b 58%, #FFFFFF 58%, #FFFFFF 59%, #1e293b 59%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 62%, #FFFFFF 62%, #FFFFFF 63%, #1e293b 63%, #1e293b 64%, #FFFFFF 64%, #FFFFFF 65%, #1e293b 65%, #1e293b 66%, #FFFFFF 66%, #FFFFFF 67%, #1e293b 67%, #1e293b 68%, #FFFFFF 68%, #FFFFFF 69%, #1e293b 69%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 72%, #FFFFFF 72%, #FFFFFF 73%, #1e293b 73%, #1e293b 74%, #FFFFFF 74%, #FFFFFF 75%, #1e293b 75%, #1e293b 76%, #FFFFFF 76%, #FFFFFF 77%, #1e293b 77%, #1e293b 78%, #FFFFFF 78%, #FFFFFF 79%, #1e293b 79%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 82%, #FFFFFF 82%, #FFFFFF 83%, #1e293b 83%, #1e293b 84%, #FFFFFF 84%, #FFFFFF 85%, #1e293b 85%, #1e293b 86%, #FFFFFF 86%, #FFFFFF 87%, #1e293b 87%, #1e293b 88%, #FFFFFF 88%, #FFFFFF 89%, #1e293b 89%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 92%, #FFFFFF 92%, #FFFFFF 93%, #1e293b 93%, #1e293b 94%, #FFFFFF 94%, #FFFFFF 95%, #1e293b 95%, #1e293b 96%, #FFFFFF 96%, #FFFFFF 97%, #1e293b 97%, #1e293b 98%, #FFFFFF 98%, #FFFFFF 99%, #1e293b 99%, #1e293b 100%)",
       "type": "color",
-      "description": "candy_min45°✨"
+      "description": "candy_min45°"
     },
-    "candy_45°✨": {
+    "candy_45°": {
       "value": "linear-gradient(45deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 2%, #FFFFFF 2%, #FFFFFF 3%, #1e293b 3%, #1e293b 4%, #FFFFFF 4%, #FFFFFF 5%, #1e293b 5%, #1e293b 6%, #FFFFFF 6%, #FFFFFF 7%, #1e293b 7%, #1e293b 8%, #FFFFFF 8%, #FFFFFF 9%, #1e293b 9%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 12%, #FFFFFF 12%, #FFFFFF 13%, #1e293b 13%, #1e293b 14%, #FFFFFF 14%, #FFFFFF 15%, #1e293b 15%, #1e293b 16%, #FFFFFF 16%, #FFFFFF 17%, #1e293b 17%, #1e293b 18%, #FFFFFF 18%, #FFFFFF 19%, #1e293b 19%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 22%, #FFFFFF 22%, #FFFFFF 23%, #1e293b 23%, #1e293b 24%, #FFFFFF 24%, #FFFFFF 25%, #1e293b 25%, #1e293b 26%, #FFFFFF 26%, #FFFFFF 27%, #1e293b 27%, #1e293b 28%, #FFFFFF 28%, #FFFFFF 29%, #1e293b 29%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 32%, #FFFFFF 32%, #FFFFFF 33%, #1e293b 33%, #1e293b 34%, #FFFFFF 34%, #FFFFFF 35%, #1e293b 35%, #1e293b 36%, #FFFFFF 36%, #FFFFFF 37%, #1e293b 37%, #1e293b 38%, #FFFFFF 38%, #FFFFFF 39%, #1e293b 39%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 42%, #FFFFFF 42%, #FFFFFF 43%, #1e293b 43%, #1e293b 44%, #FFFFFF 44%, #FFFFFF 45%, #1e293b 45%, #1e293b 46%, #FFFFFF 46%, #FFFFFF 47%, #1e293b 47%, #1e293b 48%, #FFFFFF 48%, #FFFFFF 49%, #1e293b 49%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 52%, #FFFFFF 52%, #FFFFFF 53%, #1e293b 53%, #1e293b 54%, #FFFFFF 54%, #FFFFFF 55%, #1e293b 55%, #1e293b 56%, #FFFFFF 56%, #FFFFFF 57%, #1e293b 57%, #1e293b 58%, #FFFFFF 58%, #FFFFFF 59%, #1e293b 59%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 62%, #FFFFFF 62%, #FFFFFF 63%, #1e293b 63%, #1e293b 64%, #FFFFFF 64%, #FFFFFF 65%, #1e293b 65%, #1e293b 66%, #FFFFFF 66%, #FFFFFF 67%, #1e293b 67%, #1e293b 68%, #FFFFFF 68%, #FFFFFF 69%, #1e293b 69%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 72%, #FFFFFF 72%, #FFFFFF 73%, #1e293b 73%, #1e293b 74%, #FFFFFF 74%, #FFFFFF 75%, #1e293b 75%, #1e293b 76%, #FFFFFF 76%, #FFFFFF 77%, #1e293b 77%, #1e293b 78%, #FFFFFF 78%, #FFFFFF 79%, #1e293b 79%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 82%, #FFFFFF 82%, #FFFFFF 83%, #1e293b 83%, #1e293b 84%, #FFFFFF 84%, #FFFFFF 85%, #1e293b 85%, #1e293b 86%, #FFFFFF 86%, #FFFFFF 87%, #1e293b 87%, #1e293b 88%, #FFFFFF 88%, #FFFFFF 89%, #1e293b 89%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 92%, #FFFFFF 92%, #FFFFFF 93%, #1e293b 93%, #1e293b 94%, #FFFFFF 94%, #FFFFFF 95%, #1e293b 95%, #1e293b 96%, #FFFFFF 96%, #FFFFFF 97%, #1e293b 97%, #1e293b 98%, #FFFFFF 98%, #FFFFFF 99%, #1e293b 99%, #1e293b 100%)",
       "type": "color",
-      "description": "candy_45°✨"
+      "description": "candy_45°"
     },
-    "candy_min60°✨": {
+    "candy_min60°": {
       "value": "linear-gradient(-60deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 2%, #FFFFFF 2%, #FFFFFF 3%, #1e293b 3%, #1e293b 4%, #FFFFFF 4%, #FFFFFF 5%, #1e293b 5%, #1e293b 6%, #FFFFFF 6%, #FFFFFF 7%, #1e293b 7%, #1e293b 8%, #FFFFFF 8%, #FFFFFF 9%, #1e293b 9%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 12%, #FFFFFF 12%, #FFFFFF 13%, #1e293b 13%, #1e293b 14%, #FFFFFF 14%, #FFFFFF 15%, #1e293b 15%, #1e293b 16%, #FFFFFF 16%, #FFFFFF 17%, #1e293b 17%, #1e293b 18%, #FFFFFF 18%, #FFFFFF 19%, #1e293b 19%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 22%, #FFFFFF 22%, #FFFFFF 23%, #1e293b 23%, #1e293b 24%, #FFFFFF 24%, #FFFFFF 25%, #1e293b 25%, #1e293b 26%, #FFFFFF 26%, #FFFFFF 27%, #1e293b 27%, #1e293b 28%, #FFFFFF 28%, #FFFFFF 29%, #1e293b 29%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 32%, #FFFFFF 32%, #FFFFFF 33%, #1e293b 33%, #1e293b 34%, #FFFFFF 34%, #FFFFFF 35%, #1e293b 35%, #1e293b 36%, #FFFFFF 36%, #FFFFFF 37%, #1e293b 37%, #1e293b 38%, #FFFFFF 38%, #FFFFFF 39%, #1e293b 39%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 42%, #FFFFFF 42%, #FFFFFF 43%, #1e293b 43%, #1e293b 44%, #FFFFFF 44%, #FFFFFF 45%, #1e293b 45%, #1e293b 46%, #FFFFFF 46%, #FFFFFF 47%, #1e293b 47%, #1e293b 48%, #FFFFFF 48%, #FFFFFF 49%, #1e293b 49%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 52%, #FFFFFF 52%, #FFFFFF 53%, #1e293b 53%, #1e293b 54%, #FFFFFF 54%, #FFFFFF 55%, #1e293b 55%, #1e293b 56%, #FFFFFF 56%, #FFFFFF 57%, #1e293b 57%, #1e293b 58%, #FFFFFF 58%, #FFFFFF 59%, #1e293b 59%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 62%, #FFFFFF 62%, #FFFFFF 63%, #1e293b 63%, #1e293b 64%, #FFFFFF 64%, #FFFFFF 65%, #1e293b 65%, #1e293b 66%, #FFFFFF 66%, #FFFFFF 67%, #1e293b 67%, #1e293b 68%, #FFFFFF 68%, #FFFFFF 69%, #1e293b 69%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 72%, #FFFFFF 72%, #FFFFFF 73%, #1e293b 73%, #1e293b 74%, #FFFFFF 74%, #FFFFFF 75%, #1e293b 75%, #1e293b 76%, #FFFFFF 76%, #FFFFFF 77%, #1e293b 77%, #1e293b 78%, #FFFFFF 78%, #FFFFFF 79%, #1e293b 79%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 82%, #FFFFFF 82%, #FFFFFF 83%, #1e293b 83%, #1e293b 84%, #FFFFFF 84%, #FFFFFF 85%, #1e293b 85%, #1e293b 86%, #FFFFFF 86%, #FFFFFF 87%, #1e293b 87%, #1e293b 88%, #FFFFFF 88%, #FFFFFF 89%, #1e293b 89%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 92%, #FFFFFF 92%, #FFFFFF 93%, #1e293b 93%, #1e293b 94%, #FFFFFF 94%, #FFFFFF 95%, #1e293b 95%, #1e293b 96%, #FFFFFF 96%, #FFFFFF 97%, #1e293b 97%, #1e293b 98%, #FFFFFF 98%, #FFFFFF 99%, #1e293b 99%, #1e293b 100%)",
       "type": "color",
-      "description": "candy_min60°✨"
+      "description": "candy_min60°"
     },
-    "candy_60°✨": {
+    "candy_60°": {
       "value": "linear-gradient(60deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 2%, #FFFFFF 2%, #FFFFFF 3%, #1e293b 3%, #1e293b 4%, #FFFFFF 4%, #FFFFFF 5%, #1e293b 5%, #1e293b 6%, #FFFFFF 6%, #FFFFFF 7%, #1e293b 7%, #1e293b 8%, #FFFFFF 8%, #FFFFFF 9%, #1e293b 9%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 12%, #FFFFFF 12%, #FFFFFF 13%, #1e293b 13%, #1e293b 14%, #FFFFFF 14%, #FFFFFF 15%, #1e293b 15%, #1e293b 16%, #FFFFFF 16%, #FFFFFF 17%, #1e293b 17%, #1e293b 18%, #FFFFFF 18%, #FFFFFF 19%, #1e293b 19%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 22%, #FFFFFF 22%, #FFFFFF 23%, #1e293b 23%, #1e293b 24%, #FFFFFF 24%, #FFFFFF 25%, #1e293b 25%, #1e293b 26%, #FFFFFF 26%, #FFFFFF 27%, #1e293b 27%, #1e293b 28%, #FFFFFF 28%, #FFFFFF 29%, #1e293b 29%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 32%, #FFFFFF 32%, #FFFFFF 33%, #1e293b 33%, #1e293b 34%, #FFFFFF 34%, #FFFFFF 35%, #1e293b 35%, #1e293b 36%, #FFFFFF 36%, #FFFFFF 37%, #1e293b 37%, #1e293b 38%, #FFFFFF 38%, #FFFFFF 39%, #1e293b 39%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 42%, #FFFFFF 42%, #FFFFFF 43%, #1e293b 43%, #1e293b 44%, #FFFFFF 44%, #FFFFFF 45%, #1e293b 45%, #1e293b 46%, #FFFFFF 46%, #FFFFFF 47%, #1e293b 47%, #1e293b 48%, #FFFFFF 48%, #FFFFFF 49%, #1e293b 49%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 52%, #FFFFFF 52%, #FFFFFF 53%, #1e293b 53%, #1e293b 54%, #FFFFFF 54%, #FFFFFF 55%, #1e293b 55%, #1e293b 56%, #FFFFFF 56%, #FFFFFF 57%, #1e293b 57%, #1e293b 58%, #FFFFFF 58%, #FFFFFF 59%, #1e293b 59%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 62%, #FFFFFF 62%, #FFFFFF 63%, #1e293b 63%, #1e293b 64%, #FFFFFF 64%, #FFFFFF 65%, #1e293b 65%, #1e293b 66%, #FFFFFF 66%, #FFFFFF 67%, #1e293b 67%, #1e293b 68%, #FFFFFF 68%, #FFFFFF 69%, #1e293b 69%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 72%, #FFFFFF 72%, #FFFFFF 73%, #1e293b 73%, #1e293b 74%, #FFFFFF 74%, #FFFFFF 75%, #1e293b 75%, #1e293b 76%, #FFFFFF 76%, #FFFFFF 77%, #1e293b 77%, #1e293b 78%, #FFFFFF 78%, #FFFFFF 79%, #1e293b 79%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 82%, #FFFFFF 82%, #FFFFFF 83%, #1e293b 83%, #1e293b 84%, #FFFFFF 84%, #FFFFFF 85%, #1e293b 85%, #1e293b 86%, #FFFFFF 86%, #FFFFFF 87%, #1e293b 87%, #1e293b 88%, #FFFFFF 88%, #FFFFFF 89%, #1e293b 89%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 92%, #FFFFFF 92%, #FFFFFF 93%, #1e293b 93%, #1e293b 94%, #FFFFFF 94%, #FFFFFF 95%, #1e293b 95%, #1e293b 96%, #FFFFFF 96%, #FFFFFF 97%, #1e293b 97%, #1e293b 98%, #FFFFFF 98%, #FFFFFF 99%, #1e293b 99%, #1e293b 100%)",
       "type": "color",
-      "description": "candy_60°✨"
+      "description": "candy_60°"
     },
-    "candy_min75°✨": {
+    "candy_min75°": {
       "value": "linear-gradient(-75deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 2%, #FFFFFF 2%, #FFFFFF 3%, #1e293b 3%, #1e293b 4%, #FFFFFF 4%, #FFFFFF 5%, #1e293b 5%, #1e293b 6%, #FFFFFF 6%, #FFFFFF 7%, #1e293b 7%, #1e293b 8%, #FFFFFF 8%, #FFFFFF 9%, #1e293b 9%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 12%, #FFFFFF 12%, #FFFFFF 13%, #1e293b 13%, #1e293b 14%, #FFFFFF 14%, #FFFFFF 15%, #1e293b 15%, #1e293b 16%, #FFFFFF 16%, #FFFFFF 17%, #1e293b 17%, #1e293b 18%, #FFFFFF 18%, #FFFFFF 19%, #1e293b 19%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 22%, #FFFFFF 22%, #FFFFFF 23%, #1e293b 23%, #1e293b 24%, #FFFFFF 24%, #FFFFFF 25%, #1e293b 25%, #1e293b 26%, #FFFFFF 26%, #FFFFFF 27%, #1e293b 27%, #1e293b 28%, #FFFFFF 28%, #FFFFFF 29%, #1e293b 29%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 32%, #FFFFFF 32%, #FFFFFF 33%, #1e293b 33%, #1e293b 34%, #FFFFFF 34%, #FFFFFF 35%, #1e293b 35%, #1e293b 36%, #FFFFFF 36%, #FFFFFF 37%, #1e293b 37%, #1e293b 38%, #FFFFFF 38%, #FFFFFF 39%, #1e293b 39%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 42%, #FFFFFF 42%, #FFFFFF 43%, #1e293b 43%, #1e293b 44%, #FFFFFF 44%, #FFFFFF 45%, #1e293b 45%, #1e293b 46%, #FFFFFF 46%, #FFFFFF 47%, #1e293b 47%, #1e293b 48%, #FFFFFF 48%, #FFFFFF 49%, #1e293b 49%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 52%, #FFFFFF 52%, #FFFFFF 53%, #1e293b 53%, #1e293b 54%, #FFFFFF 54%, #FFFFFF 55%, #1e293b 55%, #1e293b 56%, #FFFFFF 56%, #FFFFFF 57%, #1e293b 57%, #1e293b 58%, #FFFFFF 58%, #FFFFFF 59%, #1e293b 59%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 62%, #FFFFFF 62%, #FFFFFF 63%, #1e293b 63%, #1e293b 64%, #FFFFFF 64%, #FFFFFF 65%, #1e293b 65%, #1e293b 66%, #FFFFFF 66%, #FFFFFF 67%, #1e293b 67%, #1e293b 68%, #FFFFFF 68%, #FFFFFF 69%, #1e293b 69%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 72%, #FFFFFF 72%, #FFFFFF 73%, #1e293b 73%, #1e293b 74%, #FFFFFF 74%, #FFFFFF 75%, #1e293b 75%, #1e293b 76%, #FFFFFF 76%, #FFFFFF 77%, #1e293b 77%, #1e293b 78%, #FFFFFF 78%, #FFFFFF 79%, #1e293b 79%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 82%, #FFFFFF 82%, #FFFFFF 83%, #1e293b 83%, #1e293b 84%, #FFFFFF 84%, #FFFFFF 85%, #1e293b 85%, #1e293b 86%, #FFFFFF 86%, #FFFFFF 87%, #1e293b 87%, #1e293b 88%, #FFFFFF 88%, #FFFFFF 89%, #1e293b 89%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 92%, #FFFFFF 92%, #FFFFFF 93%, #1e293b 93%, #1e293b 94%, #FFFFFF 94%, #FFFFFF 95%, #1e293b 95%, #1e293b 96%, #FFFFFF 96%, #FFFFFF 97%, #1e293b 97%, #1e293b 98%, #FFFFFF 98%, #FFFFFF 99%, #1e293b 99%, #1e293b 100%)",
       "type": "color",
-      "description": "candy_min75°✨"
+      "description": "candy_min75°"
     },
-    "candy_75°✨": {
+    "candy_75°": {
       "value": "linear-gradient(75deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 2%, #FFFFFF 2%, #FFFFFF 3%, #1e293b 3%, #1e293b 4%, #FFFFFF 4%, #FFFFFF 5%, #1e293b 5%, #1e293b 6%, #FFFFFF 6%, #FFFFFF 7%, #1e293b 7%, #1e293b 8%, #FFFFFF 8%, #FFFFFF 9%, #1e293b 9%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 12%, #FFFFFF 12%, #FFFFFF 13%, #1e293b 13%, #1e293b 14%, #FFFFFF 14%, #FFFFFF 15%, #1e293b 15%, #1e293b 16%, #FFFFFF 16%, #FFFFFF 17%, #1e293b 17%, #1e293b 18%, #FFFFFF 18%, #FFFFFF 19%, #1e293b 19%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 22%, #FFFFFF 22%, #FFFFFF 23%, #1e293b 23%, #1e293b 24%, #FFFFFF 24%, #FFFFFF 25%, #1e293b 25%, #1e293b 26%, #FFFFFF 26%, #FFFFFF 27%, #1e293b 27%, #1e293b 28%, #FFFFFF 28%, #FFFFFF 29%, #1e293b 29%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 32%, #FFFFFF 32%, #FFFFFF 33%, #1e293b 33%, #1e293b 34%, #FFFFFF 34%, #FFFFFF 35%, #1e293b 35%, #1e293b 36%, #FFFFFF 36%, #FFFFFF 37%, #1e293b 37%, #1e293b 38%, #FFFFFF 38%, #FFFFFF 39%, #1e293b 39%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 42%, #FFFFFF 42%, #FFFFFF 43%, #1e293b 43%, #1e293b 44%, #FFFFFF 44%, #FFFFFF 45%, #1e293b 45%, #1e293b 46%, #FFFFFF 46%, #FFFFFF 47%, #1e293b 47%, #1e293b 48%, #FFFFFF 48%, #FFFFFF 49%, #1e293b 49%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 52%, #FFFFFF 52%, #FFFFFF 53%, #1e293b 53%, #1e293b 54%, #FFFFFF 54%, #FFFFFF 55%, #1e293b 55%, #1e293b 56%, #FFFFFF 56%, #FFFFFF 57%, #1e293b 57%, #1e293b 58%, #FFFFFF 58%, #FFFFFF 59%, #1e293b 59%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 62%, #FFFFFF 62%, #FFFFFF 63%, #1e293b 63%, #1e293b 64%, #FFFFFF 64%, #FFFFFF 65%, #1e293b 65%, #1e293b 66%, #FFFFFF 66%, #FFFFFF 67%, #1e293b 67%, #1e293b 68%, #FFFFFF 68%, #FFFFFF 69%, #1e293b 69%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 72%, #FFFFFF 72%, #FFFFFF 73%, #1e293b 73%, #1e293b 74%, #FFFFFF 74%, #FFFFFF 75%, #1e293b 75%, #1e293b 76%, #FFFFFF 76%, #FFFFFF 77%, #1e293b 77%, #1e293b 78%, #FFFFFF 78%, #FFFFFF 79%, #1e293b 79%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 82%, #FFFFFF 82%, #FFFFFF 83%, #1e293b 83%, #1e293b 84%, #FFFFFF 84%, #FFFFFF 85%, #1e293b 85%, #1e293b 86%, #FFFFFF 86%, #FFFFFF 87%, #1e293b 87%, #1e293b 88%, #FFFFFF 88%, #FFFFFF 89%, #1e293b 89%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 92%, #FFFFFF 92%, #FFFFFF 93%, #1e293b 93%, #1e293b 94%, #FFFFFF 94%, #FFFFFF 95%, #1e293b 95%, #1e293b 96%, #FFFFFF 96%, #FFFFFF 97%, #1e293b 97%, #1e293b 98%, #FFFFFF 98%, #FFFFFF 99%, #1e293b 99%, #1e293b 100%)",
       "type": "color",
-      "description": "candy_75°✨"
+      "description": "candy_75°"
     },
-    "candy_0°✨": {
+    "candy_0°": {
       "value": "linear-gradient(0deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 2%, #FFFFFF 2%, #FFFFFF 3%, #1e293b 3%, #1e293b 4%, #FFFFFF 4%, #FFFFFF 5%, #1e293b 5%, #1e293b 6%, #FFFFFF 6%, #FFFFFF 7%, #1e293b 7%, #1e293b 8%, #FFFFFF 8%, #FFFFFF 9%, #1e293b 9%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 12%, #FFFFFF 12%, #FFFFFF 13%, #1e293b 13%, #1e293b 14%, #FFFFFF 14%, #FFFFFF 15%, #1e293b 15%, #1e293b 16%, #FFFFFF 16%, #FFFFFF 17%, #1e293b 17%, #1e293b 18%, #FFFFFF 18%, #FFFFFF 19%, #1e293b 19%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 22%, #FFFFFF 22%, #FFFFFF 23%, #1e293b 23%, #1e293b 24%, #FFFFFF 24%, #FFFFFF 25%, #1e293b 25%, #1e293b 26%, #FFFFFF 26%, #FFFFFF 27%, #1e293b 27%, #1e293b 28%, #FFFFFF 28%, #FFFFFF 29%, #1e293b 29%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 32%, #FFFFFF 32%, #FFFFFF 33%, #1e293b 33%, #1e293b 34%, #FFFFFF 34%, #FFFFFF 35%, #1e293b 35%, #1e293b 36%, #FFFFFF 36%, #FFFFFF 37%, #1e293b 37%, #1e293b 38%, #FFFFFF 38%, #FFFFFF 39%, #1e293b 39%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 42%, #FFFFFF 42%, #FFFFFF 43%, #1e293b 43%, #1e293b 44%, #FFFFFF 44%, #FFFFFF 45%, #1e293b 45%, #1e293b 46%, #FFFFFF 46%, #FFFFFF 47%, #1e293b 47%, #1e293b 48%, #FFFFFF 48%, #FFFFFF 49%, #1e293b 49%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 52%, #FFFFFF 52%, #FFFFFF 53%, #1e293b 53%, #1e293b 54%, #FFFFFF 54%, #FFFFFF 55%, #1e293b 55%, #1e293b 56%, #FFFFFF 56%, #FFFFFF 57%, #1e293b 57%, #1e293b 58%, #FFFFFF 58%, #FFFFFF 59%, #1e293b 59%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 62%, #FFFFFF 62%, #FFFFFF 63%, #1e293b 63%, #1e293b 64%, #FFFFFF 64%, #FFFFFF 65%, #1e293b 65%, #1e293b 66%, #FFFFFF 66%, #FFFFFF 67%, #1e293b 67%, #1e293b 68%, #FFFFFF 68%, #FFFFFF 69%, #1e293b 69%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 72%, #FFFFFF 72%, #FFFFFF 73%, #1e293b 73%, #1e293b 74%, #FFFFFF 74%, #FFFFFF 75%, #1e293b 75%, #1e293b 76%, #FFFFFF 76%, #FFFFFF 77%, #1e293b 77%, #1e293b 78%, #FFFFFF 78%, #FFFFFF 79%, #1e293b 79%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 82%, #FFFFFF 82%, #FFFFFF 83%, #1e293b 83%, #1e293b 84%, #FFFFFF 84%, #FFFFFF 85%, #1e293b 85%, #1e293b 86%, #FFFFFF 86%, #FFFFFF 87%, #1e293b 87%, #1e293b 88%, #FFFFFF 88%, #FFFFFF 89%, #1e293b 89%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 92%, #FFFFFF 92%, #FFFFFF 93%, #1e293b 93%, #1e293b 94%, #FFFFFF 94%, #FFFFFF 95%, #1e293b 95%, #1e293b 96%, #FFFFFF 96%, #FFFFFF 97%, #1e293b 97%, #1e293b 98%, #FFFFFF 98%, #FFFFFF 99%, #1e293b 99%, #1e293b 100%)",
       "type": "color",
-      "description": "candy_0°✨"
+      "description": "candy_0°"
     },
-    "candy_90°✨": {
+    "candy_90°": {
       "value": "linear-gradient(90deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 2%, #FFFFFF 2%, #FFFFFF 3%, #1e293b 3%, #1e293b 4%, #FFFFFF 4%, #FFFFFF 5%, #1e293b 5%, #1e293b 6%, #FFFFFF 6%, #FFFFFF 7%, #1e293b 7%, #1e293b 8%, #FFFFFF 8%, #FFFFFF 9%, #1e293b 9%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 12%, #FFFFFF 12%, #FFFFFF 13%, #1e293b 13%, #1e293b 14%, #FFFFFF 14%, #FFFFFF 15%, #1e293b 15%, #1e293b 16%, #FFFFFF 16%, #FFFFFF 17%, #1e293b 17%, #1e293b 18%, #FFFFFF 18%, #FFFFFF 19%, #1e293b 19%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 22%, #FFFFFF 22%, #FFFFFF 23%, #1e293b 23%, #1e293b 24%, #FFFFFF 24%, #FFFFFF 25%, #1e293b 25%, #1e293b 26%, #FFFFFF 26%, #FFFFFF 27%, #1e293b 27%, #1e293b 28%, #FFFFFF 28%, #FFFFFF 29%, #1e293b 29%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 32%, #FFFFFF 32%, #FFFFFF 33%, #1e293b 33%, #1e293b 34%, #FFFFFF 34%, #FFFFFF 35%, #1e293b 35%, #1e293b 36%, #FFFFFF 36%, #FFFFFF 37%, #1e293b 37%, #1e293b 38%, #FFFFFF 38%, #FFFFFF 39%, #1e293b 39%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 42%, #FFFFFF 42%, #FFFFFF 43%, #1e293b 43%, #1e293b 44%, #FFFFFF 44%, #FFFFFF 45%, #1e293b 45%, #1e293b 46%, #FFFFFF 46%, #FFFFFF 47%, #1e293b 47%, #1e293b 48%, #FFFFFF 48%, #FFFFFF 49%, #1e293b 49%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 52%, #FFFFFF 52%, #FFFFFF 53%, #1e293b 53%, #1e293b 54%, #FFFFFF 54%, #FFFFFF 55%, #1e293b 55%, #1e293b 56%, #FFFFFF 56%, #FFFFFF 57%, #1e293b 57%, #1e293b 58%, #FFFFFF 58%, #FFFFFF 59%, #1e293b 59%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 62%, #FFFFFF 62%, #FFFFFF 63%, #1e293b 63%, #1e293b 64%, #FFFFFF 64%, #FFFFFF 65%, #1e293b 65%, #1e293b 66%, #FFFFFF 66%, #FFFFFF 67%, #1e293b 67%, #1e293b 68%, #FFFFFF 68%, #FFFFFF 69%, #1e293b 69%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 72%, #FFFFFF 72%, #FFFFFF 73%, #1e293b 73%, #1e293b 74%, #FFFFFF 74%, #FFFFFF 75%, #1e293b 75%, #1e293b 76%, #FFFFFF 76%, #FFFFFF 77%, #1e293b 77%, #1e293b 78%, #FFFFFF 78%, #FFFFFF 79%, #1e293b 79%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 82%, #FFFFFF 82%, #FFFFFF 83%, #1e293b 83%, #1e293b 84%, #FFFFFF 84%, #FFFFFF 85%, #1e293b 85%, #1e293b 86%, #FFFFFF 86%, #FFFFFF 87%, #1e293b 87%, #1e293b 88%, #FFFFFF 88%, #FFFFFF 89%, #1e293b 89%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 92%, #FFFFFF 92%, #FFFFFF 93%, #1e293b 93%, #1e293b 94%, #FFFFFF 94%, #FFFFFF 95%, #1e293b 95%, #1e293b 96%, #FFFFFF 96%, #FFFFFF 97%, #1e293b 97%, #1e293b 98%, #FFFFFF 98%, #FFFFFF 99%, #1e293b 99%, #1e293b 100%)",
       "type": "color",
-      "description": "candy_90°✨"
+      "description": "candy_90°"
     },
-    "stripe_min45°✨": {
+    "stripe_min45°": {
       "value": "linear-gradient(-45deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 5%, #FFFFFF 5%, #FFFFFF 6%, #1e293b 6%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 15%, #FFFFFF 15%, #FFFFFF 16%, #1e293b 16%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 25%, #FFFFFF 25%, #FFFFFF 26%, #1e293b 26%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 35%, #FFFFFF 35%, #FFFFFF 36%, #1e293b 36%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 45%, #FFFFFF 45%, #FFFFFF 46%, #1e293b 46%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 55%, #FFFFFF 55%, #FFFFFF 56%, #1e293b 56%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 65%, #FFFFFF 65%, #FFFFFF 66%, #1e293b 66%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 75%, #FFFFFF 75%, #FFFFFF 76%, #1e293b 76%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 85%, #FFFFFF 85%, #FFFFFF 86%, #1e293b 86%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 95%, #FFFFFF 95%, #FFFFFF 96%, #1e293b 96%, #1e293b 100%)",
       "type": "color",
-      "description": "stripe_min45°✨"
+      "description": "stripe_min45°"
     },
-    "stripe_45°✨": {
+    "stripe_45°": {
       "value": "linear-gradient(45deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 5%, #FFFFFF 5%, #FFFFFF 6%, #1e293b 6%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 15%, #FFFFFF 15%, #FFFFFF 16%, #1e293b 16%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 25%, #FFFFFF 25%, #FFFFFF 26%, #1e293b 26%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 35%, #FFFFFF 35%, #FFFFFF 36%, #1e293b 36%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 45%, #FFFFFF 45%, #FFFFFF 46%, #1e293b 46%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 55%, #FFFFFF 55%, #FFFFFF 56%, #1e293b 56%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 65%, #FFFFFF 65%, #FFFFFF 66%, #1e293b 66%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 75%, #FFFFFF 75%, #FFFFFF 76%, #1e293b 76%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 85%, #FFFFFF 85%, #FFFFFF 86%, #1e293b 86%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 95%, #FFFFFF 95%, #FFFFFF 96%, #1e293b 96%, #1e293b 100%)",
       "type": "color",
-      "description": "stripe_45°✨"
+      "description": "stripe_45°"
     },
-    "stripe_min60°✨": {
+    "stripe_min60°": {
       "value": "linear-gradient(-60deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 5%, #FFFFFF 5%, #FFFFFF 6%, #1e293b 6%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 15%, #FFFFFF 15%, #FFFFFF 16%, #1e293b 16%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 25%, #FFFFFF 25%, #FFFFFF 26%, #1e293b 26%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 35%, #FFFFFF 35%, #FFFFFF 36%, #1e293b 36%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 45%, #FFFFFF 45%, #FFFFFF 46%, #1e293b 46%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 55%, #FFFFFF 55%, #FFFFFF 56%, #1e293b 56%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 65%, #FFFFFF 65%, #FFFFFF 66%, #1e293b 66%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 75%, #FFFFFF 75%, #FFFFFF 76%, #1e293b 76%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 85%, #FFFFFF 85%, #FFFFFF 86%, #1e293b 86%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 95%, #FFFFFF 95%, #FFFFFF 96%, #1e293b 96%, #1e293b 100%)",
       "type": "color",
-      "description": "stripe_min60°✨"
+      "description": "stripe_min60°"
     },
-    "stripe_60°✨": {
+    "stripe_60°": {
       "value": "linear-gradient(60deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 5%, #FFFFFF 5%, #FFFFFF 6%, #1e293b 6%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 15%, #FFFFFF 15%, #FFFFFF 16%, #1e293b 16%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 25%, #FFFFFF 25%, #FFFFFF 26%, #1e293b 26%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 35%, #FFFFFF 35%, #FFFFFF 36%, #1e293b 36%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 45%, #FFFFFF 45%, #FFFFFF 46%, #1e293b 46%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 55%, #FFFFFF 55%, #FFFFFF 56%, #1e293b 56%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 65%, #FFFFFF 65%, #FFFFFF 66%, #1e293b 66%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 75%, #FFFFFF 75%, #FFFFFF 76%, #1e293b 76%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 85%, #FFFFFF 85%, #FFFFFF 86%, #1e293b 86%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 95%, #FFFFFF 95%, #FFFFFF 96%, #1e293b 96%, #1e293b 100%)",
       "type": "color",
-      "description": "stripe_60°✨"
+      "description": "stripe_60°"
     },
-    "stripe_min75°✨": {
+    "stripe_min75°": {
       "value": "linear-gradient(-75deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 5%, #FFFFFF 5%, #FFFFFF 6%, #1e293b 6%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 15%, #FFFFFF 15%, #FFFFFF 16%, #1e293b 16%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 25%, #FFFFFF 25%, #FFFFFF 26%, #1e293b 26%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 35%, #FFFFFF 35%, #FFFFFF 36%, #1e293b 36%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 45%, #FFFFFF 45%, #FFFFFF 46%, #1e293b 46%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 55%, #FFFFFF 55%, #FFFFFF 56%, #1e293b 56%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 65%, #FFFFFF 65%, #FFFFFF 66%, #1e293b 66%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 75%, #FFFFFF 75%, #FFFFFF 76%, #1e293b 76%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 85%, #FFFFFF 85%, #FFFFFF 86%, #1e293b 86%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 95%, #FFFFFF 95%, #FFFFFF 96%, #1e293b 96%, #1e293b 100%)",
       "type": "color",
-      "description": "stripe_min75°✨"
+      "description": "stripe_min75°"
     },
-    "stripe_75°✨": {
+    "stripe_75°": {
       "value": "linear-gradient(75deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 5%, #FFFFFF 5%, #FFFFFF 6%, #1e293b 6%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 15%, #FFFFFF 15%, #FFFFFF 16%, #1e293b 16%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 25%, #FFFFFF 25%, #FFFFFF 26%, #1e293b 26%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 35%, #FFFFFF 35%, #FFFFFF 36%, #1e293b 36%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 45%, #FFFFFF 45%, #FFFFFF 46%, #1e293b 46%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 55%, #FFFFFF 55%, #FFFFFF 56%, #1e293b 56%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 65%, #FFFFFF 65%, #FFFFFF 66%, #1e293b 66%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 75%, #FFFFFF 75%, #FFFFFF 76%, #1e293b 76%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 85%, #FFFFFF 85%, #FFFFFF 86%, #1e293b 86%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 95%, #FFFFFF 95%, #FFFFFF 96%, #1e293b 96%, #1e293b 100%)",
       "type": "color",
-      "description": "stripe_75°✨"
+      "description": "stripe_75°"
     },
-    "stripe_0°✨": {
+    "stripe_0°": {
       "value": "linear-gradient(0deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 5%, #FFFFFF 5%, #FFFFFF 6%, #1e293b 6%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 15%, #FFFFFF 15%, #FFFFFF 16%, #1e293b 16%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 25%, #FFFFFF 25%, #FFFFFF 26%, #1e293b 26%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 35%, #FFFFFF 35%, #FFFFFF 36%, #1e293b 36%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 45%, #FFFFFF 45%, #FFFFFF 46%, #1e293b 46%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 55%, #FFFFFF 55%, #FFFFFF 56%, #1e293b 56%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 65%, #FFFFFF 65%, #FFFFFF 66%, #1e293b 66%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 75%, #FFFFFF 75%, #FFFFFF 76%, #1e293b 76%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 85%, #FFFFFF 85%, #FFFFFF 86%, #1e293b 86%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 95%, #FFFFFF 95%, #FFFFFF 96%, #1e293b 96%, #1e293b 100%)",
       "type": "color",
-      "description": "stripe_0°✨"
+      "description": "stripe_0°"
     },
-    "stripe_90°✨": {
+    "stripe_90°": {
       "value": "linear-gradient(-90deg, #FFFFFF 0%, #FFFFFF 1%, #1e293b 1%, #1e293b 5%, #FFFFFF 5%, #FFFFFF 6%, #1e293b 6%, #1e293b 10%, #FFFFFF 10%, #FFFFFF 11%, #1e293b 11%, #1e293b 15%, #FFFFFF 15%, #FFFFFF 16%, #1e293b 16%, #1e293b 20%, #FFFFFF 20%, #FFFFFF 21%, #1e293b 21%, #1e293b 25%, #FFFFFF 25%, #FFFFFF 26%, #1e293b 26%, #1e293b 30%, #FFFFFF 30%, #FFFFFF 31%, #1e293b 31%, #1e293b 35%, #FFFFFF 35%, #FFFFFF 36%, #1e293b 36%, #1e293b 40%, #FFFFFF 40%, #FFFFFF 41%, #1e293b 41%, #1e293b 45%, #FFFFFF 45%, #FFFFFF 46%, #1e293b 46%, #1e293b 50%, #FFFFFF 50%, #FFFFFF 51%, #1e293b 51%, #1e293b 55%, #FFFFFF 55%, #FFFFFF 56%, #1e293b 56%, #1e293b 60%, #FFFFFF 60%, #FFFFFF 61%, #1e293b 61%, #1e293b 65%, #FFFFFF 65%, #FFFFFF 66%, #1e293b 66%, #1e293b 70%, #FFFFFF 70%, #FFFFFF 71%, #1e293b 71%, #1e293b 75%, #FFFFFF 75%, #FFFFFF 76%, #1e293b 76%, #1e293b 80%, #FFFFFF 80%, #FFFFFF 81%, #1e293b 81%, #1e293b 85%, #FFFFFF 85%, #FFFFFF 86%, #1e293b 86%, #1e293b 90%, #FFFFFF 90%, #FFFFFF 91%, #1e293b 91%, #1e293b 95%, #FFFFFF 95%, #FFFFFF 96%, #1e293b 96%, #1e293b 100%)",
       "type": "color",
-      "description": "stripe_90°✨"
+      "description": "stripe_90°"
     }
   },
   "generationux-size": {
@@ -5905,11 +5085,6 @@
       "value": "({generationux.rem} * 0)*1",
       "type": "sizing",
       "description": "size-0"
-    },
-    "size-<px✨": {
-      "value": "({generationux.rem} * 0.03125)*1",
-      "type": "sizing",
-      "description": "size-<px✨"
     },
     "size-px": {
       "value": "({generationux.rem} * 0.0625)*1",
@@ -5956,20 +5131,10 @@
       "type": "sizing",
       "description": "size-4"
     },
-    "size-4_5✨": {
-      "value": "({generationux.rem} * 1.125)*1",
-      "type": "sizing",
-      "description": "size-4_5✨"
-    },
     "size-5": {
       "value": "({generationux.rem} * 1.25)*1",
       "type": "sizing",
       "description": "size-5"
-    },
-    "size-5_5✨": {
-      "value": "({generationux.rem} * 1.375)*1",
-      "type": "sizing",
-      "description": "size-5_5"
     },
     "size-6": {
       "value": "({generationux.rem} * 1.5)*1",
@@ -5996,11 +5161,6 @@
       "type": "sizing",
       "description": "size-10"
     },
-    "size-10_5✨": {
-      "value": "({generationux.rem} * 2.625)*1",
-      "type": "sizing",
-      "description": "size-10_5✨"
-    },
     "size-11": {
       "value": "({generationux.rem} * 2.75)*1",
       "type": "sizing",
@@ -6011,45 +5171,20 @@
       "type": "sizing",
       "description": "size-12"
     },
-    "size-13✨": {
-      "value": "({generationux.rem} * 3.25)*1",
-      "type": "sizing",
-      "description": "size-13✨"
-    },
     "size-14": {
       "value": "({generationux.rem} * 3.5)*1",
       "type": "sizing",
       "description": "size-14"
-    },
-    "size-15✨": {
-      "value": "({generationux.rem} * 3.75)*1",
-      "type": "sizing",
-      "description": "size-15✨"
     },
     "size-16": {
       "value": "({generationux.rem} * 4)*1",
       "type": "sizing",
       "description": "size-16"
     },
-    "size-17_25✨": {
-      "value": "({generationux.rem} * 4.3125)*1",
-      "type": "sizing",
-      "description": "size-17_25✨"
-    },
-    "size-18✨": {
-      "value": "({generationux.rem} * 4.5)*1",
-      "type": "sizing",
-      "description": "size-18✨"
-    },
     "size-20": {
       "value": "({generationux.rem} * 5)*1",
       "type": "sizing",
       "description": "size-20"
-    },
-    "size-22_5✨": {
-      "value": "({generationux.rem} * 5.625)*1",
-      "type": "sizing",
-      "description": "size-22_5✨"
     },
     "size-24": {
       "value": "({generationux.rem} * 6)*1",
@@ -6060,11 +5195,6 @@
       "value": "({generationux.rem} * 7)*1",
       "type": "sizing",
       "description": "size-28"
-    },
-    "size-30✨": {
-      "value": "({generationux.rem} * 7.5)*1",
-      "type": "sizing",
-      "description": "size-30✨"
     },
     "size-32": {
       "value": "({generationux.rem} * 8)*1",
@@ -6081,30 +5211,15 @@
       "type": "sizing",
       "description": "size-40"
     },
-    "size-42✨": {
-      "value": "({generationux.rem} * 10.5)*1",
-      "type": "sizing",
-      "description": "size-42✨"
-    },
     "size-44": {
       "value": "({generationux.rem} * 11)*1",
       "type": "sizing",
       "description": "size-44"
     },
-    "size-45✨": {
-      "value": "({generationux.rem} * 11.25)*1",
-      "type": "sizing",
-      "description": "size-45✨"
-    },
     "size-48": {
       "value": "({generationux.rem} * 12)*1",
       "type": "sizing",
       "description": "size-48"
-    },
-    "size-50✨": {
-      "value": "({generationux.rem} * 12.5)*1",
-      "type": "sizing",
-      "description": "size-50✨"
     },
     "size-52": {
       "value": "({generationux.rem} * 13)*1",
@@ -6126,16 +5241,6 @@
       "type": "sizing",
       "description": "size-64"
     },
-    "size-68✨": {
-      "value": "({generationux.rem} * 17)*1",
-      "type": "sizing",
-      "description": "size-68✨"
-    },
-    "size-70✨": {
-      "value": "({generationux.rem} * 17.5)*1",
-      "type": "sizing",
-      "description": "size-70✨"
-    },
     "size-72": {
       "value": "({generationux.rem} * 18)*1",
       "type": "sizing",
@@ -6146,45 +5251,10 @@
       "type": "sizing",
       "description": "size-80"
     },
-    "size-90✨": {
-      "value": "({generationux.rem} * 22.5)*1",
-      "type": "sizing",
-      "description": "size-90✨"
-    },
     "size-96": {
       "value": "({generationux.rem} * 24)*1",
       "type": "sizing",
       "description": "size-96"
-    },
-    "size-100✨": {
-      "value": "({generationux.rem} * 25)*1",
-      "type": "sizing",
-      "description": "size-100✨"
-    },
-    "size-105✨": {
-      "value": "({generationux.rem} * 26.25)*1",
-      "type": "sizing",
-      "description": "size-105✨"
-    },
-    "size-110✨": {
-      "value": "({generationux.rem} * 27.5)*1",
-      "type": "sizing",
-      "description": "size-110✨"
-    },
-    "size-120✨": {
-      "value": "({generationux.rem} * 30)*1",
-      "type": "sizing",
-      "description": "size-120✨"
-    },
-    "size-180✨": {
-      "value": "({generationux.rem} * 45)*1",
-      "type": "sizing",
-      "description": "size-180✨"
-    },
-    "size-190✨": {
-      "value": "({generationux.rem} * 47.5)*1",
-      "type": "sizing",
-      "description": "size-190✨"
     }
   },
   "generationux-opacity": {
@@ -6193,45 +5263,25 @@
       "type": "opacity",
       "description": "opacity-0"
     },
-    "opacity-4✨": {
-      "value": "0.04",
-      "type": "opacity",
-      "description": "opacity-4✨"
-    },
     "opacity-5": {
       "value": "0.05",
       "type": "opacity",
       "description": "opacity-5"
-    },
-    "opacity-8✨": {
-      "value": "0.08",
-      "type": "opacity",
-      "description": "opacity-8✨"
     },
     "opacity-10": {
       "value": "0.1",
       "type": "opacity",
       "description": "opacity-10"
     },
-    "opacity-12✨": {
-      "value": "0.12",
+    "opacity-15": {
+      "value": "0.15",
       "type": "opacity",
-      "description": "opacity-12✨"
-    },
-    "opacity-16✨": {
-      "value": "0.16",
-      "type": "opacity",
-      "description": "opacity-16✨"
+      "description": "opacity-15"
     },
     "opacity-20": {
       "value": "0.2",
       "type": "opacity",
       "description": "opacity-20"
-    },
-    "opacity-24✨": {
-      "value": "0.24",
-      "type": "opacity",
-      "description": "opacity-24✨"
     },
     "opacity-25": {
       "value": "0.25",
@@ -6242,11 +5292,6 @@
       "value": "0.3",
       "type": "opacity",
       "description": "opacity-30"
-    },
-    "opacity-32✨": {
-      "value": "0.32",
-      "type": "opacity",
-      "description": "opacity-32✨"
     },
     "opacity-35": {
       "value": "0.35",
@@ -6263,11 +5308,6 @@
       "type": "opacity",
       "description": "opacity-45"
     },
-    "opacity-48✨": {
-      "value": "0.48",
-      "type": "opacity",
-      "description": "opacity-48✨"
-    },
     "opacity-50": {
       "value": "0.5",
       "type": "opacity",
@@ -6278,20 +5318,10 @@
       "type": "opacity",
       "description": "opacity-55"
     },
-    "opacity-56✨": {
-      "value": "0.56",
-      "type": "opacity",
-      "description": "opacity-56✨"
-    },
     "opacity-60": {
       "value": "0.6",
       "type": "opacity",
       "description": "opacity-60"
-    },
-    "opacity-64✨": {
-      "value": "0.64",
-      "type": "opacity",
-      "description": "opacity-64✨"
     },
     "opacity-65": {
       "value": "0.65",
@@ -6328,11 +5358,6 @@
       "type": "opacity",
       "description": "opacity-95"
     },
-    "opacity-96✨": {
-      "value": "0.96",
-      "type": "opacity",
-      "description": "opacity-96✨"
-    },
     "opacity-100": {
       "value": "1",
       "type": "opacity",
@@ -6354,433 +5379,6 @@
       "value": "none",
       "type": "textDecoration",
       "description": "none"
-    }
-  },
-  "generationux-paragraph-spacing": {
-    "paragraph-2✨": {
-      "value": "({generationux.rem} * 0.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-2✨"
-    },
-    "paragraph-2_5✨": {
-      "value": "({generationux.rem} * 0.625)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-2_5✨"
-    },
-    "paragraph-3✨": {
-      "value": "({generationux.rem} * 0.75)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-3✨"
-    },
-    "paragraph-3_5✨": {
-      "value": "({generationux.rem} * 0.875)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-3_5✨"
-    },
-    "paragraph-4✨": {
-      "value": "({generationux.rem} * 1)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-4✨"
-    },
-    "paragraph-4_5✨": {
-      "value": "({generationux.rem} * 1.125)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-4_5✨"
-    },
-    "paragraph-5✨": {
-      "value": "({generationux.rem} * 1.25)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-5✨"
-    },
-    "paragraph-6✨": {
-      "value": "({generationux.rem} * 1.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-6✨"
-    },
-    "paragraph-7✨": {
-      "value": "({generationux.rem} * 1.75)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-7✨"
-    },
-    "paragraph-8✨": {
-      "value": "({generationux.rem} * 2)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-8✨"
-    },
-    "paragraph-9✨": {
-      "value": "({generationux.rem} * 2.25)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-9✨"
-    },
-    "paragraph-10✨": {
-      "value": "({generationux.rem} * 2.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-10✨"
-    },
-    "paragraph-10_5✨": {
-      "value": "({generationux.rem} * 2.625)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-10_5✨"
-    },
-    "paragraph-11✨": {
-      "value": "({generationux.rem} * 2.75)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-11✨"
-    },
-    "paragraph-12✨": {
-      "value": "({generationux.rem} * 3)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-12✨"
-    },
-    "paragraph-13✨": {
-      "value": "({generationux.rem} * 3.25)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-13✨"
-    },
-    "paragraph-14✨": {
-      "value": "({generationux.rem} * 3.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-14✨"
-    },
-    "paragraph-15✨": {
-      "value": "({generationux.rem} * 3.75)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-15✨"
-    },
-    "paragraph-16✨": {
-      "value": "({generationux.rem} * 4)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-16✨"
-    },
-    "paragraph-17_25✨": {
-      "value": "({generationux.rem} * 4.3125)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-17_25✨"
-    },
-    "paragraph-18✨": {
-      "value": "({generationux.rem} * 4.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-18✨"
-    },
-    "paragraph-20✨": {
-      "value": "({generationux.rem} * 5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-20✨"
-    },
-    "paragraph-22_5✨": {
-      "value": "({generationux.rem} * 5.625)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-22_5✨"
-    },
-    "paragraph-24✨": {
-      "value": "({generationux.rem} * 6)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-24✨"
-    },
-    "paragraph-28✨": {
-      "value": "({generationux.rem} * 7)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-28✨"
-    },
-    "paragraph-30✨": {
-      "value": "({generationux.rem} * 7.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-30✨"
-    },
-    "paragraph-32✨": {
-      "value": "({generationux.rem} * 8)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-32✨"
-    },
-    "paragraph-36✨": {
-      "value": "({generationux.rem} * 9)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-36✨"
-    },
-    "paragraph-40✨": {
-      "value": "({generationux.rem} * 10)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-40✨"
-    },
-    "paragraph-42✨": {
-      "value": "({generationux.rem} * 10.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-42✨"
-    },
-    "paragraph-43✨": {
-      "value": "({generationux.rem} * 10.75)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-43✨"
-    },
-    "paragraph-44✨": {
-      "value": "({generationux.rem} * 11)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-44✨"
-    },
-    "paragraph-45✨": {
-      "value": "({generationux.rem} * 11.25)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-45✨"
-    },
-    "paragraph-48✨": {
-      "value": "({generationux.rem} * 12)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-48✨"
-    },
-    "paragraph-50✨": {
-      "value": "({generationux.rem} * 12.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-50✨"
-    },
-    "paragraph-52✨": {
-      "value": "({generationux.rem} * 13)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-52✨"
-    },
-    "paragraph-56✨": {
-      "value": "({generationux.rem} * 14)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-56✨"
-    },
-    "paragraph-60✨": {
-      "value": "({generationux.rem} * 15)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-60✨"
-    },
-    "paragraph-64✨": {
-      "value": "({generationux.rem} * 16)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-64✨"
-    },
-    "paragraph-68✨": {
-      "value": "({generationux.rem} * 17)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-68✨"
-    },
-    "paragraph-70✨": {
-      "value": "({generationux.rem} * 17.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-70✨"
-    },
-    "paragraph-72✨": {
-      "value": "({generationux.rem} * 18)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-72✨"
-    },
-    "paragraph-80✨": {
-      "value": "({generationux.rem} * 20)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-80✨"
-    },
-    "paragraph-90✨": {
-      "value": "({generationux.rem} * 22.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-90✨"
-    },
-    "paragraph-96✨": {
-      "value": "({generationux.rem} * 24)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-96✨"
-    },
-    "paragraph-100✨": {
-      "value": "({generationux.rem} * 25)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-100✨"
-    },
-    "paragraph-105✨": {
-      "value": "({generationux.rem} * 26.25)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-105✨"
-    },
-    "paragraph-110✨": {
-      "value": "({generationux.rem} * 27.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-110✨"
-    },
-    "paragraph-120✨": {
-      "value": "({generationux.rem} * 30)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-120✨"
-    },
-    "paragraph-180✨": {
-      "value": "({generationux.rem} * 45)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-180✨"
-    },
-    "paragraph-190✨": {
-      "value": "({generationux.rem} * 47.5)*1",
-      "type": "paragraphSpacing",
-      "description": "paragraph-190✨"
-    }
-  },
-  "generationux-typography": {
-    "text-6xl✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-24✨}",
-        "fontSize": "{generationux-font-size.font-size-24✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-6xl✨"
-    },
-    "text-5xl✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-16✨}",
-        "fontSize": "{generationux-font-size.font-size-16✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-5xl✨"
-    },
-    "text-4xl✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-12✨}",
-        "fontSize": "{generationux-font-size.font-size-12✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-4xl✨"
-    },
-    "text-3xl✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-8✨}",
-        "fontSize": "{generationux-font-size.font-size-8✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-3xl✨"
-    },
-    "text-2xl✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-6✨}",
-        "fontSize": "{generationux-font-size.font-size-6✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-2xl✨"
-    },
-    "text-xl✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-5✨}",
-        "fontSize": "{generationux-font-size.font-size-5✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-xl✨"
-    },
-    "text-lg✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-4_5✨}",
-        "fontSize": "{generationux-font-size.font-size-4_5✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-lg✨"
-    },
-    "text-m1✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-4✨}",
-        "fontSize": "{generationux-font-size.font-size-4✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-m1✨"
-    },
-    "text-m2✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-3✨}",
-        "fontSize": "{generationux-font-size.font-size-3✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-m2✨"
-    },
-    "text-sm1✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-4✨}",
-        "fontSize": "{generationux-font-size.font-size-4✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-sm1✨"
-    },
-    "text-sm2✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-3_5✨}",
-        "fontSize": "{generationux-font-size.font-size-3_5✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography",
-      "description": "text-sm2✨"
-    },
-    "text-base✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-4✨}",
-        "fontSize": "{generationux-font-size.font-size-4✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.uppercase}"
-      },
-      "type": "typography",
-      "description": "text-base✨"
-    },
-    "text-xs✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-3✨}",
-        "fontSize": "{generationux-font-size.font-size-3✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.uppercase}"
-      },
-      "type": "typography",
-      "description": "text-xs✨"
-    },
-    "text-xxs✨": {
-      "value": {
-        "fontFamily": "",
-        "fontWeight": "",
-        "lineHeight": "{generationux-line-height.leading-2✨}",
-        "fontSize": "{generationux-font-size.font-size-2✨}",
-        "letterSpacing": "{generationux-letter-spacing.tracking-wide✨}",
-        "textCase": "{generationux-text-transform.uppercase}"
-      },
-      "type": "typography",
-      "description": "text-xxs✨"
     }
   }
 }
