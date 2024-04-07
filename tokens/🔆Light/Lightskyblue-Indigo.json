@@ -41,7 +41,7 @@
       "description": "primary-foreground"
     },
     "secondary": {
-      "value": "#93c5fd",
+      "value": "#60a5fa",
       "type": "color",
       "description": "secondary"
     },
@@ -51,7 +51,7 @@
       "description": "secondary-foreground"
     },
     "muted": {
-      "value": "#93c5fd",
+      "value": "#60a5fa",
       "type": "color",
       "description": "muted"
     },
@@ -61,7 +61,7 @@
       "description": "muted-foreground"
     },
     "accent": {
-      "value": "#93c5fd",
+      "value": "#60a5fa",
       "type": "color",
       "description": "accent"
     },
