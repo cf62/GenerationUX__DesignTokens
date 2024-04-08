@@ -169,6 +169,11 @@
       "type": "fontFamilies",
       "description": "Panchang"
     },
+    "Plein": {
+      "value": "Plein",
+      "type": "fontFamilies",
+      "description": "Plein"
+    },
     "Plus Jakarta Sans": {
       "value": "Plus Jakarta Sans",
       "type": "fontFamilies",
@@ -223,6 +228,11 @@
       "value": "Spline Sans",
       "type": "fontFamilies",
       "description": "Spline Sans"
+    },
+    "Supreme": {
+      "value": "Supreme",
+      "type": "fontFamilies",
+      "description": "Supreme"
     },
     "Switzer": {
       "value": "Switzer",
