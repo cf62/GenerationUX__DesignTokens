@@ -584,7 +584,7 @@
         "lineHeight": "{generationux-line-height.leading-6}",
         "fontSize": "{generationux-font-size.font-size-4}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.uppercase}"
+        "textCase": "{generationux-text-transform.original}"
       },
       "type": "typography",
       "description": "text-base"
@@ -596,7 +596,7 @@
         "lineHeight": "{generationux-line-height.leading-5}",
         "fontSize": "{generationux-font-size.font-size-3_5}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.uppercase}"
+        "textCase": "{generationux-text-transform.original}"
       },
       "type": "typography",
       "description": "text-sm"
@@ -608,7 +608,7 @@
         "lineHeight": "{generationux-line-height.leading-4}",
         "fontSize": "{generationux-font-size.font-size-3}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.uppercase}"
+        "textCase": "{generationux-text-transform.original}"
       },
       "type": "typography",
       "description": "text-xs"
@@ -620,7 +620,7 @@
         "lineHeight": "{generationux-line-height.leading-2}",
         "fontSize": "{generationux-font-size.font-size-2}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
-        "textCase": "{generationux-text-transform.uppercase}"
+        "textCase": "{generationux-text-transform.original}"
       },
       "type": "typography",
       "description": "text-xxs"
