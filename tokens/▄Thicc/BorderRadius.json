@@ -1,0 +1,49 @@
+{
+  "generationux-border-radius": {
+    "rounded-none": {
+      "value": "({generationux.rem} * 0)*5",
+      "type": "borderRadius",
+      "description": "rounded-none"
+    },
+    "rounded-sm": {
+      "value": "({generationux.rem} * 0.125)*5",
+      "type": "borderRadius",
+      "description": "rounded-sm"
+    },
+    "rounded": {
+      "value": "({generationux.rem} * 0.25)*5",
+      "type": "borderRadius",
+      "description": "rounded"
+    },
+    "rounded-md": {
+      "value": "({generationux.rem} * 0.375)*5",
+      "type": "borderRadius",
+      "description": "rounded-md"
+    },
+    "rounded-lg": {
+      "value": "({generationux.rem} * 0.5)*5",
+      "type": "borderRadius",
+      "description": "rounded-lg"
+    },
+    "rounded-xl": {
+      "value": "({generationux.rem} * 0.75)*5",
+      "type": "borderRadius",
+      "description": "rounded-xl"
+    },
+    "rounded-2xl": {
+      "value": "({generationux.rem} * 1)*5",
+      "type": "borderRadius",
+      "description": "rounded-2xl"
+    },
+    "rounded-3xl": {
+      "value": "({generationux.rem} * 1.5)*5",
+      "type": "borderRadius",
+      "description": "rounded-3xl"
+    },
+    "rounded-full": {
+      "value": "9999px",
+      "type": "borderRadius",
+      "description": "rounded-full"
+    }
+  }
+}
