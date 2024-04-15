@@ -1,0 +1,34 @@
+{
+  "generationux-border-width": {
+    "border-0": {
+      "value": "({generationux.rem} * 0)*0.5",
+      "type": "borderWidth",
+      "description": "border-0"
+    },
+    "border-<px": {
+      "value": "({generationux.rem} * 0.03125)*0.5",
+      "type": "borderWidth",
+      "description": "border-<px"
+    },
+    "border": {
+      "value": "({generationux.rem} * 0.0625)*0.5",
+      "type": "borderWidth",
+      "description": "border"
+    },
+    "border-2": {
+      "value": "({generationux.rem} * 0.125)*0.5",
+      "type": "borderWidth",
+      "description": "border-2"
+    },
+    "border-4": {
+      "value": "({generationux.rem} * 0.25)*0.5",
+      "type": "borderWidth",
+      "description": "border-4"
+    },
+    "border-8": {
+      "value": "({generationux.rem} * 0.5)*0.5",
+      "type": "borderWidth",
+      "description": "border-8"
+    }
+  }
+}

@@ -1,0 +1,3902 @@
+{
+  "generationux-box-shadow": {
+    "clear": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "clear"
+    }
+  },
+  "generationux-hard-box-shadow": {
+    "Brut_Top": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Top"
+    },
+    "Brut_Bottom": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Bottom"
+    },
+    "Brut_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Left"
+    },
+    "Brut_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Right"
+    },
+    "Brut_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_TopLeft"
+    },
+    "Brut_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_TopRight"
+    },
+    "Brut_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_BottomLeft"
+    },
+    "Brut_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_BottomRight"
+    },
+    "Buona_Top": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_Top"
+    },
+    "Buona_Bottom": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_Bottom"
+    },
+    "Buona_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.05)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.05)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_Left"
+    },
+    "Buona_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.05)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.05)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_Right"
+    },
+    "Buona_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.05)*0.5",
+          "y": "(-{generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.05)*0.5",
+          "y": "(-{generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.1)*0.5",
+          "y": "(-{generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.1)*0.5",
+          "y": "(-{generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.2)*0.5",
+          "y": "(-{generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.2)*0.5",
+          "y": "(-{generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_TopLeft"
+    },
+    "Buona_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.05)*0.5",
+          "y": "(-{generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.05)*0.5",
+          "y": "(-{generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.1)*0.5",
+          "y": "(-{generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.1)*0.5",
+          "y": "(-{generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.2)*0.5",
+          "y": "(-{generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.2)*0.5",
+          "y": "(-{generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_TopRight"
+    },
+    "Buona_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.05)*0.5",
+          "y": "({generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.05)*0.5",
+          "y": "({generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.1)*0.5",
+          "y": "({generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.1)*0.5",
+          "y": "({generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.2)*0.5",
+          "y": "({generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.2)*0.5",
+          "y": "({generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_BottomLeft"
+    },
+    "Buona_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.05)*0.5",
+          "y": "({generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.05)*0.5",
+          "y": "({generationux.rem} * 0.05)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.1)*0.5",
+          "y": "({generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.1)*0.5",
+          "y": "({generationux.rem} * 0.1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.2)*0.5",
+          "y": "({generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.2)*0.5",
+          "y": "({generationux.rem} * 0.2)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Buona_BottomRight"
+    },
+    "Flare_Top": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.64)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Flare_Top"
+    },
+    "Flare_Bottom": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.64)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Flare_Bottom"
+    },
+    "Flare_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.75)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.64)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Flare_Left"
+    },
+    "Flare_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.75)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.64)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Flare_Right"
+    },
+    "Flare_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.75)*0.5",
+          "y": "(-{generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.64)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Flare_TopLeft"
+    },
+    "Flare_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.75)*0.5",
+          "y": "(-{generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.64)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Flare_TopRight"
+    },
+    "Flare_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.75)*0.5",
+          "y": "({generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.64)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Flare_BottomLeft"
+    },
+    "Flare_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.75)*0.5",
+          "y": "({generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.64)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Flare_BottomRight"
+    },
+    "Layers_Top": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1.5)*0.5",
+          "blur": "0",
+          "spread": "{generationux.rem} * 0.0625",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Layers_Top"
+    },
+    "Layers_Bottom": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1.5)*0.5",
+          "blur": "0",
+          "spread": "{generationux.rem} * 0.0625",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Layers_Bottom"
+    },
+    "Layers_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.75)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1.25)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1.5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "{generationux.rem} * 0.0625",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Layers_Left"
+    },
+    "Layers_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.75)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1.25)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1.5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "0",
+          "spread": "{generationux.rem} * 0.0625",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Layers_Right"
+    },
+    "Layers_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.75)*0.5",
+          "y": "(-{generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1.25)*0.5",
+          "y": "(-{generationux.rem} * 1.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1.5)*0.5",
+          "y": "(-{generationux.rem} * 1.5)*0.5",
+          "blur": "0",
+          "spread": "{generationux.rem} * 0.0625",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Layers_TopLeft"
+    },
+    "Layers_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.75)*0.5",
+          "y": "(-{generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1.25)*0.5",
+          "y": "(-{generationux.rem} * 1.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1.5)*0.5",
+          "y": "(-{generationux.rem} * 1.5)*0.5",
+          "blur": "0",
+          "spread": "{generationux.rem} * 0.0625",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Layers_TopRight"
+    },
+    "Layers_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.75)*0.5",
+          "y": "({generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1.25)*0.5",
+          "y": "({generationux.rem} * 1.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1.5)*0.5",
+          "y": "({generationux.rem} * 1.5)*0.5",
+          "blur": "0",
+          "spread": "{generationux.rem} * 0.0625",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Layers_BottomLeft"
+    },
+    "Layers_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.75)*0.5",
+          "y": "({generationux.rem} * 0.75)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.primary}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1.25)*0.5",
+          "y": "({generationux.rem} * 1.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1.5)*0.5",
+          "y": "({generationux.rem} * 1.5)*0.5",
+          "blur": "0",
+          "spread": "{generationux.rem} * 0.0625",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Layers_BottomRight"
+    },
+    "System": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "({generationux.rem} * 0.125)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "System"
+    },
+    "Tendo": {
+      "value": [
+        {
+          "x": "0",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Tendo"
+    },
+    "Tosh": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.32)",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Tosh"
+    },
+    "Turbo": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "({generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.5)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.background}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.25)*0.5",
+          "y": "0",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "({generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*0.5",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Turbo"
+    }
+  },
+  "generationux-soft-box-shadow": {
+    "2xl_Top": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 21)*0.5",
+          "blur": "{generationux.rem} * 21",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 13)*0.5",
+          "blur": "{generationux.rem} * 13",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "2xl_Top"
+    },
+    "xl_Top": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xl_Top"
+    },
+    "lg_Top": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "lg_Top"
+    },
+    "sm_Top": {
+      "value": [
+        {
+          "x": "({generationux.rem} *0)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "sm_Top"
+    },
+    "xs_Top": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.09)*0.5",
+          "blur": "{generationux.rem} * 0.09",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "(-{generationux.rem} * 0.06)*0.5",
+          "blur": "{generationux.rem} * 0.06",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xs_Top"
+    },
+    "2xl_Bottom": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 21)*0.5",
+          "blur": "{generationux.rem} * 21",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 13)*0.5",
+          "blur": "{generationux.rem} * 13",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "2xl_Bottom"
+    },
+    "xl_Bottom": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xl_Bottom"
+    },
+    "lg_Bottom": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "lg_Bottom"
+    },
+    "sm_Bottom": {
+      "value": [
+        {
+          "x": "({generationux.rem} *0)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "sm_Bottom"
+    },
+    "xs_Bottom": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.09)*0.5",
+          "blur": "{generationux.rem} * 0.09",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*0.5",
+          "y": "({generationux.rem} * 0.06)*0.5",
+          "blur": "{generationux.rem} * 0.06",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xs_Bottom"
+    },
+    "2xl_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 21)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 21",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 13)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 13",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} *8)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "2xl_Left"
+    },
+    "xl_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 8)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xl_Left"
+    },
+    "lg_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "lg_Left"
+    },
+    "sm_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} *1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 01)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.24)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "sm_Left"
+    },
+    "xs_Left": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.24)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.09)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.09",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.06)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.06",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xs_Left"
+    },
+    "2xl_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 21)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 21",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 13)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 13",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} *8)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "2xl_Right"
+    },
+    "xl_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 8)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 5)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xl_Right"
+    },
+    "lg_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "lg_Right"
+    },
+    "sm_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} *1)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 01)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.24)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "sm_Right"
+    },
+    "xs_Right": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.24)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.09)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.09",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.06)*0.5",
+          "y": "({generationux.rem} * 0)*0.5",
+          "blur": "{generationux.rem} * 0.06",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xs_Right"
+    },
+    "2xl_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 21)*0.5",
+          "y": "(-{generationux.rem} * 21)*0.5",
+          "blur": "{generationux.rem} * 21",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 13)*0.5",
+          "y": "(-{generationux.rem} * 13)*0.5",
+          "blur": "{generationux.rem} * 13",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 8)*0.5",
+          "y": "(-{generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 5)*0.5",
+          "y": "(-{generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "2xl_TopLeft"
+    },
+    "xl_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 8)*0.5",
+          "y": "(-{generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 5)*0.5",
+          "y": "(-{generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xl_TopLeft"
+    },
+    "lg_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "lg_TopLeft"
+    },
+    "sm_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} *1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.24)*0.5",
+          "y": "(-{generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "sm_TopLeft"
+    },
+    "xs_TopLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.24)*0.5",
+          "y": "(-{generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.09)*0.5",
+          "y": "(-{generationux.rem} * 0.09)*0.5",
+          "blur": "{generationux.rem} * 0.09",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.06)*0.5",
+          "y": "(-{generationux.rem} * 0.06)*0.5",
+          "blur": "{generationux.rem} * 0.06",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xs_TopLeft"
+    },
+    "2xl_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 21)*0.5",
+          "y": "(-{generationux.rem} * 21)*0.5",
+          "blur": "{generationux.rem} * 21",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 13)*0.5",
+          "y": "(-{generationux.rem} * 13)*0.5",
+          "blur": "{generationux.rem} * 13",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 8)*0.5",
+          "y": "(-{generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 5)*0.5",
+          "y": "(-{generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "2xl_TopRight"
+    },
+    "xl_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 8)*0.5",
+          "y": "(-{generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 5)*0.5",
+          "y": "(-{generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xl_TopRight"
+    },
+    "lg_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "(-{generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "(-{generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "lg_TopRight"
+    },
+    "sm_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} *1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "(-{generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.24)*0.5",
+          "y": "(-{generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "sm_TopRight"
+    },
+    "xs_TopRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "(-{generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "(-{generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.24)*0.5",
+          "y": "(-{generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "(-{generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.09)*0.5",
+          "y": "(-{generationux.rem} * 0.09)*0.5",
+          "blur": "{generationux.rem} * 0.09",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.06)*0.5",
+          "y": "(-{generationux.rem} * 0.06)*0.5",
+          "blur": "{generationux.rem} * 0.06",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xs_TopRight"
+    },
+    "2xl_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 21)*0.5",
+          "y": "({generationux.rem} * 21)*0.5",
+          "blur": "{generationux.rem} * 21",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 13)*0.5",
+          "y": "({generationux.rem} * 13)*0.5",
+          "blur": "{generationux.rem} * 13",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 8)*0.5",
+          "y": "({generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 5)*0.5",
+          "y": "({generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "2xl_BottomLeft"
+    },
+    "xl_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 8)*0.5",
+          "y": "({generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 5)*0.5",
+          "y": "({generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xl_BottomLeft"
+    },
+    "lg_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "lg_BottomLeft"
+    },
+    "sm_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} *1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.24)*0.5",
+          "y": "({generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "sm_BottomLeft"
+    },
+    "xs_BottomLeft": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.24)*0.5",
+          "y": "({generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.09)*0.5",
+          "y": "({generationux.rem} * 0.09)*0.5",
+          "blur": "{generationux.rem} * 0.09",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.06)*0.5",
+          "y": "({generationux.rem} * 0.06)*0.5",
+          "blur": "{generationux.rem} * 0.06",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xs_BottomLeft"
+    },
+    "2xl_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 21)*0.5",
+          "y": "({generationux.rem} * 21)*0.5",
+          "blur": "{generationux.rem} * 21",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 13)*0.5",
+          "y": "({generationux.rem} * 13)*0.5",
+          "blur": "{generationux.rem} * 13",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 8)*0.5",
+          "y": "({generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 5)*0.5",
+          "y": "({generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "2xl_BottomRight"
+    },
+    "xl_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 8)*0.5",
+          "y": "({generationux.rem} * 8)*0.5",
+          "blur": "{generationux.rem} * 8",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 5)*0.5",
+          "y": "({generationux.rem} * 5)*0.5",
+          "blur": "{generationux.rem} * 5",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xl_BottomRight"
+    },
+    "lg_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 3)*0.5",
+          "y": "({generationux.rem} * 3)*0.5",
+          "blur": "{generationux.rem} * 3",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 2)*0.5",
+          "y": "({generationux.rem} * 2)*0.5",
+          "blur": "{generationux.rem} * 2",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "lg_BottomRight"
+    },
+    "sm_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} *1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 1)*0.5",
+          "y": "({generationux.rem} * 1)*0.5",
+          "blur": "{generationux.rem} * 1",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.24)*0.5",
+          "y": "({generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "sm_BottomRight"
+    },
+    "xs_BottomRight": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0.62)*0.5",
+          "y": "({generationux.rem} * 0.62)*0.5",
+          "blur": "{generationux.rem} * 0.62",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.24)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.38)*0.5",
+          "y": "({generationux.rem} * 0.38)*0.5",
+          "blur": "{generationux.rem} * 0.38",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.20)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.24)*0.5",
+          "y": "({generationux.rem} * 0.24)*0.5",
+          "blur": "{generationux.rem} * 0.24",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.16)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.15)*0.5",
+          "y": "({generationux.rem} * 0.15)*0.5",
+          "blur": "{generationux.rem} * 0.15",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.09)*0.5",
+          "y": "({generationux.rem} * 0.09)*0.5",
+          "blur": "{generationux.rem} * 0.09",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.12)",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.06)*0.5",
+          "y": "({generationux.rem} * 0.06)*0.5",
+          "blur": "{generationux.rem} * 0.06",
+          "spread": "0",
+          "color": "rgba({generationux-styles.boxshadow}, 0.08)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "xs_BottomRight"
+    }
+  }
+}
