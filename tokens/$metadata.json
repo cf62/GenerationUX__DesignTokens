@@ -200,11 +200,17 @@
     "🌙Dark/Midnightblue-Orchid",
     "🌙Dark/Midnightblue-Paleturquoise",
     "🌙Dark/Midnightblue-Palevioletred",
-    "📐Compact/Size",
-    "📐Compact/Padding",
-    "📐Compact/BorderRadius",
-    "📐Compact/BorderWidth",
-    "📐Compact/BoxShadow",
-    "📐Compact/Type"
+    "▂Tight/BorderRadius",
+    "▂Tight/BorderWidth",
+    "▂Tight/BoxShadow",
+    "▂Tight/Padding",
+    "▂Tight/Size",
+    "▂Tight/Type",
+    "▄Compact/Size",
+    "▄Compact/Padding",
+    "▄Compact/BorderRadius",
+    "▄Compact/BorderWidth",
+    "▄Compact/BoxShadow",
+    "▄Compact/Type"
   ]
 }
