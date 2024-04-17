@@ -1,7 +1,7 @@
 {
   "generationux-styles": {
     "background": {
-      "value": "#facc15",
+      "value": "#FDE047",
       "type": "color",
       "description": "background"
     },
@@ -11,7 +11,7 @@
       "description": "foreground"
     },
     "card": {
-      "value": "#facc15",
+      "value": "#FDE047",
       "type": "color",
       "description": "card"
     },
@@ -21,7 +21,7 @@
       "description": "card-foreground"
     },
     "popover": {
-      "value": "#facc15",
+      "value": "#FDE047",
       "type": "color",
       "description": "popover"
     },
@@ -36,7 +36,7 @@
       "description": "primary"
     },
     "primary-foreground": {
-      "value": "#facc15",
+      "value": "#FDE047",
       "type": "color",
       "description": "primary-foreground"
     },
@@ -51,7 +51,7 @@
       "description": "secondary-foreground"
     },
     "muted": {
-      "value": "#eab308",
+      "value": "#FDE047",
       "type": "color",
       "description": "muted"
     },
