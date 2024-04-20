@@ -99,15 +99,15 @@
       "type": "fontFamilies",
       "description": "Clash Grotesk"
     },
-    "Geist": {
-      "value": "Geist",
-      "type": "fontFamilies",
-      "description": "Geist"
-    },
     "Epilogue": {
       "value": "Epilogue",
       "type": "fontFamilies",
       "description": "Epilogue"
+    },
+    "Geist": {
+      "value": "Geist",
+      "type": "fontFamilies",
+      "description": "Geist"
     },
     "General Sans": {
       "value": "General Sans",
