@@ -1145,6 +1145,82 @@
       "type": "boxShadow",
       "description": "Brut_BottomRight"
     },
+    "Brut_Four": {
+      "value": [
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "(-{generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0)*1",
+          "y": "({generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_Four"
+    },
+    "Brut_All": {
+      "value": [
+        {
+          "x": "(-{generationux.rem} * 0.5)*1",
+          "y": "(-{generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "(-{generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "(-{generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0.5)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Brut_All"
+    },
     "Buona_Top": {
       "value": [
         {
