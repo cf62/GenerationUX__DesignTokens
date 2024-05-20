@@ -129,6 +129,11 @@
       "type": "fontFamilies",
       "description": "Khand"
     },
+    "Manrope": {
+      "value": "Manrope",
+      "type": "fontFamilies",
+      "description": "Manrope"
+    },
     "Melodrama": {
       "value": "Melodrama",
       "type": "fontFamilies",
