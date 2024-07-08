@@ -46,7 +46,7 @@
       "description": "secondary"
     },
     "secondary-foreground": {
-      "value": "#FFFFFF",
+      "value": "#00CBF1",
       "type": "color",
       "description": "secondary-foreground"
     },
