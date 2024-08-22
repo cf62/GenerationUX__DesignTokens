@@ -51,7 +51,7 @@
       "description": "secondary-foreground"
     },
     "muted": {
-      "value": "#E6EB33",
+      "value": "#EDEFEC",
       "type": "color",
       "description": "muted"
     },
