@@ -51,12 +51,12 @@
       "description": "secondary-foreground"
     },
     "muted": {
-      "value": "#2E2E2E",
+      "value": "#575757",
       "type": "color",
       "description": "muted"
     },
     "muted-foreground": {
-      "value": "#F4F85B",
+      "value": "#c7ce09",
       "type": "color",
       "description": "muted-foreground"
     },
