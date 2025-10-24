@@ -1,845 +1,846 @@
 {
   "generationux-font-display": {
     "Bevellier": {
-      "value": "Bevellier",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Bevellier"
     },
     "Chubbo": {
-      "value": "Chubbo",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Chubbo"
     },
     "Melodrama": {
-      "value": "Melodrama",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Melodrama"
     },
     "Nippo": {
-      "value": "Nippo",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Nippo"
     },
     "Sharpie": {
-      "value": "Sharpie",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Sharpie"
     },
     "Styro": {
-      "value": "Styro",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Styro"
     }
   },
   "generationux-font-mono": {
     "Geist Mono": {
-      "value": "Geist Mono",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Geist Mono"
     },
     "JetBrains Mono": {
-      "value": "JetBrains Mono",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "JetBrains Mono"
     }
   },
   "generationux-font-sans": {
     "Alpino": {
-      "value": "Alpino",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Alpino"
     },
     "Archivo": {
-      "value": "Archivo",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Archivo"
     },
     "Author": {
-      "value": "Author",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Author"
     },
     "Azeret Mono": {
-      "value": "Azeret Mono",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Azeret Mono"
     },
     "Bespoke Sans": {
-      "value": "Bespoke Sans",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Bespoke Sans"
     },
     "Bespoke Stencil": {
-      "value": "Bespoke Stencil",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Bespoke Stencil"
     },
     "Be Vietnam": {
-      "value": "Be Vietnam",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Be Vietnam"
     },
     "Cabinet Grotesk": {
-      "value": "Cabinet Grotesk",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Cabinet Grotesk"
     },
     "Chillax": {
-      "value": "Chillax",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Chillax"
     },
     "Clash Display": {
-      "value": "Clash Display",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Clash Display"
     },
     "Clash Grotesk": {
-      "value": "Clash Grotesk",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Clash Grotesk"
     },
     "Epilogue": {
-      "value": "Epilogue",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Epilogue"
     },
     "Geist": {
-      "value": "Geist",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Geist"
     },
     "General Sans": {
-      "value": "General Sans",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "General Sans"
     },
     "Hind": {
-      "value": "Hind",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Hind"
     },
     "Inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Inter"
     },
     "Khand": {
-      "value": "Khand",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Khand"
     },
     "Manrope": {
-      "value": "Manrope",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Manrope"
     },
     "Melodrama": {
-      "value": "Melodrama",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Melodrama"
     },
     "Monaspace Argon": {
-      "value": "Monaspace Argon",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Monaspace Argon"
     },
     "Monaspace Krypton": {
-      "value": "Monaspace Krypton",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Monaspace Krypton"
     },
     "Monaspace Neon": {
-      "value": "Monaspace Neon",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Monaspace Neon"
     },
     "New Title": {
-      "value": "New Title",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "New Title"
     },
     "Oswald": {
-      "value": "Oswald",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Oswald"
     },
     "Outfit": {
-      "value": "Outfit",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Outfit"
     },
     "Panchang": {
-      "value": "Panchang",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Panchang"
     },
     "Plein": {
-      "value": "Plein",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Plein"
     },
     "Plus Jakarta Sans": {
-      "value": "Plus Jakarta Sans",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Plus Jakarta Sans"
     },
     "Poppins": {
-      "value": "Poppins",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Poppins"
     },
     "Quicksand": {
-      "value": "Quicksand",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Quicksand"
     },
     "Rajdhani": {
-      "value": "Rajdhani",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Rajdhani"
     },
     "Ranade": {
-      "value": "Ranade",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Ranade"
     },
     "Red Hat Display": {
-      "value": "Red Hat Display",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Red Hat Display"
     },
     "Roundo": {
-      "value": "Roundo",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Roundo"
     },
     "Satoshi": {
-      "value": "Satoshi",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Satoshi"
     },
     "Sora": {
-      "value": "Sora",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Sora"
     },
     "Space Grotesk": {
-      "value": "Space Grotesk",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Space Grotesk"
     },
     "Spline Sans": {
-      "value": "Spline Sans",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Spline Sans"
     },
     "Supreme": {
-      "value": "Supreme",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Supreme"
     },
     "Switzer": {
-      "value": "Switzer",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Switzer"
     },
     "Synonym": {
-      "value": "Synonym",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Synonym"
     },
     "Tabular": {
-      "value": "Tabular",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Tabular"
     },
     "Technor": {
-      "value": "Technor",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Technor"
     },
     "Teko": {
-      "value": "Teko",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Teko"
     },
     "Work Sans": {
-      "value": "Work Sans",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Work Sans"
     }
   },
   "generationux-font-script": {
     "Britney": {
-      "value": "Britney",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Britney"
     },
     "Monaspace Radon": {
-      "value": "Monaspace Radon",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Monaspace Radon"
     },
     "Telma": {
-      "value": "Telma",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Telma"
     }
   },
   "generationux-font-serif": {
     "Bespoke Serif": {
-      "value": "Bespoke Serif",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Bespoke Serif"
     },
     "Bonny": {
-      "value": "Bonny",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Bonny"
     },
     "Boska": {
-      "value": "Boska",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Boska"
     },
     "Crimson Pro": {
-      "value": "Crimson Pro",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Crimson Pro"
     },
     "Gambetta": {
-      "value": "Gambetta",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Gambetta"
     },
     "Literata": {
-      "value": "Literata",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Literata"
     },
     "Monaspace Xenon": {
-      "value": "Monaspace Xenon",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Monaspace Xenon"
     },
     "Recia": {
-      "value": "Recia",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Recia"
     },
     "Rowan": {
-      "value": "Rowan",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Rowan"
     },
     "Sentient": {
-      "value": "Sentient",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Sentient"
     },
     "Zodiak": {
-      "value": "Zodiak",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Zodiak"
     }
   },
   "generationux-font-slab": {
     "Bespoke Slab": {
-      "value": "Bespoke Slab",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Bespoke Slab"
     },
     "Hoover": {
-      "value": "Hoover",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Hoover"
     },
     "Trench Slab": {
-      "value": "Trench Slab",
-      "type": "fontFamilies"
+      "$type": "fontFamily",
+      "$value": "Trench Slab"
     }
   },
   "generationux-font-weight": {
     "font-light": {
-      "value": "Light",
-      "type": "fontWeights"
+      "$type": "fontWeight",
+      "$value": "Light"
     },
     "font-normal": {
-      "value": "Regular",
-      "type": "fontWeights"
+      "$type": "fontWeight",
+      "$value": "Regular"
     },
     "font-bold": {
-      "value": "Bold",
-      "type": "fontWeights"
+      "$type": "fontWeight",
+      "$value": "Bold"
     }
   },
   "generationux": {
     "rem": {
-      "value": "16",
-      "type": "other"
+      "$type": "dimension",
+      "$value": "16"
     }
   },
   "generationux-line-height": {
     "leading-2": {
-      "value": "({generationux.rem} * 0.5)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 0.5)*1"
     },
     "leading-3": {
-      "value": "({generationux.rem} * 0.75)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 0.75)*1"
     },
     "leading-4": {
-      "value": "({generationux.rem} * 1)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1)*1"
     },
     "leading-5": {
-      "value": "({generationux.rem} * 1.25)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1.25)*1"
     },
     "leading-6": {
-      "value": "({generationux.rem} * 1.5)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1.5)*1"
     },
     "leading-7": {
-      "value": "({generationux.rem} * 1.75)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1.75)*1"
     },
     "leading-8": {
-      "value": "({generationux.rem} * 2)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 2)*1"
     },
     "leading-9": {
-      "value": "({generationux.rem} * 2.25)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 2.25)*1"
     },
     "leading-10": {
-      "value": "({generationux.rem} * 2.5)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 2.5)*1"
     },
     "leading-none": {
-      "value": "({generationux.rem} * 1)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1)*1"
     },
     "leading-tight": {
-      "value": "({generationux.rem} * 1.25)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1.25)*1"
     },
     "leading-snug": {
-      "value": "({generationux.rem} * 1.375)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1.375)*1"
     },
     "leading-normal": {
-      "value": "({generationux.rem} * 1.5)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1.5)*1"
     },
     "leading-relaxed": {
-      "value": "({generationux.rem} * 1.625)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 1.625)*1"
     },
     "leading-loose": {
-      "value": "({generationux.rem} * 2)*1",
-      "type": "lineHeights"
+      "$type": "lineHeight",
+      "$value": "({generationux.rem} * 2)*1"
     }
   },
   "generationux-typography": {
     "text-9xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-font-size.font-size-32}",
         "fontSize": "{generationux-font-size.font-size-32}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-8xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-font-size.font-size-24}",
         "fontSize": "{generationux-font-size.font-size-24}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-7xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-font-size.font-size-18}",
         "fontSize": "{generationux-font-size.font-size-18}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-6xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-font-size.font-size-15}",
         "fontSize": "{generationux-font-size.font-size-15}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-5xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-font-size.font-size-12}",
         "fontSize": "{generationux-font-size.font-size-12}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-4xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-10}",
         "fontSize": "{generationux-font-size.font-size-9}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-3xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-9}",
         "fontSize": "{generationux-font-size.font-size-7_5}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-2xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-8}",
         "fontSize": "{generationux-font-size.font-size-6}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-xl": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-7}",
         "fontSize": "{generationux-font-size.font-size-5}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-lg": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-7}",
         "fontSize": "{generationux-font-size.font-size-4_5}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-base": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-6}",
         "fontSize": "{generationux-font-size.font-size-4}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-sm": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-5}",
         "fontSize": "{generationux-font-size.font-size-3_5}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-xs": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-4}",
         "fontSize": "{generationux-font-size.font-size-3}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     },
     "text-xxs": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "",
         "fontWeight": "",
         "lineHeight": "{generationux-line-height.leading-2}",
         "fontSize": "{generationux-font-size.font-size-2}",
         "letterSpacing": "{generationux-letter-spacing.tracking-wide}",
         "textCase": "{generationux-text-transform.original}"
-      },
-      "type": "typography"
+      }
     }
   },
   "generationux-font-size": {
     "font-size-2": {
-      "value": "({generationux.rem} * 0.5)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 0.5)*1"
     },
     "font-size-3": {
-      "value": "({generationux.rem} * 0.75)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 0.75)*1"
     },
     "font-size-3_5": {
-      "value": "({generationux.rem} * 0.875)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 0.875)*1"
     },
     "font-size-4": {
-      "value": "({generationux.rem} * 1)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 1)*1"
     },
     "font-size-4_5": {
-      "value": "({generationux.rem} * 1.125)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 1.125)*1"
     },
     "font-size-5": {
-      "value": "({generationux.rem} * 1.25)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 1.25)*1"
     },
     "font-size-6": {
-      "value": "({generationux.rem} * 1.5)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 1.5)*1"
     },
     "font-size-7_5": {
-      "value": "({generationux.rem} * 1.875)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 1.875)*1"
     },
     "font-size-9": {
-      "value": "({generationux.rem} * 2.25)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 2.25)*1"
     },
     "font-size-12": {
-      "value": "({generationux.rem} * 3)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 3)*1"
     },
     "font-size-15": {
-      "value": "({generationux.rem} * 3.75)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 3.75)*1"
     },
     "font-size-18": {
-      "value": "({generationux.rem} * 4.5)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 4.5)*1"
     },
     "font-size-24": {
-      "value": "({generationux.rem} * 6)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 6)*1"
     },
     "font-size-32": {
-      "value": "({generationux.rem} * 8)*1",
-      "type": "fontSizes"
+      "$type": "fontSize",
+      "$value": "({generationux.rem} * 8)*1"
     }
   },
   "generationux-text-transform": {
     "uppercase": {
-      "value": "uppercase",
-      "type": "textCase"
+      "$type": "textCase",
+      "$value": "uppercase"
     },
     "lowercase": {
-      "value": "lowercase",
-      "type": "textCase"
+      "$type": "textCase",
+      "$value": "lowercase"
     },
     "capitalize": {
-      "value": "capitalize",
-      "type": "textCase"
+      "$type": "textCase",
+      "$value": "capitalize"
     },
     "original": {
-      "value": "original",
-      "type": "textCase"
+      "$type": "textCase",
+      "$value": "original"
     }
   },
   "generationux-letter-spacing": {
     "tracking-tighter": {
-      "value": "(-{generationux.rem} * 0.05)*1",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "(-{generationux.rem} * 0.05)*1"
     },
     "tracking-tight": {
-      "value": "(-{generationux.rem} * 0.025)*1",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "(-{generationux.rem} * 0.025)*1"
     },
     "tracking-normal": {
-      "value": "({generationux.rem} * 0)*1",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "({generationux.rem} * 0)*1"
     },
     "tracking-wide": {
-      "value": "({generationux.rem} * 0.03125)*1",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "({generationux.rem} * 0.03125)*1"
     },
     "tracking-wider": {
-      "value": "({generationux.rem} * 0.05)*1",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "({generationux.rem} * 0.05)*1"
     },
     "tracking-widest": {
-      "value": "({generationux.rem} * 0.1)*1",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "({generationux.rem} * 0.1)*1"
     }
   },
   "generationux-padding": {
     "p-0": {
-      "value": "({generationux.rem} * 0)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0)*1"
     },
     "p-px": {
-      "value": "({generationux.rem} * 0.0625)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0.0625)*1"
     },
     "p-0_5": {
-      "value": "({generationux.rem} * 0.125)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0.125)*1"
     },
     "p-1": {
-      "value": "({generationux.rem} * 0.25)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0.25)*1"
     },
     "p-1_5": {
-      "value": "({generationux.rem} * 0.375)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0.375)*1"
     },
     "p-2": {
-      "value": "({generationux.rem} * 0.5)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0.5)*1"
     },
     "p-2_5": {
-      "value": "({generationux.rem} * 0.625)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0.625)*1"
     },
     "p-3": {
-      "value": "({generationux.rem} * 0.75)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0.75)*1"
     },
     "p-3_5": {
-      "value": "({generationux.rem} * 0.875)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 0.875)*1"
     },
     "p-4": {
-      "value": "({generationux.rem} * 1)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 1)*1"
     },
     "p-5": {
-      "value": "({generationux.rem} * 1.25)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 1.25)*1"
     },
     "p-6": {
-      "value": "({generationux.rem} * 1.5)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 1.5)*1"
     },
     "p-7": {
-      "value": "({generationux.rem} * 1.75)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 1.75)*1"
     },
     "p-8": {
-      "value": "({generationux.rem} * 2)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 2)*1"
     },
     "p-9": {
-      "value": "({generationux.rem} * 2.25)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 2.25)*1"
     },
     "p-10": {
-      "value": "({generationux.rem} * 2.5)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 2.5)*1"
     },
     "p-11": {
-      "value": "({generationux.rem} * 2.75)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 2.75)*1"
     },
     "p-12": {
-      "value": "({generationux.rem} * 3)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 3)*1"
     },
     "p-14": {
-      "value": "({generationux.rem} * 3.5)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 3.5)*1"
     },
     "p-16": {
-      "value": "({generationux.rem} * 4)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 4)*1"
     },
     "p-20": {
-      "value": "({generationux.rem} * 5)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 5)*1"
     },
     "p-24": {
-      "value": "({generationux.rem} * 6)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 6)*1"
     },
     "p-28": {
-      "value": "({generationux.rem} * 7)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 7)*1"
     },
     "p-32": {
-      "value": "({generationux.rem} * 8)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 8)*1"
     },
     "p-36": {
-      "value": "({generationux.rem} * 9)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 9)*1"
     },
     "p-40": {
-      "value": "({generationux.rem} * 10)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 10)*1"
     },
     "p-44": {
-      "value": "({generationux.rem} * 11)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 11)*1"
     },
     "p-48": {
-      "value": "({generationux.rem} * 12)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 12)*1"
     },
     "p-52": {
-      "value": "({generationux.rem} * 13)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 13)*1"
     },
     "p-56": {
-      "value": "({generationux.rem} * 14)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 14)*1"
     },
     "p-60": {
-      "value": "({generationux.rem} * 15)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 15)*1"
     },
     "p-64": {
-      "value": "({generationux.rem} * 16)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 16)*1"
     },
     "p-72": {
-      "value": "({generationux.rem} * 18)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 18)*1"
     },
     "p-80": {
-      "value": "({generationux.rem} * 20)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 20)*1"
     },
     "p-96": {
-      "value": "({generationux.rem} * 24)*1",
-      "type": "spacing"
+      "$type": "dimension",
+      "$value": "({generationux.rem} * 24)*1"
     }
   },
   "generationux-border-radius": {
     "rounded-none": {
-      "value": "({generationux.rem} * 0)*1",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "({generationux.rem} * 0)*1"
     },
     "rounded-sm": {
-      "value": "({generationux.rem} * 0.125)*1",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "({generationux.rem} * 0.125)*1"
     },
     "rounded": {
-      "value": "({generationux.rem} * 0.25)*1",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "({generationux.rem} * 0.25)*1"
     },
     "rounded-md": {
-      "value": "({generationux.rem} * 0.375)*1",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "({generationux.rem} * 0.375)*1"
     },
     "rounded-lg": {
-      "value": "({generationux.rem} * 0.5)*1",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "({generationux.rem} * 0.5)*1"
     },
     "rounded-xl": {
-      "value": "({generationux.rem} * 0.75)*1",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "({generationux.rem} * 0.75)*1"
     },
     "rounded-2xl": {
-      "value": "({generationux.rem} * 1)*1",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "({generationux.rem} * 1)*1"
     },
     "rounded-3xl": {
-      "value": "({generationux.rem} * 1.5)*1",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "({generationux.rem} * 1.5)*1"
     },
     "rounded-full": {
-      "value": "9999px",
-      "type": "borderRadius"
+      "$type": "borderRadius",
+      "$value": "9999px"
     }
   },
   "generationux-border-width": {
     "border-0": {
-      "value": "({generationux.rem} * 0)*1",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "({generationux.rem} * 0)*1"
     },
-    "border-<px": {
-      "value": "({generationux.rem} * 0.03125)*1",
-      "type": "borderWidth"
+    "border-px": {
+      "$type": "borderWidth",
+      "$value": "({generationux.rem} * 0.03125)*1"
     },
     "border": {
-      "value": "({generationux.rem} * 0.0625)*1",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "({generationux.rem} * 0.0625)*1"
     },
     "border-2": {
-      "value": "({generationux.rem} * 0.125)*1",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "({generationux.rem} * 0.125)*1"
     },
     "border-4": {
-      "value": "({generationux.rem} * 0.25)*1",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "({generationux.rem} * 0.25)*1"
     },
     "border-8": {
-      "value": "({generationux.rem} * 0.5)*1",
-      "type": "borderWidth"
+      "$type": "borderWidth",
+      "$value": "({generationux.rem} * 0.5)*1"
     }
   },
   "generationux-box-shadow": {
     "clear": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "0",
           "y": "0",
@@ -856,13 +857,13 @@
           "color": "{generationux-styles.secondary}",
           "type": "innerShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     }
   },
   "generationux-hard-box-shadow": {
     "Brut_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 0.5)* 1",
@@ -871,11 +872,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 0.5)* 1",
@@ -884,11 +885,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.5)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -897,11 +898,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.5)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -910,11 +911,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.5)* 1",
           "y": "(-{generationux.rem} * 0.5)* 1",
@@ -923,11 +924,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.5)* 1",
           "y": "(-{generationux.rem} * 0.5)* 1",
@@ -936,11 +937,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.5)* 1",
           "y": "({generationux.rem} * 0.5)* 1",
@@ -949,11 +950,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.5)* 1",
           "y": "({generationux.rem} * 0.5)* 1",
@@ -962,11 +963,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_Four": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 0.5)* 1",
@@ -999,11 +1000,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Brut_All": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.5)* 1",
           "y": "(-{generationux.rem} * 0.5)* 1",
@@ -1036,11 +1037,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Buona_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 05)* 1",
@@ -1105,11 +1106,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Buona_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 0.05)* 1",
@@ -1174,11 +1175,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Buona_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 05)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -1243,11 +1244,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Buona_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.05)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -1312,11 +1313,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Buona_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 05)* 1",
           "y": "(-{generationux.rem} * 05)* 1",
@@ -1381,11 +1382,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Buona_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.05)* 1",
           "y": "(-{generationux.rem} * 05)* 1",
@@ -1450,11 +1451,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Buona_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 05)* 1",
           "y": "({generationux.rem} * 0.05)* 1",
@@ -1519,11 +1520,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Buona_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.05)* 1",
           "y": "({generationux.rem} * 0.05)* 1",
@@ -1588,11 +1589,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Flare_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 1)* 1",
@@ -1625,11 +1626,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Flare_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 1)* 1",
@@ -1662,11 +1663,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Flare_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -1699,11 +1700,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Flare_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -1736,11 +1737,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Flare_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
           "y": "(-{generationux.rem} * 1)* 1",
@@ -1773,11 +1774,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Flare_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
           "y": "(-{generationux.rem} * 1)* 1",
@@ -1810,11 +1811,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Flare_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
           "y": "({generationux.rem} * 1)* 1",
@@ -1847,11 +1848,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Flare_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
           "y": "({generationux.rem} * 1)* 1",
@@ -1884,11 +1885,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Layers_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 0.25)* 1",
@@ -1937,11 +1938,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Layers_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 0.25)* 1",
@@ -1990,11 +1991,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Layers_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.25)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -2043,11 +2044,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Layers_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.25)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -2096,11 +2097,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Layers_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.25)* 1",
           "y": "(-{generationux.rem} * 0.25)* 1",
@@ -2149,11 +2150,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Layers_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.25)* 1",
           "y": "(-{generationux.rem} * 0.25)* 1",
@@ -2202,11 +2203,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Layers_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.25)* 1",
           "y": "({generationux.rem} * 0.25)* 1",
@@ -2255,11 +2256,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Layers_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.25)* 1",
           "y": "({generationux.rem} * 0.25)* 1",
@@ -2308,11 +2309,11 @@
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "System": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.25)* 1",
           "y": "({generationux.rem} * 0.5)* 1",
@@ -2393,11 +2394,11 @@
           "color": "{generationux-styles.background}",
           "type": "innerShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Tendo": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "0",
           "y": "({generationux.rem} * 0.25)* 1",
@@ -2446,11 +2447,11 @@
           "color": "{generationux-styles.background}",
           "type": "innerShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Tosh": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.25)* 1",
           "y": "({generationux.rem} * 0.5)* 1",
@@ -2531,11 +2532,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.32)",
           "type": "innerShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "Turbo": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.5)* 1",
           "y": "({generationux.rem} * 0.5)* 1",
@@ -2608,13 +2609,13 @@
           "color": "{generationux-styles.secondary}",
           "type": "innerShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     }
   },
   "generationux-soft-box-shadow": {
     "2xl_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 21)* 1",
@@ -2663,11 +2664,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xl_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 8)* 1",
@@ -2716,11 +2717,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "lg_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 3)* 1",
@@ -2769,11 +2770,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "sm_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 1)* 1",
@@ -2822,11 +2823,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xs_Top": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "(-{generationux.rem} * 0.62)* 1",
@@ -2875,11 +2876,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "2xl_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 21)* 1",
@@ -2928,11 +2929,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xl_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 8)* 1",
@@ -2981,11 +2982,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "lg_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 3)* 1",
@@ -3034,11 +3035,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "sm_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 1)* 1",
@@ -3087,11 +3088,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xs_Bottom": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
           "y": "({generationux.rem} * 0.62)* 1",
@@ -3140,11 +3141,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "2xl_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 21)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3193,11 +3194,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xl_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 8)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3246,11 +3247,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "lg_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 3)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3299,11 +3300,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "sm_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3352,11 +3353,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xs_Left": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.62)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3405,11 +3406,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "2xl_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 21)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3458,11 +3459,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xl_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 8)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3511,11 +3512,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "lg_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 3)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3564,11 +3565,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "sm_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3617,11 +3618,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xs_Right": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.62)* 1",
           "y": "({generationux.rem} * 0)* 1",
@@ -3670,11 +3671,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "2xl_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 21)* 1",
           "y": "(-{generationux.rem} * 21)* 1",
@@ -3723,11 +3724,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xl_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 8)* 1",
           "y": "(-{generationux.rem} * 8)* 1",
@@ -3776,11 +3777,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "lg_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 3)* 1",
           "y": "(-{generationux.rem} * 3)* 1",
@@ -3829,11 +3830,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "sm_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
           "y": "(-{generationux.rem} * 1)* 1",
@@ -3882,11 +3883,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xs_TopLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.62)* 1",
           "y": "(-{generationux.rem} * 0.62)* 1",
@@ -3935,11 +3936,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "2xl_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 21)* 1",
           "y": "(-{generationux.rem} * 21)* 1",
@@ -3988,11 +3989,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xl_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 8)* 1",
           "y": "(-{generationux.rem} * 8)* 1",
@@ -4041,11 +4042,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "lg_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 3)* 1",
           "y": "(-{generationux.rem} * 3)* 1",
@@ -4094,11 +4095,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "sm_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
           "y": "(-{generationux.rem} * 1)* 1",
@@ -4147,11 +4148,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xs_TopRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.62)* 1",
           "y": "(-{generationux.rem} * 0.62)* 1",
@@ -4200,11 +4201,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "2xl_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 21)* 1",
           "y": "({generationux.rem} * 21)* 1",
@@ -4253,11 +4254,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xl_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 8)* 1",
           "y": "({generationux.rem} * 8)* 1",
@@ -4306,11 +4307,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "lg_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 3)* 1",
           "y": "({generationux.rem} * 3)* 1",
@@ -4359,11 +4360,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "sm_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
           "y": "({generationux.rem} * 1)* 1",
@@ -4412,11 +4413,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xs_BottomLeft": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "(-{generationux.rem} * 0.62)* 1",
           "y": "({generationux.rem} * 0.62)* 1",
@@ -4465,11 +4466,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "2xl_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 21)* 1",
           "y": "({generationux.rem} * 21)* 1",
@@ -4518,11 +4519,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xl_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 8)* 1",
           "y": "({generationux.rem} * 8)* 1",
@@ -4571,11 +4572,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "lg_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 3)* 1",
           "y": "({generationux.rem} * 3)* 1",
@@ -4624,11 +4625,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "sm_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
           "y": "({generationux.rem} * 1)* 1",
@@ -4677,11 +4678,11 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "xs_BottomRight": {
-      "value": [
+      "$type": "shadow",
+      "$value": [
         {
           "x": "({generationux.rem} * 0.62)* 1",
           "y": "({generationux.rem} * 0.62)* 1",
@@ -4730,272 +4731,271 @@
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
           "type": "dropShadow"
         }
-      ],
-      "type": "boxShadow"
+      ]
     }
   },
   "generationux-styles": {
     "background": {
-      "value": "#FFFFFF",
-      "type": "color"
+      "$type": "color",
+      "$value": "#FFFFFF"
     },
     "foreground": {
-      "value": "#1e293b",
-      "type": "color"
+      "$type": "color",
+      "$value": "#1e293b"
     },
     "primary": {
-      "value": "#1e293b",
-      "type": "color"
+      "$type": "color",
+      "$value": "#1e293b"
     },
     "secondary": {
-      "value": "#f1f5f9",
-      "type": "color"
+      "$type": "color",
+      "$value": "#f1f5f9"
     },
     "generationux-size": {
       "size-0": {
-        "value": "({generationux.rem} * 0)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0)*1"
       },
       "size-px": {
-        "value": "({generationux.rem} * 0.0625)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0.0625)*1"
       },
       "size-0_5": {
-        "value": "({generationux.rem} * 0.125)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0.125)*1"
       },
       "size-1": {
-        "value": "({generationux.rem} * 0.25)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0.25)*1"
       },
       "size-1_5": {
-        "value": "({generationux.rem} * 0.375)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0.375)*1"
       },
       "size-2": {
-        "value": "({generationux.rem} * 0.5)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0.5)*1"
       },
       "size-2_5": {
-        "value": "({generationux.rem} * 0.625)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0.625)*1"
       },
       "size-3": {
-        "value": "({generationux.rem} * 0.75)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0.75)*1"
       },
       "size-3_5": {
-        "value": "({generationux.rem} * 0.875)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 0.875)*1"
       },
       "size-4": {
-        "value": "({generationux.rem} * 1)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 1)*1"
       },
       "size-5": {
-        "value": "({generationux.rem} * 1.25)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 1.25)*1"
       },
       "size-6": {
-        "value": "({generationux.rem} * 1.5)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 1.5)*1"
       },
       "size-7": {
-        "value": "({generationux.rem} * 1.75)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 1.75)*1"
       },
       "size-8": {
-        "value": "({generationux.rem} * 2)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 2)*1"
       },
       "size-9": {
-        "value": "({generationux.rem} * 2.25)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 2.25)*1"
       },
       "size-10": {
-        "value": "({generationux.rem} * 2.5)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 2.5)*1"
       },
       "size-11": {
-        "value": "({generationux.rem} * 2.75)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 2.75)*1"
       },
       "size-12": {
-        "value": "({generationux.rem} * 3)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 3)*1"
       },
       "size-14": {
-        "value": "({generationux.rem} * 3.5)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 3.5)*1"
       },
       "size-16": {
-        "value": "({generationux.rem} * 4)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 4)*1"
       },
       "size-20": {
-        "value": "({generationux.rem} * 5)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 5)*1"
       },
       "size-24": {
-        "value": "({generationux.rem} * 6)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 6)*1"
       },
       "size-28": {
-        "value": "({generationux.rem} * 7)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 7)*1"
       },
       "size-32": {
-        "value": "({generationux.rem} * 8)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 8)*1"
       },
       "size-36": {
-        "value": "({generationux.rem} * 9)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 9)*1"
       },
       "size-40": {
-        "value": "({generationux.rem} * 10)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 10)*1"
       },
       "size-44": {
-        "value": "({generationux.rem} * 11)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 11)*1"
       },
       "size-48": {
-        "value": "({generationux.rem} * 12)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 12)*1"
       },
       "size-52": {
-        "value": "({generationux.rem} * 13)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 13)*1"
       },
       "size-56": {
-        "value": "({generationux.rem} * 14)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 14)*1"
       },
       "size-60": {
-        "value": "({generationux.rem} * 15)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 15)*1"
       },
       "size-64": {
-        "value": "({generationux.rem} * 16)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 16)*1"
       },
       "size-72": {
-        "value": "({generationux.rem} * 18)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 18)*1"
       },
       "size-80": {
-        "value": "({generationux.rem} * 20)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 20)*1"
       },
       "size-96": {
-        "value": "({generationux.rem} * 24)*1",
-        "type": "sizing"
+        "$type": "dimension",
+        "$value": "({generationux.rem} * 24)*1"
       }
     },
     "generationux-opacity": {
       "opacity-0": {
-        "value": "0",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0"
       },
       "opacity-5": {
-        "value": "0.05",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.05"
       },
       "opacity-10": {
-        "value": "0.1",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.1"
       },
       "opacity-15": {
-        "value": "0.15",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.15"
       },
       "opacity-20": {
-        "value": "0.2",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.2"
       },
       "opacity-25": {
-        "value": "0.25",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.25"
       },
       "opacity-30": {
-        "value": "0.3",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.3"
       },
       "opacity-35": {
-        "value": "0.35",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.35"
       },
       "opacity-40": {
-        "value": "0.40",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.40"
       },
       "opacity-45": {
-        "value": "0.45",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.45"
       },
       "opacity-50": {
-        "value": "0.5",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.5"
       },
       "opacity-55": {
-        "value": "0.55",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.55"
       },
       "opacity-60": {
-        "value": "0.6",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.6"
       },
       "opacity-65": {
-        "value": "0.65",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.65"
       },
       "opacity-70": {
-        "value": "0.7",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.7"
       },
       "opacity-75": {
-        "value": "0.75",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.75"
       },
       "opacity-80": {
-        "value": "0.80",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.80"
       },
       "opacity-85": {
-        "value": "0.85",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.85"
       },
       "opacity-90": {
-        "value": "0.9",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.9"
       },
       "opacity-95": {
-        "value": "0.95",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "0.95"
       },
       "opacity-100": {
-        "value": "1",
-        "type": "opacity"
+        "$type": "opacity",
+        "$value": "1"
       }
     },
     "generationux-text-decoration": {
       "underline": {
-        "value": "underline",
-        "type": "textDecoration"
+        "$type": "textDecoration",
+        "$value": "underline"
       },
       "line-through": {
-        "value": "line-through",
-        "type": "textDecoration"
+        "$type": "textDecoration",
+        "$value": "line-through"
       },
       "none": {
-        "value": "none",
-        "type": "textDecoration"
+        "$type": "textDecoration",
+        "$value": "none"
       }
     },
     "boxshadow": {
-      "value": "#1e293b",
-      "type": "color"
+      "$type": "color",
+      "$value": "#1e293b"
     }
   }
 }
