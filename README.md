@@ -1,5 +1,5 @@
 # GenerationUX✨ Design Tokens
-    Copyright ©️ 2024 CF62 Ltd
+    Copyright ©️ 2025 CF62 Ltd
 
     Creative Commons CC BY 4.0 DEED
     Attribution 4.0 International
