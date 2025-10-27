@@ -1,307 +1,307 @@
 {
   "generationux-font-display": {
     "Bevellier": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Bevellier"
     },
     "Chubbo": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Chubbo"
     },
     "Melodrama": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Melodrama"
     },
     "Nippo": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Nippo"
     },
     "Sharpie": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Sharpie"
     },
     "Styro": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Styro"
     }
   },
   "generationux-font-mono": {
     "Geist Mono": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Geist Mono"
     },
     "JetBrains Mono": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "JetBrains Mono"
     }
   },
   "generationux-font-sans": {
     "Alpino": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Alpino"
     },
     "Archivo": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Archivo"
     },
     "Author": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Author"
     },
     "Azeret Mono": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Azeret Mono"
     },
     "Bespoke Sans": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Bespoke Sans"
     },
     "Bespoke Stencil": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Bespoke Stencil"
     },
     "Be Vietnam": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Be Vietnam"
     },
     "Cabinet Grotesk": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Cabinet Grotesk"
     },
     "Chillax": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Chillax"
     },
     "Clash Display": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Clash Display"
     },
     "Clash Grotesk": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Clash Grotesk"
     },
     "Epilogue": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Epilogue"
     },
     "Geist": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Geist"
     },
     "General Sans": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "General Sans"
     },
     "Hind": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Hind"
     },
     "Inter": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Inter"
     },
     "Khand": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Khand"
     },
     "Manrope": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Manrope"
     },
     "Melodrama": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Melodrama"
     },
     "Monaspace Argon": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Monaspace Argon"
     },
     "Monaspace Krypton": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Monaspace Krypton"
     },
     "Monaspace Neon": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Monaspace Neon"
     },
     "New Title": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "New Title"
     },
     "Oswald": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Oswald"
     },
     "Outfit": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Outfit"
     },
     "Panchang": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Panchang"
     },
     "Plein": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Plein"
     },
     "Plus Jakarta Sans": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Plus Jakarta Sans"
     },
     "Poppins": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Poppins"
     },
     "Quicksand": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Quicksand"
     },
     "Rajdhani": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Rajdhani"
     },
     "Ranade": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Ranade"
     },
     "Red Hat Display": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Red Hat Display"
     },
     "Roundo": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Roundo"
     },
     "Satoshi": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Satoshi"
     },
     "Sora": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Sora"
     },
     "Space Grotesk": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Space Grotesk"
     },
     "Spline Sans": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Spline Sans"
     },
     "Supreme": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Supreme"
     },
     "Switzer": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Switzer"
     },
     "Synonym": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Synonym"
     },
     "Tabular": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Tabular"
     },
     "Technor": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Technor"
     },
     "Teko": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Teko"
     },
     "Work Sans": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Work Sans"
     }
   },
   "generationux-font-script": {
     "Britney": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Britney"
     },
     "Monaspace Radon": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Monaspace Radon"
     },
     "Telma": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Telma"
     }
   },
   "generationux-font-serif": {
     "Bespoke Serif": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Bespoke Serif"
     },
     "Bonny": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Bonny"
     },
     "Boska": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Boska"
     },
     "Crimson Pro": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Crimson Pro"
     },
     "Gambetta": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Gambetta"
     },
     "Literata": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Literata"
     },
     "Monaspace Xenon": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Monaspace Xenon"
     },
     "Recia": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Recia"
     },
     "Rowan": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Rowan"
     },
     "Sentient": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Sentient"
     },
     "Zodiak": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Zodiak"
     }
   },
   "generationux-font-slab": {
     "Bespoke Slab": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Bespoke Slab"
     },
     "Hoover": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Hoover"
     },
     "Trench Slab": {
-      "$type": "fontFamily",
+      "$type": "fontFamilies",
       "$value": "Trench Slab"
     }
   },
   "generationux-font-weight": {
     "font-light": {
-      "$type": "fontWeight",
+      "$type": "fontWeights",
       "$value": "Light"
     },
     "font-normal": {
-      "$type": "fontWeight",
+      "$type": "fontWeights",
       "$value": "Regular"
     },
     "font-bold": {
-      "$type": "fontWeight",
+      "$type": "fontWeights",
       "$value": "Bold"
     }
   },
@@ -313,63 +313,63 @@
   },
   "generationux-line-height": {
     "leading-2": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 0.5)*1"
     },
     "leading-3": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 0.75)*1"
     },
     "leading-4": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1)*1"
     },
     "leading-5": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1.25)*1"
     },
     "leading-6": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1.5)*1"
     },
     "leading-7": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1.75)*1"
     },
     "leading-8": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 2)*1"
     },
     "leading-9": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 2.25)*1"
     },
     "leading-10": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 2.5)*1"
     },
     "leading-none": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1)*1"
     },
     "leading-tight": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1.25)*1"
     },
     "leading-snug": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1.375)*1"
     },
     "leading-normal": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1.5)*1"
     },
     "leading-relaxed": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 1.625)*1"
     },
     "leading-loose": {
-      "$type": "lineHeight",
+      "$type": "lineHeights",
       "$value": "({generationux.rem} * 2)*1"
     }
   },
@@ -531,59 +531,59 @@
   },
   "generationux-font-size": {
     "font-size-2": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 0.5)*1"
     },
     "font-size-3": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 0.75)*1"
     },
     "font-size-3_5": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 0.875)*1"
     },
     "font-size-4": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 1)*1"
     },
     "font-size-4_5": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 1.125)*1"
     },
     "font-size-5": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 1.25)*1"
     },
     "font-size-6": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 1.5)*1"
     },
     "font-size-7_5": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 1.875)*1"
     },
     "font-size-9": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 2.25)*1"
     },
     "font-size-12": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 3)*1"
     },
     "font-size-15": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 3.75)*1"
     },
     "font-size-18": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 4.5)*1"
     },
     "font-size-24": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 6)*1"
     },
     "font-size-32": {
-      "$type": "fontSize",
+      "$type": "fontSizes",
       "$value": "({generationux.rem} * 8)*1"
     }
   },
@@ -839,7 +839,7 @@
   },
   "generationux-box-shadow": {
     "clear": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "0",
@@ -862,7 +862,7 @@
   },
   "generationux-hard-box-shadow": {
     "Brut_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -875,7 +875,7 @@
       ]
     },
     "Brut_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -888,7 +888,7 @@
       ]
     },
     "Brut_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.5)* 1",
@@ -901,7 +901,7 @@
       ]
     },
     "Brut_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.5)* 1",
@@ -914,7 +914,7 @@
       ]
     },
     "Brut_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.5)* 1",
@@ -927,7 +927,7 @@
       ]
     },
     "Brut_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.5)* 1",
@@ -940,7 +940,7 @@
       ]
     },
     "Brut_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.5)* 1",
@@ -953,7 +953,7 @@
       ]
     },
     "Brut_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.5)* 1",
@@ -966,7 +966,7 @@
       ]
     },
     "Brut_Four": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -1003,7 +1003,7 @@
       ]
     },
     "Brut_All": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.5)* 1",
@@ -1040,11 +1040,11 @@
       ]
     },
     "Buona_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
-          "y": "(-{generationux.rem} * 05)* 1",
+          "y": "(-{generationux.rem} * 0.05)* 1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -1052,7 +1052,7 @@
         },
         {
           "x": "({generationux.rem} * 0)* 1",
-          "y": "(-{generationux.rem} * 05)* 1",
+          "y": "(-{generationux.rem} * 0.05)* 1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -1109,7 +1109,7 @@
       ]
     },
     "Buona_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -1178,10 +1178,10 @@
       ]
     },
     "Buona_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
-          "x": "(-{generationux.rem} * 05)* 1",
+          "x": "(-{generationux.rem} * 0.05)* 1",
           "y": "({generationux.rem} * 0)* 1",
           "blur": "0",
           "spread": "0",
@@ -1189,7 +1189,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 05)* 1",
+          "x": "(-{generationux.rem} * 0.05)* 1",
           "y": "({generationux.rem} * 0)* 1",
           "blur": "0",
           "spread": "0",
@@ -1247,7 +1247,7 @@
       ]
     },
     "Buona_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.05)* 1",
@@ -1316,19 +1316,19 @@
       ]
     },
     "Buona_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
-          "x": "(-{generationux.rem} * 05)* 1",
-          "y": "(-{generationux.rem} * 05)* 1",
+          "x": "(-{generationux.rem} * 0.05)* 1",
+          "y": "(-{generationux.rem} * 0.05)* 1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 05)* 1",
-          "y": "(-{generationux.rem} * 05)* 1",
+          "x": "(-{generationux.rem} * 0.05)* 1",
+          "y": "(-{generationux.rem} * 0.05)* 1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -1385,11 +1385,11 @@
       ]
     },
     "Buona_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.05)* 1",
-          "y": "(-{generationux.rem} * 05)* 1",
+          "y": "(-{generationux.rem} * 0.05)* 1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -1397,7 +1397,7 @@
         },
         {
           "x": "({generationux.rem} * 0.05)* 1",
-          "y": "(-{generationux.rem} * 05)* 1",
+          "y": "(-{generationux.rem} * 0.05)* 1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -1454,10 +1454,10 @@
       ]
     },
     "Buona_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
-          "x": "(-{generationux.rem} * 05)* 1",
+          "x": "(-{generationux.rem} * 0.05)* 1",
           "y": "({generationux.rem} * 0.05)* 1",
           "blur": "0",
           "spread": "0",
@@ -1465,7 +1465,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 05)* 1",
+          "x": "(-{generationux.rem} * 0.05)* 1",
           "y": "({generationux.rem} * 0.05)* 1",
           "blur": "0",
           "spread": "0",
@@ -1523,7 +1523,7 @@
       ]
     },
     "Buona_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.05)* 1",
@@ -1592,7 +1592,7 @@
       ]
     },
     "Flare_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -1629,7 +1629,7 @@
       ]
     },
     "Flare_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -1666,7 +1666,7 @@
       ]
     },
     "Flare_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
@@ -1703,7 +1703,7 @@
       ]
     },
     "Flare_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
@@ -1740,7 +1740,7 @@
       ]
     },
     "Flare_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
@@ -1777,7 +1777,7 @@
       ]
     },
     "Flare_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
@@ -1814,7 +1814,7 @@
       ]
     },
     "Flare_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
@@ -1851,7 +1851,7 @@
       ]
     },
     "Flare_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
@@ -1888,7 +1888,7 @@
       ]
     },
     "Layers_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0)* 1",
@@ -1941,7 +1941,7 @@
       ]
     },
     "Layers_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0)* 1",
@@ -1994,7 +1994,7 @@
       ]
     },
     "Layers_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.25)* 1",
@@ -2047,7 +2047,7 @@
       ]
     },
     "Layers_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.25)* 1",
@@ -2100,7 +2100,7 @@
       ]
     },
     "Layers_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.25)* 1",
@@ -2153,7 +2153,7 @@
       ]
     },
     "Layers_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.25)* 1",
@@ -2206,7 +2206,7 @@
       ]
     },
     "Layers_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.25)* 1",
@@ -2259,7 +2259,7 @@
       ]
     },
     "Layers_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.25)* 1",
@@ -2312,27 +2312,19 @@
       ]
     },
     "System": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
-          "x": "({generationux.rem} * 0.25)* 1",
-          "y": "({generationux.rem} * 0.5)* 1",
+          "x": "({generationux.rem} * 0.25)*1",
+          "y": "({generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         },
         {
-          "x": "({generationux.rem} * 0.5)* 1",
-          "y": "({generationux.rem} * 0.25)* 1",
-          "blur": "0",
-          "spread": "0",
-          "color": "{generationux-styles.boxshadow}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "({generationux.rem} * 0.25)* 1",
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -2340,14 +2332,22 @@
         },
         {
           "x": "0",
-          "y": "(-{generationux.rem} * 0.25)* 1",
+          "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         },
         {
-          "x": "({generationux.rem} * 0.25)* 1",
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2355,7 +2355,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 0.25)* 1",
+          "x": "(-{generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2364,7 +2364,7 @@
         },
         {
           "x": "0",
-          "y": "({generationux.rem} * 0.25)* 1",
+          "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -2372,22 +2372,22 @@
         },
         {
           "x": "0",
-          "y": "({generationux.rem} * 0.125)* 1",
+          "y": "({generationux.rem} * 0.125)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.background}",
           "type": "innerShadow"
         },
         {
-          "x": "({generationux.rem} * 0.25)* 1",
-          "y": "(-{generationux.rem} * 0.25)* 1",
+          "x": "({generationux.rem} * 0.25)*1",
+          "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.background}",
           "type": "innerShadow"
         },
         {
-          "x": "(-{generationux.rem} * 0.25)* 1",
+          "x": "(-{generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2397,11 +2397,11 @@
       ]
     },
     "Tendo": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "0",
-          "y": "({generationux.rem} * 0.25)* 1",
+          "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -2409,14 +2409,14 @@
         },
         {
           "x": "0",
-          "y": "(-{generationux.rem} * 0.25)* 1",
+          "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         },
         {
-          "x": "({generationux.rem} * 0.25)* 1",
+          "x": "({generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2424,7 +2424,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 0.25)* 1",
+          "x": "(-{generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2432,7 +2432,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 0.25)* 1",
+          "x": "(-{generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2441,7 +2441,7 @@
         },
         {
           "x": "0",
-          "y": "(-{generationux.rem} * 0.25)* 1",
+          "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.background}",
@@ -2450,27 +2450,19 @@
       ]
     },
     "Tosh": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
-          "x": "({generationux.rem} * 0.25)* 1",
-          "y": "({generationux.rem} * 0.5)* 1",
+          "x": "({generationux.rem} * 0.25)*1",
+          "y": "({generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         },
         {
-          "x": "({generationux.rem} * 0.5)* 1",
-          "y": "({generationux.rem} * 0.25)* 1",
-          "blur": "0",
-          "spread": "0",
-          "color": "{generationux-styles.boxshadow}",
-          "type": "dropShadow"
-        },
-        {
-          "x": "0",
-          "y": "({generationux.rem} * 0.25)* 1",
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -2478,14 +2470,22 @@
         },
         {
           "x": "0",
-          "y": "(-{generationux.rem} * 0.25)* 1",
+          "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
           "type": "dropShadow"
         },
         {
-          "x": "({generationux.rem} * 0.25)* 1",
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.boxshadow}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "({generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2493,7 +2493,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 0.25)* 1",
+          "x": "(-{generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2501,7 +2501,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "({generationux.rem} * 0.25)* 1",
+          "x": "({generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2510,14 +2510,14 @@
         },
         {
           "x": "0",
-          "y": "({generationux.rem} * 0.25)* 1",
+          "y": "({generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.background}",
           "type": "innerShadow"
         },
         {
-          "x": "(-{generationux.rem} * 0.25)* 1",
+          "x": "(-{generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2526,7 +2526,7 @@
         },
         {
           "x": "0",
-          "y": "(-{generationux.rem} * 0.25)* 1",
+          "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "rgba({generationux-styles.boxshadow}, 0.32)",
@@ -2535,11 +2535,11 @@
       ]
     },
     "Turbo": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
-          "x": "({generationux.rem} * 0.5)* 1",
-          "y": "({generationux.rem} * 0.5)* 1",
+          "x": "({generationux.rem} * 0.5)*1",
+          "y": "({generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.boxshadow}",
@@ -2547,7 +2547,7 @@
         },
         {
           "x": "0",
-          "y": "({generationux.rem} * 0.5)* 1",
+          "y": "({generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.background}",
@@ -2555,14 +2555,14 @@
         },
         {
           "x": "0",
-          "y": "(-{generationux.rem} * 0.5)* 1",
+          "y": "(-{generationux.rem} * 0.5)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.background}",
           "type": "innerShadow"
         },
         {
-          "x": "({generationux.rem} * 0.5)* 1",
+          "x": "({generationux.rem} * 0.5)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2570,7 +2570,7 @@
           "type": "innerShadow"
         },
         {
-          "x": "({generationux.rem} * 0.25)* 1",
+          "x": "({generationux.rem} * 0.25)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2578,7 +2578,7 @@
           "type": "innerShadow"
         },
         {
-          "x": "(-{generationux.rem} * 0.5)* 1",
+          "x": "(-{generationux.rem} * 0.5)*1",
           "y": "0",
           "blur": "0",
           "spread": "0",
@@ -2586,16 +2586,8 @@
           "type": "innerShadow"
         },
         {
-          "x": "(-{generationux.rem} * 0.25)* 1",
+          "x": "(-{generationux.rem} * 0.25)*1",
           "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "{generationux-styles.secondary}",
-          "type": "innerShadow"
-        },
-        {
-          "x": "0",
-          "y": "({generationux.rem} * 0.25)* 1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.secondary}",
@@ -2603,7 +2595,15 @@
         },
         {
           "x": "0",
-          "y": "(-{generationux.rem} * 0.25)* 1",
+          "y": "({generationux.rem} * 0.25)*1",
+          "blur": "0",
+          "spread": "0",
+          "color": "{generationux-styles.secondary}",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "(-{generationux.rem} * 0.25)*1",
           "blur": "0",
           "spread": "0",
           "color": "{generationux-styles.secondary}",
@@ -2614,7 +2614,7 @@
   },
   "generationux-soft-box-shadow": {
     "2xl_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -2667,7 +2667,7 @@
       ]
     },
     "xl_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -2720,7 +2720,7 @@
       ]
     },
     "lg_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -2773,7 +2773,7 @@
       ]
     },
     "sm_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -2826,7 +2826,7 @@
       ]
     },
     "xs_Top": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -2862,7 +2862,7 @@
         },
         {
           "x": "({generationux.rem} * 0)* 1",
-          "y": "(-{generationux.rem} * 09)* 1",
+          "y": "(-{generationux.rem} * 0.09)* 1",
           "blur": "{generationux.rem} * 0.09",
           "spread": "0",
           "color": "rgba({generationux-styles.boxshadow}, 0.12)",
@@ -2870,7 +2870,7 @@
         },
         {
           "x": "({generationux.rem} * 0)* 1",
-          "y": "(-{generationux.rem} * 06)* 1",
+          "y": "(-{generationux.rem} * 0.006)* 1",
           "blur": "{generationux.rem} * 0.06",
           "spread": "0",
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
@@ -2879,7 +2879,7 @@
       ]
     },
     "2xl_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -2932,7 +2932,7 @@
       ]
     },
     "xl_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -2985,7 +2985,7 @@
       ]
     },
     "lg_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -3038,7 +3038,7 @@
       ]
     },
     "sm_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -3091,7 +3091,7 @@
       ]
     },
     "xs_Bottom": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0)* 1",
@@ -3144,7 +3144,7 @@
       ]
     },
     "2xl_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 21)* 1",
@@ -3197,7 +3197,7 @@
       ]
     },
     "xl_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 8)* 1",
@@ -3250,7 +3250,7 @@
       ]
     },
     "lg_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 3)* 1",
@@ -3303,7 +3303,7 @@
       ]
     },
     "sm_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
@@ -3356,7 +3356,7 @@
       ]
     },
     "xs_Left": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.62)* 1",
@@ -3391,7 +3391,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 09)* 1",
+          "x": "(-{generationux.rem} * 0.09)* 1",
           "y": "({generationux.rem} * 0)* 1",
           "blur": "{generationux.rem} * 0.09",
           "spread": "0",
@@ -3399,7 +3399,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 06)* 1",
+          "x": "(-{generationux.rem} * 0.06)* 1",
           "y": "({generationux.rem} * 0)* 1",
           "blur": "{generationux.rem} * 0.06",
           "spread": "0",
@@ -3409,7 +3409,7 @@
       ]
     },
     "2xl_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 21)* 1",
@@ -3462,7 +3462,7 @@
       ]
     },
     "xl_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 8)* 1",
@@ -3515,7 +3515,7 @@
       ]
     },
     "lg_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 3)* 1",
@@ -3568,7 +3568,7 @@
       ]
     },
     "sm_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
@@ -3621,7 +3621,7 @@
       ]
     },
     "xs_Right": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.62)* 1",
@@ -3674,7 +3674,7 @@
       ]
     },
     "2xl_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 21)* 1",
@@ -3727,7 +3727,7 @@
       ]
     },
     "xl_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 8)* 1",
@@ -3780,7 +3780,7 @@
       ]
     },
     "lg_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 3)* 1",
@@ -3833,7 +3833,7 @@
       ]
     },
     "sm_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
@@ -3886,7 +3886,7 @@
       ]
     },
     "xs_TopLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.62)* 1",
@@ -3921,16 +3921,16 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 09)* 1",
-          "y": "(-{generationux.rem} * 09)* 1",
+          "x": "(-{generationux.rem} * 0.09)* 1",
+          "y": "(-{generationux.rem} * 0.09)* 1",
           "blur": "{generationux.rem} * 0.09",
           "spread": "0",
           "color": "rgba({generationux-styles.boxshadow}, 0.12)",
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 06)* 1",
-          "y": "(-{generationux.rem} * 06)* 1",
+          "x": "(-{generationux.rem} * 0.06)* 1",
+          "y": "(-{generationux.rem} * 0.06)* 1",
           "blur": "{generationux.rem} * 0.06",
           "spread": "0",
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
@@ -3939,7 +3939,7 @@
       ]
     },
     "2xl_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 21)* 1",
@@ -3992,7 +3992,7 @@
       ]
     },
     "xl_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 8)* 1",
@@ -4045,7 +4045,7 @@
       ]
     },
     "lg_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 3)* 1",
@@ -4098,7 +4098,7 @@
       ]
     },
     "sm_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
@@ -4151,7 +4151,7 @@
       ]
     },
     "xs_TopRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.62)* 1",
@@ -4187,7 +4187,7 @@
         },
         {
           "x": "({generationux.rem} * 0.09)* 1",
-          "y": "(-{generationux.rem} * 09)* 1",
+          "y": "(-{generationux.rem} * 0.09)* 1",
           "blur": "{generationux.rem} * 0.09",
           "spread": "0",
           "color": "rgba({generationux-styles.boxshadow}, 0.12)",
@@ -4195,7 +4195,7 @@
         },
         {
           "x": "({generationux.rem} * 0.06)* 1",
-          "y": "(-{generationux.rem} * 06)* 1",
+          "y": "(-{generationux.rem} * 0.06)* 1",
           "blur": "{generationux.rem} * 0.06",
           "spread": "0",
           "color": "rgba({generationux-styles.boxshadow}, 0.08)",
@@ -4204,7 +4204,7 @@
       ]
     },
     "2xl_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 21)* 1",
@@ -4257,7 +4257,7 @@
       ]
     },
     "xl_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 8)* 1",
@@ -4310,7 +4310,7 @@
       ]
     },
     "lg_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 3)* 1",
@@ -4363,7 +4363,7 @@
       ]
     },
     "sm_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 1)* 1",
@@ -4416,7 +4416,7 @@
       ]
     },
     "xs_BottomLeft": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "(-{generationux.rem} * 0.62)* 1",
@@ -4451,7 +4451,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 09)* 1",
+          "x": "(-{generationux.rem} * 0.09)* 1",
           "y": "({generationux.rem} * 0.09)* 1",
           "blur": "{generationux.rem} * 0.09",
           "spread": "0",
@@ -4459,7 +4459,7 @@
           "type": "dropShadow"
         },
         {
-          "x": "(-{generationux.rem} * 06)* 1",
+          "x": "(-{generationux.rem} * 0.06)* 1",
           "y": "({generationux.rem} * 0.06)* 1",
           "blur": "{generationux.rem} * 0.06",
           "spread": "0",
@@ -4469,7 +4469,7 @@
       ]
     },
     "2xl_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 21)* 1",
@@ -4522,7 +4522,7 @@
       ]
     },
     "xl_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 8)* 1",
@@ -4575,7 +4575,7 @@
       ]
     },
     "lg_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 3)* 1",
@@ -4628,7 +4628,7 @@
       ]
     },
     "sm_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 1)* 1",
@@ -4681,7 +4681,7 @@
       ]
     },
     "xs_BottomRight": {
-      "$type": "shadow",
+      "$type": "boxShadow",
       "$value": [
         {
           "x": "({generationux.rem} * 0.62)* 1",
@@ -4745,11 +4745,15 @@
     },
     "primary": {
       "$type": "color",
-      "$value": "#1e293b"
+      "$value": "#ff00f7"
     },
     "secondary": {
       "$type": "color",
-      "$value": "#f1f5f9"
+      "$value": "#6200ee"
+    },
+    "boxshadow": {
+      "$type": "color",
+      "$value": "#1e293b"
     },
     "generationux-size": {
       "size-0": {
@@ -4992,10 +4996,6 @@
         "$type": "textDecoration",
         "$value": "none"
       }
-    },
-    "boxshadow": {
-      "$type": "color",
-      "$value": "#1e293b"
     }
   }
 }
