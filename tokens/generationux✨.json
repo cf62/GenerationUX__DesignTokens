@@ -4745,11 +4745,11 @@
     },
     "primary": {
       "$type": "color",
-      "$value": "#ff00f7"
+      "$value": "#1e293b"
     },
     "secondary": {
       "$type": "color",
-      "$value": "#6200ee"
+      "$value": "#f1f5f9"
     },
     "boxshadow": {
       "$type": "color",
