@@ -4841,5 +4841,24 @@
       "$type": "textDecoration",
       "$value": "none"
     }
+  },
+  "generationux-fonts-MAKINA": {
+    "Britti Sans Light": {
+      "fontWeight": "{generationux-font-weight.font-light}",
+      "$type": "fontFamilies",
+      "$value": "Britti Sans"
+    },
+    "Dialectic Regular": {
+      "$type": "fontFamilies",
+      "$value": "Dialectic-Type-230710"
+    },
+    "Dialectic Integer": {
+      "$type": "fontFamilies",
+      "$value": "Dialectic_Type_MMM_09"
+    },
+    "Milligram Regular": {
+      "$type": "fontFamilies",
+      "$value": "Milligram"
+    }
   }
 }
