@@ -7,7 +7,7 @@
     },
     "foreground": {
       "$type": "color",
-      "$value": "#FFFCAD",
+      "$value": "#FFFFFF",
       "$description": "foreground"
     },
     "primary": {

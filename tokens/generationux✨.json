@@ -4856,6 +4856,11 @@
       "$type": "fontFamilies",
       "$value": "Dialectic_Type_MMM_09"
     },
+    "Electrolize": {
+      "fontWeight": "{generationux-font-weight.font-normal}",
+      "$type": "fontFamilies",
+      "$value": "Electrolize"
+    },
     "Milligram Regular": {
       "$type": "fontFamilies",
       "$value": "Milligram"
