@@ -1,0 +1,29 @@
+{
+  "generationux-styles": {
+    "background": {
+      "$type": "color",
+      "$value": "#F0F0F0",
+      "$description": "background"
+    },
+    "foreground": {
+      "$type": "color",
+      "$value": "#1e293b",
+      "$description": "foreground"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "#1e293b",
+      "$description": "primary"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "#FFFA68",
+      "$description": "secondary"
+    },
+    "boxshadow": {
+      "$type": "color",
+      "$value": "#020617",
+      "$description": "boxshadow"
+    }
+  }
+}
