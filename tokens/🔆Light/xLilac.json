@@ -1,0 +1,94 @@
+{
+  "generationux-styles": {
+    "background": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "background"
+    },
+    "card": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "background"
+    },
+    "foreground": {
+      "$type": "color",
+      "$value": "#0F172A",
+      "$description": "foreground"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "#D8B4FE",
+      "$description": "primary"
+    },
+    "primary-foreground": {
+      "$type": "color",
+      "$value": "#0F172A",
+      "$description": "primary"
+    },
+    "boxshadow": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "boxshadow"
+    },
+    "positive": {
+      "$type": "color",
+      "$value": "#1DED62",
+      "$description": "secondary"
+    },
+    "positive-foreground": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "secondary"
+    },
+    "negative": {
+      "$type": "color",
+      "$value": "#EF4343",
+      "$description": "secondary"
+    },
+    "negative-foreground": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "secondary"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "#F7B645",
+      "$description": "secondary"
+    },
+    "warning-foreground": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "secondary"
+    },
+    "info": {
+      "$type": "color",
+      "$value": "#0DA2E7",
+      "$description": "secondary"
+    },
+    "info-foreground": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "secondary"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "#999999",
+      "$description": "secondary"
+    },
+    "muted-foreground": {
+      "$type": "color",
+      "$value": "#737373",
+      "$description": "secondary"
+    },
+    "border": {
+      "$type": "color",
+      "$value": "#333333",
+      "$description": "secondary"
+    },
+    "ring": {
+      "$type": "color",
+      "$value": "#D8B4FE",
+      "$description": "secondary"
+    }
+  }
+}
