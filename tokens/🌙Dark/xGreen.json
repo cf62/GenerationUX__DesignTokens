@@ -8,7 +8,7 @@
     "card": {
       "$type": "color",
       "$value": "#1E293B",
-      "$description": "background"
+      "$description": "card"
     },
     "foreground": {
       "$type": "color",
@@ -23,7 +23,7 @@
     "primary-foreground": {
       "$type": "color",
       "$value": "#0F172A",
-      "$description": "primary"
+      "$description": "primary-foreground"
     },
     "boxshadow": {
       "$type": "color",
@@ -33,62 +33,125 @@
     "positive": {
       "$type": "color",
       "$value": "#1DED62",
-      "$description": "secondary"
+      "$description": "positive"
     },
     "positive-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
       "$type": "color",
-      "$value": "#FFFFFF",
-      "$description": "secondary"
+      "$value": "#1DED62",
+      "$description": "positive-foreground"
     },
     "negative": {
       "$type": "color",
       "$value": "#EF4343",
-      "$description": "secondary"
+      "$description": "negative"
     },
     "negative-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
       "$type": "color",
-      "$value": "#FFFFFF",
-      "$description": "secondary"
+      "$value": "#EF4343",
+      "$description": "negative-foreground"
     },
     "warning": {
       "$type": "color",
       "$value": "#F7B645",
-      "$description": "secondary"
+      "$description": "warning"
     },
     "warning-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
       "$type": "color",
-      "$value": "#FFFFFF",
-      "$description": "secondary"
+      "$value": "#F7B645",
+      "$description": "warning-foreground"
     },
     "info": {
       "$type": "color",
       "$value": "#0DA2E7",
-      "$description": "secondary"
+      "$description": "info"
     },
     "info-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
       "$type": "color",
-      "$value": "#FFFFFF",
-      "$description": "secondary"
+      "$value": "#0DA2E7",
+      "$description": "info-foreground"
     },
     "muted": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.12",
+            "space": "hsl"
+          }
+        }
+      },
       "$type": "color",
-      "$value": "#999999",
-      "$description": "secondary"
+      "$value": "#BEF264",
+      "$description": "muted"
     },
     "muted-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.44",
+            "space": "hsl"
+          }
+        }
+      },
       "$type": "color",
-      "$value": "#737373",
-      "$description": "secondary"
+      "$value": "#BEF264",
+      "$description": "muted-foreground"
     },
     "border": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.12",
+            "space": "hsl"
+          }
+        }
+      },
       "$type": "color",
-      "$value": "#333333",
-      "$description": "secondary"
+      "$value": "#BEF264",
+      "$description": "border"
     },
     "ring": {
       "$type": "color",
       "$value": "#BEF264",
-      "$description": "secondary"
+      "$description": "ring"
     }
   }
 }
