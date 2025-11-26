@@ -17,12 +17,12 @@
     },
     "primary": {
       "$type": "color",
-      "$value": "#0F172A",
+      "$value": "#D8B4FE",
       "$description": "primary"
     },
     "primary-foreground": {
       "$type": "color",
-      "$value": "#D8B4FE",
+      "$value": "#0F172A",
       "$description": "primary"
     },
     "boxshadow": {
