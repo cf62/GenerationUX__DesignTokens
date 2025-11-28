@@ -17,7 +17,7 @@
     },
     "primary": {
       "$type": "color",
-      "$value": "#FFFA68",
+      "$value": "#FFD46A",
       "$description": "primary"
     },
     "primary-foreground": {
@@ -117,7 +117,7 @@
         }
       },
       "$type": "color",
-      "$value": "#FFFA68",
+      "$value": "#FFD46A",
       "$description": "muted"
     },
     "muted-foreground": {
@@ -131,7 +131,7 @@
         }
       },
       "$type": "color",
-      "$value": "#FFFA68",
+      "$value": "#FFD46A",
       "$description": "muted-foreground"
     },
     "border": {
@@ -145,13 +145,27 @@
         }
       },
       "$type": "color",
-      "$value": "#FFFA68",
+      "$value": "#FFD46A",
       "$description": "border"
     },
     "ring": {
       "$type": "color",
-      "$value": "#FFFA68",
+      "$value": "#FFD46A",
       "$description": "ring"
+    },
+    "navigated": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.04",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#FFFA68",
+      "$description": "muted"
     }
   }
 }
