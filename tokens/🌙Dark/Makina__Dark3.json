@@ -2,17 +2,17 @@
   "generationux-styles": {
     "background": {
       "$type": "color",
-      "$value": "#FAFAFA",
+      "$value": "#0F172A",
       "$description": "background"
     },
     "card": {
       "$type": "color",
-      "$value": "#FFFFFF",
+      "$value": "#1E293B",
       "$description": "card"
     },
     "foreground": {
       "$type": "color",
-      "$value": "#0F172A",
+      "$value": "#FFFFFF",
       "$description": "foreground"
     },
     "primary": {
