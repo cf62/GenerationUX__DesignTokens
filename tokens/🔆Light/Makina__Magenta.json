@@ -1,0 +1,157 @@
+{
+  "generationux-styles": {
+    "background": {
+      "$type": "color",
+      "$value": "#FAFAFA",
+      "$description": "background"
+    },
+    "card": {
+      "$type": "color",
+      "$value": "#FFFFFF",
+      "$description": "card"
+    },
+    "foreground": {
+      "$type": "color",
+      "$value": "#0F172A",
+      "$description": "foreground"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "#E778FF",
+      "$description": "primary"
+    },
+    "primary-foreground": {
+      "$type": "color",
+      "$value": "#0F172A",
+      "$description": "primary-foreground"
+    },
+    "boxshadow": {
+      "$type": "color",
+      "$value": "#000000",
+      "$description": "boxshadow"
+    },
+    "positive": {
+      "$type": "color",
+      "$value": "#1DED62",
+      "$description": "positive"
+    },
+    "positive-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#1DED62",
+      "$description": "positive-foreground"
+    },
+    "negative": {
+      "$type": "color",
+      "$value": "#EF4343",
+      "$description": "negative"
+    },
+    "negative-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#EF4343",
+      "$description": "negative-foreground"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "#F7B645",
+      "$description": "warning"
+    },
+    "warning-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#F7B645",
+      "$description": "warning-foreground"
+    },
+    "info": {
+      "$type": "color",
+      "$value": "#0DA2E7",
+      "$description": "info"
+    },
+    "info-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#0DA2E7",
+      "$description": "info-foreground"
+    },
+    "muted": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.12",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#E778FF",
+      "$description": "muted"
+    },
+    "muted-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.44",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#E778FF",
+      "$description": "muted-foreground"
+    },
+    "border": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.12",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#E778FF",
+      "$description": "border"
+    },
+    "ring": {
+      "$type": "color",
+      "$value": "#E778FF",
+      "$description": "ring"
+    }
+  }
+}
