@@ -107,51 +107,38 @@
       "$description": "info-foreground"
     },
     "muted": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.12",
-            "space": "hsl"
-          }
-        }
-      },
       "$type": "color",
-      "$value": "#6D9FFF",
+      "$value": "rgba( {generationux-styles.primary}, 0.12)",
       "$description": "muted"
     },
     "muted-foreground": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.44",
-            "space": "hsl"
-          }
-        }
-      },
       "$type": "color",
-      "$value": "#6D9FFF",
+      "$value": "rgba( {generationux-styles.primary}, 0.44)",
       "$description": "muted-foreground"
-    },
-    "border": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.12",
-            "space": "hsl"
-          }
-        }
-      },
-      "$type": "color",
-      "$value": "#6D9FFF",
-      "$description": "border"
     },
     "ring": {
       "$type": "color",
-      "$value": "#6D9FFF",
+      "$value": "rgba( {generationux-styles.primary}, 1)",
       "$description": "ring"
+    },
+    "navigated": {
+      "$type": "color",
+      "$value": "rgba( {generationux-styles.primary}, 0.12)",
+      "$description": "navigated"
+    },
+    "gradient": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "alpha",
+            "value": "0.04",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "linear-gradient(0deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 1))",
+      "$description": "gradient"
     }
   }
 }

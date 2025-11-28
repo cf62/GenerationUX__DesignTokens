@@ -1,29 +1,29 @@
 {
   "generationux-styles": {
     "background": {
-      "value": "#FED7AA",
-      "type": "color",
-      "description": "background"
+      "$type": "color",
+      "$value": "#FED7AA",
+      "$description": "background"
     },
     "foreground": {
-      "value": "#6B21A8",
-      "type": "color",
-      "description": "foreground"
+      "$type": "color",
+      "$value": "#6B21A8",
+      "$description": "foreground"
     },
     "primary": {
-      "value": "#6B21A8",
-      "type": "color",
-      "description": "primary"
+      "$type": "color",
+      "$value": "#6B21A8",
+      "$description": "primary"
     },
     "secondary": {
-      "value": "#fdba74",
-      "type": "color",
-      "description": "secondary"
+      "$type": "color",
+      "$value": "#fdba74",
+      "$description": "secondary"
     },
     "boxshadow": {
-      "value": "#3b0764",
-      "type": "color",
-      "description": "boxshadow"
+      "$type": "color",
+      "$value": "#3b0764",
+      "$description": "boxshadow"
     }
   }
 }
