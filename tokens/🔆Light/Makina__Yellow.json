@@ -3,27 +3,27 @@
     "background": {
       "$type": "color",
       "$value": "#FFFFFF",
-      "$description": "background (light)"
+      "$description": "background"
     },
     "card": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.03)",
-      "$description": "card (ink-based surface lift)"
+      "$value": "rgba( {generationux-styles.primary}, 0.04)",
+      "$description": "card"
     },
     "foreground": {
       "$type": "color",
       "$value": "#0F172A",
-      "$description": "foreground (ink on light)"
+      "$description": "foreground"
     },
     "primary": {
       "$type": "color",
       "$value": "#0F172A",
-      "$description": "primary (ink in light mode — fixes text/border contrast)"
+      "$description": "primary"
     },
     "primary-foreground": {
       "$type": "color",
       "$value": "#FFFA68",
-      "$description": "primary-foreground (brand in light mode)"
+      "$description": "primary-foreground"
     },
     "boxshadow": {
       "$type": "color",
@@ -109,27 +109,27 @@
     "muted": {
       "$type": "color",
       "$value": "rgba( {generationux-styles.primary}, 0.08)",
-      "$description": "muted (ink wash, not yellow wash)"
+      "$description": "muted"
     },
     "muted-foreground": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.62)",
-      "$description": "muted-foreground (secondary ink)"
+      "$value": "rgba( {generationux-styles.primary}, 0.64)",
+      "$description": "muted-foreground"
     },
     "ring": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary-foreground}, 0.95)",
-      "$description": "ring (brand focus on light)"
+      "$value": "rgba( {generationux-styles.primary-foreground}, 0.96)",
+      "$description": "ring"
     },
     "navigated": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.06)",
-      "$description": "navigated (hover/selected background)"
+      "$value": "rgba( {generationux-styles.primary}, 0.04)",
+      "$description": "navigated"
     },
     "gradient": {
       "$type": "color",
       "$value": "linear-gradient(0deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 0.12))",
-      "$description": "gradient (ink depth, not yellow smear)"
+      "$description": "gradient"
     }
   }
 }
