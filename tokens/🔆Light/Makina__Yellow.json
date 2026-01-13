@@ -2,28 +2,28 @@
   "generationux-styles": {
     "background": {
       "$type": "color",
-      "$value": "#FAFAFA",
-      "$description": "background"
+      "$value": "#FFFFFF",
+      "$description": "background (light)"
     },
     "card": {
       "$type": "color",
-      "$value": "#FFFFFF",
-      "$description": "card"
+      "$value": "rgba( {generationux-styles.primary}, 0.03)",
+      "$description": "card (ink-based surface lift)"
     },
     "foreground": {
       "$type": "color",
       "$value": "#0F172A",
-      "$description": "foreground"
+      "$description": "foreground (ink on light)"
     },
     "primary": {
       "$type": "color",
-      "$value": "#FFFA68",
-      "$description": "primary"
+      "$value": "#0F172A",
+      "$description": "primary (ink in light mode — fixes text/border contrast)"
     },
     "primary-foreground": {
       "$type": "color",
-      "$value": "#0F172A",
-      "$description": "primary-foreground"
+      "$value": "#FFFA68",
+      "$description": "primary-foreground (brand in light mode)"
     },
     "boxshadow": {
       "$type": "color",
@@ -108,37 +108,28 @@
     },
     "muted": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.12)",
-      "$description": "muted"
+      "$value": "rgba( {generationux-styles.primary}, 0.08)",
+      "$description": "muted (ink wash, not yellow wash)"
     },
     "muted-foreground": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.44)",
-      "$description": "muted-foreground"
+      "$value": "rgba( {generationux-styles.primary}, 0.62)",
+      "$description": "muted-foreground (secondary ink)"
     },
     "ring": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 1)",
-      "$description": "ring"
+      "$value": "rgba( {generationux-styles.primary-foreground}, 0.95)",
+      "$description": "ring (brand focus on light)"
     },
     "navigated": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.12)",
-      "$description": "navigated"
+      "$value": "rgba( {generationux-styles.primary}, 0.06)",
+      "$description": "navigated (hover/selected background)"
     },
     "gradient": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {
-            "type": "alpha",
-            "value": "0.04",
-            "space": "hsl"
-          }
-        }
-      },
       "$type": "color",
-      "$value": "linear-gradient(0deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 1))",
-      "$description": "gradient"
+      "$value": "linear-gradient(0deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 0.12))",
+      "$description": "gradient (ink depth, not yellow smear)"
     }
   }
 }
