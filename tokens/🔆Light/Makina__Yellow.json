@@ -7,7 +7,7 @@
     },
     "card": {
       "$type": "color",
-      "$value": "#F5F6F6",
+      "$value": "rgba( {generationux-styles.primary}, 0.04)",
       "$description": "card"
     },
     "foreground": {
