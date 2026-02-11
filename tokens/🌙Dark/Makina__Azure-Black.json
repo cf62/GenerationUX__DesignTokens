@@ -12,12 +12,12 @@
     },
     "foreground": {
       "$type": "color",
-      "$value": "#FFFFFF",
+      "$value": "#ECFEFF",
       "$description": "foreground"
     },
     "primary": {
       "$type": "color",
-      "$value": "#FFFA68",
+      "$value": "#ECFEFF",
       "$description": "primary"
     },
     "primary-foreground": {

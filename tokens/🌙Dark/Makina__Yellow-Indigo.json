@@ -2,12 +2,12 @@
   "generationux-styles": {
     "background": {
       "$type": "color",
-      "$value": "#0F172A",
+      "$value": "#000C7A",
       "$description": "background"
     },
     "card": {
       "$type": "color",
-      "$value": "#1E293B",
+      "$value": "#232F9F",
       "$description": "card"
     },
     "foreground": {
@@ -22,12 +22,12 @@
     },
     "primary-foreground": {
       "$type": "color",
-      "$value": "#0F172A",
+      "$value": "#00063D",
       "$description": "primary-foreground"
     },
     "boxshadow": {
       "$type": "color",
-      "$value": "#000000",
+      "$value": "#000429",
       "$description": "boxshadow"
     },
     "positive": {

@@ -2,32 +2,32 @@
   "generationux-styles": {
     "background": {
       "$type": "color",
-      "$value": "#0F172A",
+      "$value": "#FFFFFF",
       "$description": "background"
     },
     "card": {
       "$type": "color",
-      "$value": "#1E293B",
+      "$value": "rgba( {generationux-styles.primary}, 0.04)",
       "$description": "card"
     },
     "foreground": {
       "$type": "color",
-      "$value": "#FFFFFF",
+      "$value": "#4F46E5",
       "$description": "foreground"
     },
     "primary": {
       "$type": "color",
-      "$value": "#FFFA68",
+      "$value": "#4F46E5",
       "$description": "primary"
     },
     "primary-foreground": {
       "$type": "color",
-      "$value": "#0F172A",
+      "$value": "#ECFEFF",
       "$description": "primary-foreground"
     },
     "boxshadow": {
       "$type": "color",
-      "$value": "#000000",
+      "$value": "#4338CA",
       "$description": "boxshadow"
     },
     "positive": {
@@ -108,17 +108,17 @@
     },
     "muted": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.12)",
+      "$value": "rgba( {generationux-styles.primary}, 0.08)",
       "$description": "muted"
     },
     "muted-foreground": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.44)",
+      "$value": "rgba( {generationux-styles.primary}, 0.64)",
       "$description": "muted-foreground"
     },
     "ring": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 1)",
+      "$value": "rgba( {generationux-styles.primary-foreground}, 0.96)",
       "$description": "ring"
     },
     "navigated": {
@@ -128,7 +128,7 @@
     },
     "gradient": {
       "$type": "color",
-      "$value": "linear-gradient(90deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 1))",
+      "$value": "linear-gradient(90deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 0.12))",
       "$description": "gradient"
     }
   }

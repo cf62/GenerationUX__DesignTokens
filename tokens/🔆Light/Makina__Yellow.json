@@ -128,7 +128,7 @@
     },
     "gradient": {
       "$type": "color",
-      "$value": "linear-gradient(0deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 0.12))",
+      "$value": "linear-gradient(90deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 0.12))",
       "$description": "gradient"
     }
   }
