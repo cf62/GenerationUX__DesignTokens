@@ -2,7 +2,7 @@
   "generationux-styles": {
     "background": {
       "$type": "color",
-      "$value": "#FFFFFF",
+      "$value": "#F5FEFF",
       "$description": "background"
     },
     "card": {

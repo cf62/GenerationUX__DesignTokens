@@ -12,7 +12,7 @@
     },
     "foreground": {
       "$type": "color",
-      "$value": "#ECFEFF",
+      "$value": "#F5FEFF",
       "$description": "foreground"
     },
     "primary": {
