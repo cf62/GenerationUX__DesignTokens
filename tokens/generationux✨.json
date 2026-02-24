@@ -260,6 +260,10 @@
       "$type": "fontFamilies",
       "$value": "Monaspace Xenon"
     },
+    "Prata": {
+      "$type": "fontFamilies",
+      "$value": "Prata"
+    },
     "Recia": {
       "$type": "fontFamilies",
       "$value": "Recia"
