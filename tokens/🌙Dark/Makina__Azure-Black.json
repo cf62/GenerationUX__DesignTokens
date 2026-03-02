@@ -126,14 +126,24 @@
       "$value": "rgba( {generationux-styles.primary}, 0.04)",
       "$description": "navigated"
     },
-    "gradient": {
+    "gradient90": {
       "$type": "color",
       "$value": "linear-gradient(90deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 1))",
+      "$description": "gradient"
+    },
+    "gradient-90": {
+      "$type": "color",
+      "$value": "linear-gradient(-90deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 1))",
       "$description": "gradient"
     },
     "themegradient": {
       "$type": "color",
       "$value": "linear-gradient(-165deg, rgba( {generationux-styles.background}, 1),  rgba( {generationux-styles.card}, 0.5)), rgba( {generationux-styles.primary}, 1)",
+      "$description": "gradient"
+    },
+    "foregroundgradient": {
+      "$type": "color",
+      "$value": "linear-gradient(-165deg, rgba( {generationux-styles.foreground}, 1),  rgba( {generationux-styles.foreground}, 0.3))",
       "$description": "gradient"
     }
   }
