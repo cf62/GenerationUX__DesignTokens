@@ -1,0 +1,155 @@
+{
+  "generationux-styles": {
+    "background": {
+      "$type": "color",
+      "$value": "#270B02",
+      "$description": "background"
+    },
+    "card": {
+      "$type": "color",
+      "$value": "#440E03",
+      "$description": "card"
+    },
+    "foreground": {
+      "$type": "color",
+      "$value": "#FFFBFA",
+      "$description": "foreground"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "#F65C28",
+      "$description": "primary"
+    },
+    "primary-foreground": {
+      "$type": "color",
+      "$value": "#270B02",
+      "$description": "primary-foreground"
+    },
+    "boxshadow": {
+      "$type": "color",
+      "$value": "#140601",
+      "$description": "boxshadow"
+    },
+    "positive": {
+      "$type": "color",
+      "$value": "#69F628",
+      "$description": "positive"
+    },
+    "positive-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#69F628",
+      "$description": "positive-foreground"
+    },
+    "negative": {
+      "$type": "color",
+      "$value": "#F62828",
+      "$description": "negative"
+    },
+    "negative-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#F62828",
+      "$description": "negative-foreground"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "#F6F628",
+      "$description": "warning"
+    },
+    "warning-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#F6F628",
+      "$description": "warning-foreground"
+    },
+    "info": {
+      "$type": "color",
+      "$value": "#28DBF6",
+      "$description": "info"
+    },
+    "info-foreground": {
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "darken",
+            "value": "0.74",
+            "space": "hsl"
+          }
+        }
+      },
+      "$type": "color",
+      "$value": "#28DBF6",
+      "$description": "info-foreground"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "rgba( {generationux-styles.primary}, 0.12)",
+      "$description": "muted"
+    },
+    "muted-foreground": {
+      "$type": "color",
+      "$value": "rgba( {generationux-styles.primary}, 0.44)",
+      "$description": "muted-foreground"
+    },
+    "ring": {
+      "$type": "color",
+      "$value": "rgba( {generationux-styles.primary}, 1)",
+      "$description": "ring"
+    },
+    "navigated": {
+      "$type": "color",
+      "$value": "rgba( {generationux-styles.primary}, 0.04)",
+      "$description": "navigated"
+    },
+    "gradient90": {
+      "$type": "color",
+      "$value": "linear-gradient(90deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 1))",
+      "$description": "gradient90"
+    },
+    "gradient-90": {
+      "$type": "color",
+      "$value": "linear-gradient(-90deg, rgba( {generationux-styles.primary}, 0), rgba( {generationux-styles.primary}, 1))",
+      "$description": "gradient-90"
+    },
+    "themegradient": {
+      "$type": "color",
+      "$value": "linear-gradient(-165deg, rgba( {generationux-styles.background}, 1),  rgba( {generationux-styles.card}, 0.5)), rgba( {generationux-styles.primary}, 1)",
+      "$description": "themegradient"
+    },
+    "themegradient180": {
+      "$type": "color",
+      "$value": "linear-gradient(165deg, rgba( {generationux-styles.foreground} , 1),  rgba( {generationux-styles.primary} , 0.5)), rgba( {generationux-styles.card} , 1)",
+      "$description": "themegradient180"
+    },
+    "scrim": {
+      "$type": "color",
+      "$value": "#F65C28",
+      "$description": "scrim"
+    }
+  }
+}
