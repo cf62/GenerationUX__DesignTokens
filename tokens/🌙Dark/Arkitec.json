@@ -7,7 +7,7 @@
     },
     "card": {
       "$type": "color",
-      "$value": "#1F1F1F",
+      "$value": "#292929",
       "$description": "card"
     },
     "foreground": {
@@ -22,7 +22,7 @@
     },
     "primary-foreground": {
       "$type": "color",
-      "$value": "#270B02",
+      "$value": "#fafafa",
       "$description": "primary-foreground"
     },
     "boxshadow": {
@@ -108,12 +108,12 @@
     },
     "muted": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.12)",
+      "$value": "rgba( {generationux-styles.foreground} , 0.12)",
       "$description": "muted"
     },
     "muted-foreground": {
       "$type": "color",
-      "$value": "rgba( {generationux-styles.primary}, 0.44)",
+      "$value": "rgba( {generationux-styles.foreground} , 0.44)",
       "$description": "muted-foreground"
     },
     "ring": {
@@ -143,7 +143,7 @@
     },
     "themegradient180": {
       "$type": "color",
-      "$value": "linear-gradient(165deg, rgba( {generationux-styles.foreground} , 1),  rgba( {generationux-styles.card} , 1),  rgba( {generationux-styles.card} , 0.5)), rgba( {generationux-styles.background} , 1)",
+      "$value": "linear-gradient(165deg, rgba( {generationux-styles.foreground} , 1),  rgba( {generationux-styles.card} , 1),  rgba( {generationux-styles.background} , 0.5))",
       "$description": "themegradient180"
     },
     "scrim": {

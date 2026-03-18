@@ -2,32 +2,32 @@
   "generationux-styles": {
     "background": {
       "$type": "color",
-      "$value": "#0A0301",
+      "$value": "#FFFBFA",
       "$description": "background"
     },
     "card": {
       "$type": "color",
-      "$value": "#431204",
+      "$value": "#FFEFEB",
       "$description": "card"
     },
     "foreground": {
       "$type": "color",
-      "$value": "#FFFBFA",
+      "$value": "#270B02",
       "$description": "foreground"
     },
     "primary": {
       "$type": "color",
-      "$value": "#F65C28",
+      "$value": "#270B02",
       "$description": "primary"
     },
     "primary-foreground": {
       "$type": "color",
-      "$value": "#0A0301",
+      "$value": "#fffbfa",
       "$description": "primary-foreground"
     },
     "boxshadow": {
       "$type": "color",
-      "$value": "#0A0301",
+      "$value": "#140601",
       "$description": "boxshadow"
     },
     "positive": {
@@ -143,12 +143,12 @@
     },
     "themegradient180": {
       "$type": "color",
-      "$value": "linear-gradient(165deg, rgba( {generationux-styles.foreground} , 1),  rgba( {generationux-styles.primary} , 0.5)), rgba( {generationux-styles.card} , 1)",
+      "$value": "linear-gradient(165deg, rgba( {generationux-styles.card} , 1),  rgba( {generationux-styles.foreground} , 0.5)), rgba( {generationux-styles.primary} , 1)",
       "$description": "themegradient180"
     },
     "scrim": {
       "$type": "color",
-      "$value": "#F65C28",
+      "$value": "#fffbfa",
       "$description": "scrim"
     }
   }
